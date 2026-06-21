@@ -446,20 +446,14 @@ No és només una activitat lúdica: és una **eina de construcció didàctica**
 
 
 - MIT
-- CC BY-SA (si vols un enfocament més educatiu / compartible)
 
 
 ---
 
 # 🙌 Autor / autoria
 
-Pots afegir aquí:
-
-- autor o autora
-- centre educatiu
-- departament
-- curs acadèmic
-- projecte o convocatòria
+Dr. Francesc Pérez García 
+Institut Pompeu Fabra 
 
 Exemple:
 

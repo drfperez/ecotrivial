@@ -6,6 +6,10 @@
 
 ---
 
+🎮 **Prova'l aquí:** [Joc Ecotrivial](https://pompeu.neocities.org/jocseco/1)
+
+---
+
 ## 📚 Què és l’EcoTrivial?
 
 EcoTrivial és un **trivial educatiu interactiu** amb:

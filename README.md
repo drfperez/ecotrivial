@@ -444,12 +444,10 @@ No és només una activitat lúdica: és una **eina de construcció didàctica**
 
 # 📄 Llicència i ús
 
-Pots afegir aquí la llicència que prefereixis per al projecte.
-Per exemple:
 
 - MIT
 - CC BY-SA (si vols un enfocament més educatiu / compartible)
-- llicència pròpia del centre o del projecte
+
 
 ---
 

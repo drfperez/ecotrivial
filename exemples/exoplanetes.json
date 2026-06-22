@@ -1,0 +1,1362 @@
+{
+"schemaVersion": 3,
+"savedAt": "2026-06-22T13:32:10.841Z",
+"bank": {
+"verd": [
+{
+"id": "q_7f3b8c1a-2d4e-4f6a-8b9c-0d1e2f3a4b5c",
+"categoria": "verd",
+"pregunta": "Quin mètode s'utilitza per detectar exoplanetes mesurant la disminució de la llum d'una estrella?",
+"opcions": [
+{
+"id": "opt_1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+"text": "Mètode de la velocitat radial"
+},
+{
+"id": "opt_2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+"text": "Mètode del trànsit"
+},
+{
+"id": "opt_3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+"text": "Microlent gravitacional"
+},
+{
+"id": "opt_4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+"text": "Imatge directa"
+}
+],
+"correctOptionId": "opt_2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+"explicacio": "El mètode del trànsit detecta la caiguda de lluentor en passar l'exoplaneta davant de l'estrella.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_8g4c9d2e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+"categoria": "verd",
+"pregunta": "Com es diu l'exoplaneta rocós més proper al Sistema Solar?",
+"opcions": [
+{
+"id": "opt_5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+"text": "Pròxima Centauri b"
+},
+{
+"id": "opt_6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+"text": "TRAPPIST-1e"
+},
+{
+"id": "opt_8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+"text": "Gliese 581g"
+}
+],
+"correctOptionId": "opt_5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+"explicacio": "Pròxima Centauri b és l'exoplaneta més proper, a 4,2 anys llum.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_9i5d0e3f-4g5h-6i7j-8k9l-0m1n2o3p4q5r",
+"categoria": "verd",
+"pregunta": "Què és un exoplaneta de tipus 'Júpiter calent'?",
+"opcions": [
+{
+"id": "opt_9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+"text": "Un gegant gasós molt proper a la seva estrella"
+},
+{
+"id": "opt_0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+"text": "Un planeta rocós amb altes temperatures"
+},
+{
+"id": "opt_1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+"text": "Un planeta gelat en el cinturó d'asteroides"
+},
+{
+"id": "opt_2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+"text": "Un planeta amb aigua líquida a la superfície"
+}
+],
+"correctOptionId": "opt_9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+"explicacio": "Són gegants gasosos que orbiten molt a prop, amb períodes orbitals de dies.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_0m6e1f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"categoria": "verd",
+"pregunta": "Quina és la zona d'habitabilitat d'una estrella?",
+"opcions": [
+{
+"id": "opt_3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+"text": "La regió on pot existir aigua líquida"
+},
+{
+"id": "opt_4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+"text": "L'òrbita més propera a l'estrella"
+},
+{
+"id": "opt_5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+"text": "La regió on no hi ha radiació"
+},
+{
+"id": "opt_6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+"text": "La regió on els planetes són de roca"
+}
+],
+"correctOptionId": "opt_3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+"explicacio": "És la distància on la temperatura permet l'existència d'aigua en estat líquid.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_1n7f2g5h-6i7j-8k9l-0m1n-2o3p4q5r6s7t",
+"categoria": "verd",
+"pregunta": "Quin telescopi espacial ha descobert més exoplanetes?",
+"opcions": [
+{
+"id": "opt_7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+"text": "Telescopi Espacial Kepler"
+},
+{
+"id": "opt_8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+"text": "Telescopi Espacial Hubble"
+},
+{
+"id": "opt_9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+"text": "Telescopi Espacial James Webb"
+},
+{
+"id": "opt_0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+"text": "Telescopi Espacial Spitzer"
+}
+],
+"correctOptionId": "opt_7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+"explicacio": "Kepler ha descobert més de 2.600 exoplanetes confirmats.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_2o8g3h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8u",
+"categoria": "verd",
+"pregunta": "Què és un exoplaneta de tipus 'Terra superhabitada'?",
+"opcions": [
+{
+"id": "opt_1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+"text": "Un planeta rocós més gran que la Terra amb condicions òptimes per a la vida"
+},
+{
+"id": "opt_2v3w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+"text": "Un planeta amb dues llunes"
+},
+{
+"id": "opt_3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+"text": "Un planeta amb una atmosfera de metà"
+},
+{
+"id": "opt_4x5y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+"text": "Un planeta amb gel a la superfície"
+}
+],
+"correctOptionId": "opt_1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+"explicacio": "Són planetes rocosos amb condicions similars o millors que la Terra per a la vida.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_3p9h4i7j-8k9l-0m1n-2o3p-4q5r6s7t8u9v",
+"categoria": "verd",
+"pregunta": "Com es diu l'exoplaneta amb més confirmacions d'atmosfera?",
+"opcions": [
+{
+"id": "opt_5y6z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+"text": "WASP-39b"
+},
+{
+"id": "opt_6z7a8b9c-0d1e-2f3g-4h5i-6j7k8l9m0n1o",
+"text": "Kepler-186f"
+},
+{
+"id": "opt_7a8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+"text": "TRAPPIST-1d"
+},
+{
+"id": "opt_8b9c0d1e-2f3g-4h5i-6j7k-8l9m0n1o2p3q",
+"text": "Proxima Centauri c"
+}
+],
+"correctOptionId": "opt_5y6z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+"explicacio": "WASP-39b té una atmosfera amb diòxid de carboni i aigua, estudiada pel James Webb.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_4q0i5j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"categoria": "verd",
+"pregunta": "Què és la tècnica de la velocitat radial per detectar exoplanetes?",
+"opcions": [
+{
+"id": "opt_9c0d1e2f-3g4h-5i6j-7k8l-9m0n1o2p3q4r",
+"text": "Mesura els moviments de l'estrella causats per la gravetat del planeta"
+},
+{
+"id": "opt_0d1e2f3g-4h5i-6j7k-8l9m-0n1o2p3q4r5s",
+"text": "Mesura la llum emesa pel planeta"
+},
+{
+"id": "opt_1e2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
+"text": "Mesura l'ombra del planeta"
+},
+{
+"id": "opt_2f3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+"text": "Mesura la temperatura del planeta"
+}
+],
+"correctOptionId": "opt_9c0d1e2f-3g4h-5i6j-7k8l-9m0n1o2p3q4r",
+"explicacio": "Detecta les oscil·lacions de l'estrella per l'atracció gravitacional del planeta.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+}
+],
+"blau": [
+{
+"id": "q_5r1j6k9l-0m1n-2o3p-4q5r-6s7t8u9v0w1x",
+"categoria": "blau",
+"pregunta": "Quin exoplaneta podria tenir aigua líquida a la superfície?",
+"opcions": [
+{
+"id": "opt_3g4h5i6j-7k8l-9m0n-1o2p-3q4r5s6t7u8v",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_4h5i6j7k-8l9m-0n1o-2p3q-4r5s6t7u8v9w",
+"text": "TRAPPIST-1e"
+},
+{
+"id": "opt_5i6j7k8l-9m0n-1o2p-3q4r-5s6t7u8v9w0x",
+"text": "WASP-12b"
+},
+{
+"id": "opt_6j7k8l9m-0n1o-2p3q-4r5s-6t7u8v9w0x1y",
+"text": "HD 209458b"
+}
+],
+"correctOptionId": "opt_4h5i6j7k-8l9m-0n1o-2p3q-4r5s6t7u8v9w",
+"explicacio": "TRAPPIST-1e es troba a la zona habitable i podria tenir aigua líquida.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_6s2k7l0m-1n2o-3p4q-5r6s-7t8u9v0w1x2y",
+"categoria": "blau",
+"pregunta": "Per què els exoplanetes gegants gasosos no poden albergar vida com la coneixem?",
+"opcions": [
+{
+"id": "opt_7k8l9m0n-1o2p-3q4r-5s6t-7u8v9w0x1y2z",
+"text": "Perquè no tenen superfície sòlida"
+},
+{
+"id": "opt_8l9m0n1o-2p3q-4r5s-6t7u-8v9w0x1y2z3a",
+"text": "Perquè són massa freds"
+},
+{
+"id": "opt_9m0n1o2p-3q4r-5s6t-7u8v-9w0x1y2z3a4b",
+"text": "Perquè no tenen atmosfera"
+},
+{
+"id": "opt_0n1o2p3q-4r5s-6t7u-8v9w-0x1y2z3a4b5c",
+"text": "Perquè tenen una gravetat feble"
+}
+],
+"correctOptionId": "opt_7k8l9m0n-1o2p-3q4r-5s6t-7u8v9w0x1y2z",
+"explicacio": "Els gegants gasosos no tenen una superfície sòlida on es pugui desenvolupar vida.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_7t3l8m1n-2o3p-4q5r-6s7t-8u9v0w1x2y3z",
+"categoria": "blau",
+"pregunta": "Com es diu el planeta més massiu descobert en el sistema TRAPPIST-1?",
+"opcions": [
+{
+"id": "opt_1o2p3q4r-5s6t-7u8v-9w0x-1y2z3a4b5c6d",
+"text": "TRAPPIST-1h"
+},
+{
+"id": "opt_2p3q4r5s-6t7u-8v9w-0x1y-2z3a4b5c6d7e",
+"text": "TRAPPIST-1g"
+},
+{
+"id": "opt_3q4r5s6t-7u8v-9w0x-1y2z-3a4b5c6d7e8f",
+"text": "TRAPPIST-1f"
+},
+{
+"id": "opt_4r5s6t7u-8v9w-0x1y-2z3a-4b5c6d7e8f9g",
+"text": "TRAPPIST-1e"
+}
+],
+"correctOptionId": "opt_2p3q4r5s-6t7u-8v9w-0x1y-2z3a4b5c6d7e",
+"explicacio": "TRAPPIST-1g és el més massiu del sistema, amb 1,13 masses terrestres.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_8u4m9n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"categoria": "blau",
+"pregunta": "Què és un exoplaneta de tipus 'Super-Terra'?",
+"opcions": [
+{
+"id": "opt_5s6t7u8v-9w0x-1y2z-3a4b-5c6d7e8f9g0h",
+"text": "Un planeta rocós amb massa superior a la Terra i inferior a Neptú"
+},
+{
+"id": "opt_6t7u8v9w-0x1y-2z3a-4b5c-6d7e8f9g0h1i",
+"text": "Un planeta amb una atmosfera densa"
+},
+{
+"id": "opt_7u8v9w0x-1y2z-3a4b-5c6d-7e8f9g0h1i2j",
+"text": "Un planeta amb aigua líquida"
+},
+{
+"id": "opt_8v9w0x1y-2z3a-4b5c-6d7e-8f9g0h1i2j3k",
+"text": "Un planeta amb dues llunes"
+}
+],
+"correctOptionId": "opt_5s6t7u8v-9w0x-1y2z-3a4b-5c6d7e8f9g0h",
+"explicacio": "Les Super-Terres són planetes rocosos de fins a 10 masses terrestres.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_9v5n0o3p-4q5r-6s7t-8u9v-0w1x2y3z4a5b",
+"categoria": "blau",
+"pregunta": "Per què l'estudi d'exoplanetes és important per a l'astronomia?",
+"opcions": [
+{
+"id": "opt_9w0x1y2z-3a4b-5c6d-7e8f-9g0h1i2j3k4l",
+"text": "Per entendre la formació i evolució dels sistemes planetaris"
+},
+{
+"id": "opt_0x1y2z3a-4b5c-6d7e-8f9g-0h1i2j3k4l5m",
+"text": "Per trobar nous asteroides"
+},
+{
+"id": "opt_1y2z3a4b-5c6d-7e8f-9g0h-1i2j3k4l5m6n",
+"text": "Per estudiar el Sol"
+},
+{
+"id": "opt_2z3a4b5c-6d7e-8f9g-0h1i-2j3k4l5m6n7o",
+"text": "Per mesurar la llum de les estrelles"
+}
+],
+"correctOptionId": "opt_9w0x1y2z-3a4b-5c6d-7e8f-9g0h1i2j3k4l",
+"explicacio": "L'estudi d'exoplanetes ens ajuda a comprendre com es formen els sistemes planetaris.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_0w6o1p4q-5r6s-7t8u-9v0w-1x2y3z4a5b6c",
+"categoria": "blau",
+"pregunta": "Quin exoplaneta va ser el primer descobert en òrbita al voltant d'una estrella semblant al Sol?",
+"opcions": [
+{
+"id": "opt_3a4b5c6d-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+"text": "51 Pegasi b"
+},
+{
+"id": "opt_4b5c6d7e-8f9g-0h1i-2j3k-4l5m6n7o8p9q",
+"text": "Kepler-186f"
+},
+{
+"id": "opt_5c6d7e8f-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+"text": "HD 209458b"
+},
+{
+"id": "opt_6d7e8f9g-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+"text": "Gliese 581b"
+}
+],
+"correctOptionId": "opt_3a4b5c6d-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+"explicacio": "51 Pegasi b, descobert el 1995, va ser el primer exoplaneta al voltant d'una estrella similar al Sol.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_1x7p2q5r-6s7t-8u9v-0w1x-2y3z4a5b6c7d",
+"categoria": "blau",
+"pregunta": "Com es diu l'exoplaneta que orbita al voltant de dues estrelles?",
+"opcions": [
+{
+"id": "opt_7e8f9g0h-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+"text": "Exoplaneta circumbinari"
+},
+{
+"id": "opt_8f9g0h1i-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+"text": "Exoplaneta troià"
+},
+{
+"id": "opt_9g0h1i2j-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+"text": "Exoplaneta errant"
+},
+{
+"id": "opt_0h1i2j3k-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+"text": "Exoplaneta capturat"
+}
+],
+"correctOptionId": "opt_7e8f9g0h-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+"explicacio": "Els exoplanetes circumbinaris orbiten al voltant de dues estrelles.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_2y8q3r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"categoria": "blau",
+"pregunta": "Què és un exoplaneta errant?",
+"opcions": [
+{
+"id": "opt_1i2j3k4l-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+"text": "Un planeta que no orbita cap estrella"
+},
+{
+"id": "opt_2j3k4l5m-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+"text": "Un planeta que orbita dues estrelles"
+},
+{
+"id": "opt_3k4l5m6n-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+"text": "Un planeta amb òrbita excèntrica"
+},
+{
+"id": "opt_4l5m6n7o-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+"text": "Un planeta amb una lluna"
+}
+],
+"correctOptionId": "opt_1i2j3k4l-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+"explicacio": "Els planetes errants vaguen per l'espai lliure, sense lligam gravitacional a cap estrella.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+}
+],
+"taronja": [
+{
+"id": "q_3z9s4t7u-8v9w-0x1y-2z3a-4b5c6d7e8f9g",
+"categoria": "taronja",
+"pregunta": "Com es diu la missió espacial que busca exoplanetes semblants a la Terra?",
+"opcions": [
+{
+"id": "opt_5m6n7o8p-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+"text": "TESS (Transiting Exoplanet Survey Satellite)"
+},
+{
+"id": "opt_6n7o8p9q-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+"text": "Kepler"
+},
+{
+"id": "opt_7o8p9q0r-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+"text": "James Webb"
+},
+{
+"id": "opt_8p9q0r1s-2t3u-4v5w-6x7y-8z9a0b1c2d3e",
+"text": "Hubble"
+}
+],
+"correctOptionId": "opt_5m6n7o8p-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+"explicacio": "TESS busca exoplanetes en trànsit al voltant de les estrelles més brillants.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_4a0t5u8v-9w0x-1y2z-3a4b-5c6d7e8f9g0h",
+"categoria": "taronja",
+"pregunta": "Quin és l'objectiu principal del telescopi James Webb en l'estudi d'exoplanetes?",
+"opcions": [
+{
+"id": "opt_9q0r1s2t-3u4v-5w6x-7y8z-9a0b1c2d3e4f",
+"text": "Analitzar les seves atmosferes"
+},
+{
+"id": "opt_0r1s2t3u-4v5w-6x7y-8z9a-0b1c2d3e4f5g",
+"text": "Mesurar la seva distància"
+},
+{
+"id": "opt_1s2t3u4v-5w6x-7y8z-9a0b-1c2d3e4f5g6h",
+"text": "Calcular la seva massa"
+},
+{
+"id": "opt_2t3u4v5w-6x7y-8z9a-0b1c-2d3e4f5g6h7i",
+"text": "Determinar la seva edat"
+}
+],
+"correctOptionId": "opt_9q0r1s2t-3u4v-5w6x-7y8z-9a0b1c2d3e4f",
+"explicacio": "El James Webb pot descompondre la llum per estudiar la composició atmosfèrica.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_5b1u6v9w-0x1y-2z3a-4b5c-6d7e8f9g0h1i",
+"categoria": "taronja",
+"pregunta": "Què és el mètode de la microlent gravitacional?",
+"opcions": [
+{
+"id": "opt_3u4v5w6x-7y8z-9a0b-1c2d-3e4f5g6h7i8j",
+"text": "Detecta planetes per la deformació de la llum d'una estrella de fons"
+},
+{
+"id": "opt_4v5w6x7y-8z9a-0b1c-2d3e-4f5g6h7i8j9k",
+"text": "Mesura les variacions de velocitat de l'estrella"
+},
+{
+"id": "opt_5w6x7y8z-9a0b-1c2d-3e4f-5g6h7i8j9k0l",
+"text": "Observa directament el planeta"
+},
+{
+"id": "opt_6x7y8z9a-0b1c-2d3e-4f5g-6h7i8j9k0l1m",
+"text": "Mesura la temperatura del planeta"
+}
+],
+"correctOptionId": "opt_3u4v5w6x-7y8z-9a0b-1c2d-3e4f5g6h7i8j",
+"explicacio": "La microlent detecta planetes per l'efecte de lent gravitacional sobre estrelles llunyanes.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_6c2v7w0x-1y2z-3a4b-5c6d-7e8f9g0h1i2j",
+"categoria": "taronja",
+"pregunta": "Quina és la zona d'habitabilitat d'una estrella nana vermella?",
+"opcions": [
+{
+"id": "opt_7y8z9a0b-1c2d-3e4f-5g6h-7i8j9k0l1m2n",
+"text": "Més propera a l'estrella que en el cas del Sol"
+},
+{
+"id": "opt_8z9a0b1c-2d3e-4f5g-6h7i-8j9k0l1m2n3o",
+"text": "Més allunyada que en el cas del Sol"
+},
+{
+"id": "opt_9a0b1c2d-3e4f-5g6h-7i8j-9k0l1m2n3o4p",
+"text": "A la mateixa distància que la Terra"
+},
+{
+"id": "opt_0b1c2d3e-4f5g-6h7i-8j9k-0l1m2n3o4p5q",
+"text": "No existeix"
+}
+],
+"correctOptionId": "opt_7y8z9a0b-1c2d-3e4f-5g6h-7i8j9k0l1m2n",
+"explicacio": "Les nanes vermelles són més fredes, per tant la zona habitable és més propera.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_7d3w8x1y-2z3a-4b5c-6d7e-8f9g0h1i2j3k",
+"categoria": "taronja",
+"pregunta": "Què és un exoplaneta de tipus 'Terra oceà'?",
+"opcions": [
+{
+"id": "opt_1c2d3e4f-5g6h-7i8j-9k0l-1m2n3o4p5q6r",
+"text": "Un planeta completament cobert per aigua"
+},
+{
+"id": "opt_2d3e4f5g-6h7i-8j9k-0l1m-2n3o4p5q6r7s",
+"text": "Un planeta amb gel a la superfície"
+},
+{
+"id": "opt_3e4f5g6h-7i8j-9k0l-1m2n-3o4p5q6r7s8t",
+"text": "Un planeta amb una atmosfera d'oxigen"
+},
+{
+"id": "opt_4f5g6h7i-8j9k-0l1m-2n3o-4p5q6r7s8t9u",
+"text": "Un planeta amb volcans actius"
+}
+],
+"correctOptionId": "opt_1c2d3e4f-5g6h-7i8j-9k0l-1m2n3o4p5q6r",
+"explicacio": "Les Terres oceà podrien ser planetes completament coberts per aigua líquida.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_8e4x9y2z-3a4b-5c6d-7e8f-9g0h1i2j3k4l",
+"categoria": "taronja",
+"pregunta": "Com es diu la missió europea que estudiarà exoplanetes?",
+"opcions": [
+{
+"id": "opt_5g6h7i8j-9k0l-1m2n-3o4p-5q6r7s8t9u0v",
+"text": "CHEOPS"
+},
+{
+"id": "opt_6h7i8j9k-0l1m-2n3o-4p5q-6r7s8t9u0v1w",
+"text": "PLATO"
+},
+{
+"id": "opt_7i8j9k0l-1m2n-3o4p-5q6r-7s8t9u0v1w2x",
+"text": "ARIEL"
+},
+{
+"id": "opt_8j9k0l1m-2n3o-4p5q-6r7s-8t9u0v1w2x3y",
+"text": "Totes les anteriors"
+}
+],
+"correctOptionId": "opt_8j9k0l1m-2n3o-4p5q-6r7s-8t9u0v1w2x3y",
+"explicacio": "Totes són missions europees per a l'estudi d'exoplanetes.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_9f5y0z3a-4b5c-6d7e-8f9g-0h1i2j3k4l5m",
+"categoria": "taronja",
+"pregunta": "Quin exoplaneta va ser el primer a ser fotografiat directament?",
+"opcions": [
+{
+"id": "opt_9k0l1m2n-3o4p-5q6r-7s8t-9u0v1w2x3y4z",
+"text": "2M1207b"
+},
+{
+"id": "opt_0l1m2n3o-4p5q-6r7s-8t9u-0v1w2x3y4z5a",
+"text": "Fomalhaut b"
+},
+{
+"id": "opt_1m2n3o4p-5q6r-7s8t-9u0v-1w2x3y4z5a6b",
+"text": "HR 8799b"
+},
+{
+"id": "opt_2n3o4p5q-6r7s-8t9u-0v1w-2x3y4z5a6b7c",
+"text": "Beta Pictoris b"
+}
+],
+"correctOptionId": "opt_9k0l1m2n-3o4p-5q6r-7s8t-9u0v1w2x3y4z",
+"explicacio": "2M1207b va ser el primer exoplaneta fotografiat directament el 2004.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_0g6z1a4b-5c6d-7e8f-9g0h-1i2j3k4l5m6n",
+"categoria": "taronja",
+"pregunta": "Per què els exoplanetes poden tenir òrbites excèntriques?",
+"opcions": [
+{
+"id": "opt_3o4p5q6r-7s8t-9u0v-1w2x-3y4z5a6b7c8d",
+"text": "Per interaccions gravitacionals amb altres planetes"
+},
+{
+"id": "opt_4p5q6r7s-8t9u-0v1w-2x3y-4z5a6b7c8d9e",
+"text": "Per la rotació de l'estrella"
+},
+{
+"id": "opt_5q6r7s8t-9u0v-1w2x-3y4z-5a6b7c8d9e0f",
+"text": "Per la presència de camps magnètics"
+},
+{
+"id": "opt_6r7s8t9u-0v1w-2x3y-4z5a-6b7c8d9e0f1g",
+"text": "Per la temperatura de l'estrella"
+}
+],
+"correctOptionId": "opt_3o4p5q6r-7s8t-9u0v-1w2x-3y4z5a6b7c8d",
+"explicacio": "Les interaccions gravitacionals poden deformar l'òrbita fent-la excèntrica.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+}
+],
+"vermell": [
+{
+"id": "q_1h7a2b5c-6d7e-8f9g-0h1i-2j3k4l5m6n7o",
+"categoria": "vermell",
+"pregunta": "Quin any es va descobrir el primer exoplaneta confirmat?",
+"opcions": [
+{
+"id": "opt_7s8t9u0v-1w2x-3y4z-5a6b-7c8d9e0f1g2h",
+"text": "1992"
+},
+{
+"id": "opt_8t9u0v1w-2x3y-4z5a-6b7c-8d9e0f1g2h3i",
+"text": "1995"
+},
+{
+"id": "opt_9u0v1w2x-3y4z-5a6b-7c8d-9e0f1g2h3i4j",
+"text": "2000"
+},
+{
+"id": "opt_0v1w2x3y-4z5a-6b7c-8d9e-0f1g2h3i4j5k",
+"text": "1988"
+}
+],
+"correctOptionId": "opt_8t9u0v1w-2x3y-4z5a-6b7c-8d9e0f1g2h3i",
+"explicacio": "El primer exoplaneta confirmat al voltant d'una estrella semblant al Sol es va descobrir el 1995.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_2i8b3c6d-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+"categoria": "vermell",
+"pregunta": "Com es diu el primer exoplaneta confirmat en òrbita al voltant d'una estrella de tipus solar?",
+"opcions": [
+{
+"id": "opt_1w2x3y4z-5a6b-7c8d-9e0f-1g2h3i4j5k6l",
+"text": "51 Pegasi b"
+},
+{
+"id": "opt_2x3y4z5a-6b7c-8d9e-0f1g-2h3i4j5k6l7m",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_3y4z5a6b-7c8d-9e0f-1g2h-3i4j5k6l7m8n",
+"text": "HD 209458b"
+},
+{
+"id": "opt_4z5a6b7c-8d9e-0f1g-2h3i-4j5k6l7m8n9o",
+"text": "Gliese 581b"
+}
+],
+"correctOptionId": "opt_1w2x3y4z-5a6b-7c8d-9e0f-1g2h3i4j5k6l",
+"explicacio": "51 Pegasi b va ser el primer exoplaneta descobert al voltant d'una estrella similar al Sol.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_3j9c4d7e-8f9g-0h1i-2j3k-4l5m6n7o8p9q",
+"categoria": "vermell",
+"pregunta": "Quin telescopi va descobrir la majoria dels exoplanetes coneguts?",
+"opcions": [
+{
+"id": "opt_5a6b7c8d-9e0f-1g2h-3i4j-5k6l7m8n9o0p",
+"text": "Telescopi Espacial Kepler"
+},
+{
+"id": "opt_6b7c8d9e-0f1g-2h3i-4j5k-6l7m8n9o0p1q",
+"text": "Telescopi Espacial Hubble"
+},
+{
+"id": "opt_7c8d9e0f-1g2h-3i4j-5k6l-7m8n9o0p1q2r",
+"text": "Telescopi Espacial James Webb"
+},
+{
+"id": "opt_8d9e0f1g-2h3i-4j5k-6l7m-8n9o0p1q2r3s",
+"text": "Telescopi Espacial Spitzer"
+}
+],
+"correctOptionId": "opt_5a6b7c8d-9e0f-1g2h-3i4j-5k6l7m8n9o0p",
+"explicacio": "Kepler ha descobert més de 2.600 exoplanetes confirmats.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_4k0d5e8f-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+"categoria": "vermell",
+"pregunta": "Com es diu l'exoplaneta amb l'òrbita més curta coneguda?",
+"opcions": [
+{
+"id": "opt_9e0f1g2h-3i4j-5k6l-7m8n-9o0p1q2r3s4t",
+"text": "K2-137b"
+},
+{
+"id": "opt_0f1g2h3i-4j5k-6l7m-8n9o-0p1q2r3s4t5u",
+"text": "WASP-12b"
+},
+{
+"id": "opt_1g2h3i4j-5k6l-7m8n-9o0p-1q2r3s4t5u6v",
+"text": "Kepler-78b"
+},
+{
+"id": "opt_2h3i4j5k-6l7m-8n9o-0p1q-2r3s4t5u6v7w",
+"text": "HD 209458b"
+}
+],
+"correctOptionId": "opt_9e0f1g2h-3i4j-5k6l-7m8n-9o0p1q2r3s4t",
+"explicacio": "K2-137b té un període orbital de només 4,3 hores.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_5l1e6f9g-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+"categoria": "vermell",
+"pregunta": "Què és un exoplaneta de tipus 'Mini-Neptú'?",
+"opcions": [
+{
+"id": "opt_3i4j5k6l-7m8n-9o0p-1q2r-3s4t5u6v7w8x",
+"text": "Un planeta amb una atmosfera densa i nucli rocós"
+},
+{
+"id": "opt_4j5k6l7m-8n9o-0p1q-2r3s-4t5u6v7w8x9y",
+"text": "Un planeta rocós sense atmosfera"
+},
+{
+"id": "opt_5k6l7m8n-9o0p-1q2r-3s4t-5u6v7w8x9y0z",
+"text": "Un planeta de gel"
+},
+{
+"id": "opt_6l7m8n9o-0p1q-2r3s-4t5u-6v7w8x9y0z1a",
+"text": "Un planeta amb anells"
+}
+],
+"correctOptionId": "opt_3i4j5k6l-7m8n-9o0p-1q2r-3s4t5u6v7w8x",
+"explicacio": "Els Mini-Neptú tenen una atmosfera espessa i un nucli rocós o gelat.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_6m2f7g0h-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+"categoria": "vermell",
+"pregunta": "Com es diu l'exoplaneta que orbita al voltant de l'estrella més propera al Sol?",
+"opcions": [
+{
+"id": "opt_7m8n9o0p-1q2r-3s4t-5u6v-7w8x9y0z1a2b",
+"text": "Pròxima Centauri b"
+},
+{
+"id": "opt_8n9o0p1q-2r3s-4t5u-6v7w-8x9y0z1a2b3c",
+"text": "Alpha Centauri Bb"
+},
+{
+"id": "opt_9o0p1q2r-3s4t-5u6v-7w8x-9y0z1a2b3c4d",
+"text": "Barnard's Star b"
+},
+{
+"id": "opt_0p1q2r3s-4t5u-6v7w-8x9y-0z1a2b3c4d5e",
+"text": "Wolf 359 b"
+}
+],
+"correctOptionId": "opt_7m8n9o0p-1q2r-3s4t-5u6v-7w8x9y0z1a2b",
+"explicacio": "Pròxima Centauri b és l'exoplaneta més proper a la Terra.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.717Z",
+"updatedAt": "2026-06-22T13:32:02.717Z"
+},
+{
+"id": "q_7n3g8h1i-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+"categoria": "vermell",
+"pregunta": "Quin és l'exoplaneta més antic conegut?",
+"opcions": [
+{
+"id": "opt_1q2r3s4t-5u6v-7w8x-9y0z-1a2b3c4d5e6f",
+"text": "PSR B1620-26 b"
+},
+{
+"id": "opt_2r3s4t5u-6v7w-8x9y-0z1a-2b3c4d5e6f7g",
+"text": "Kepler-444 b"
+},
+{
+"id": "opt_3s4t5u6v-7w8x-9y0z-1a2b-3c4d5e6f7g8h",
+"text": "HD 219134 b"
+},
+{
+"id": "opt_4t5u6v7w-8x9y-0z1a-2b3c-4d5e6f7g8h9i",
+"text": "Gliese 581 b"
+}
+],
+"correctOptionId": "opt_1q2r3s4t-5u6v-7w8x-9y0z-1a2b3c4d5e6f",
+"explicacio": "PSR B1620-26 b té uns 12.7 mil milions d'anys.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+},
+{
+"id": "q_8o4h9i2j-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+"categoria": "vermell",
+"pregunta": "Com es diu la missió que ha descobert planetes al voltant de nanes vermelles?",
+"opcions": [
+{
+"id": "opt_5u6v7w8x-9y0z-1a2b-3c4d-5e6f7g8h9i0j",
+"text": "MEarth"
+},
+{
+"id": "opt_6v7w8x9y-0z1a-2b3c-4d5e-6f7g8h9i0j1k",
+"text": "Kepler"
+},
+{
+"id": "opt_7w8x9y0z-1a2b-3c4d-5e6f-7g8h9i0j1k2l",
+"text": "TESS"
+},
+{
+"id": "opt_8x9y0z1a-2b3c-4d5e-6f7g-8h9i0j1k2l3m",
+"text": "CHEOPS"
+}
+],
+"correctOptionId": "opt_5u6v7w8x-9y0z-1a2b-3c4d-5e6f7g8h9i0j",
+"explicacio": "MEarth és una missió específica per buscar exoplanetes al voltant de nanes vermelles.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+}
+],
+"groc": [
+{
+"id": "q_9p5i0k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"categoria": "groc",
+"pregunta": "Què són els exoplanetes de tipus 'Terra de lava'?",
+"opcions": [
+{
+"id": "opt_9y0z1a2b-3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+"text": "Planetes amb superfícies de lava a causa de la proximitat a l'estrella"
+},
+{
+"id": "opt_0z1a2b3c-4d5e-6f7g-8h9i-0j1k2l3m4n5o",
+"text": "Planetes amb volcans actius"
+},
+{
+"id": "opt_1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+"text": "Planetes amb atmosfera de diòxid de carboni"
+},
+{
+"id": "opt_2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+"text": "Planetes amb aigua líquida"
+}
+],
+"correctOptionId": "opt_9y0z1a2b-3c4d-5e6f-7g8h-9i0j1k2l3m4n",
+"explicacio": "Són planetes extremadament calents amb superfícies de lava.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_0q6j1l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"categoria": "groc",
+"pregunta": "Per què és important l'estudi de l'atmosfera dels exoplanetes?",
+"opcions": [
+{
+"id": "opt_3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+"text": "Per determinar la seva habitabilitat i composició química"
+},
+{
+"id": "opt_4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+"text": "Per mesurar la seva mida"
+},
+{
+"id": "opt_5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+"text": "Per calcular la seva distància"
+},
+{
+"id": "opt_6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+"text": "Per determinar la seva edat"
+}
+],
+"correctOptionId": "opt_3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+"explicacio": "L'atmosfera pot revelar la presència de components com aigua, metà o oxigen.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_1r7k2m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"categoria": "groc",
+"pregunta": "Què és un exoplaneta de tipus 'Món de diamant'?",
+"opcions": [
+{
+"id": "opt_7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+"text": "Un planeta amb una composició rica en carboni i diamants"
+},
+{
+"id": "opt_8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+"text": "Un planeta amb una superfície de gel"
+},
+{
+"id": "opt_9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+"text": "Un planeta amb una atmosfera de nitrogen"
+},
+{
+"id": "opt_0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+"text": "Un planeta amb volcans de diamants"
+}
+],
+"correctOptionId": "opt_7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+"explicacio": "Aquests planetes poden tenir diamants a la superfície a causa de l'alt contingut en carboni.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.720Z",
+"updatedAt": "2026-06-22T13:32:02.720Z"
+},
+{
+"id": "q_2s8l3n6o-7p8q-9r0s-1t2u-3v4w5x6y7z8a",
+"categoria": "groc",
+"pregunta": "Com es diu l'exoplaneta més similar a la Terra en mida i òrbita?",
+"opcions": [
+{
+"id": "opt_1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+"text": "TRAPPIST-1e"
+},
+{
+"id": "opt_3m4n5o6p-7q8r-9s0t-1u2v-3w4x5y6z7a8b",
+"text": "Kepler-186f"
+},
+{
+"id": "opt_4n5o6p7q-8r9s-0t1u-2v3w-4x5y6z7a8b9c",
+"text": "Proxima Centauri b"
+}
+],
+"correctOptionId": "opt_1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+"explicacio": "Kepler-452b és el més similar en mida i òrbita a la Terra.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_3t9m4o7p-8q9r-0s1t-2u3v-4w5x6y7z8a9b",
+"categoria": "groc",
+"pregunta": "Per què alguns exoplanetes tenen atmosferes de metà?",
+"opcions": [
+{
+"id": "opt_5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+"text": "Per la presència de vida o processos geològics"
+},
+{
+"id": "opt_6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+"text": "Per la manca d'oxigen"
+},
+{
+"id": "opt_7q8r9s0t-1u2v-3w4x-5y6z-7a8b9c0d1e2f",
+"text": "Per la presència de gel"
+},
+{
+"id": "opt_8r9s0t1u-2v3w-4x5y-6z7a-8b9c0d1e2f3g",
+"text": "Per la proximitat a l'estrella"
+}
+],
+"correctOptionId": "opt_5o6p7q8r-9s0t-1u2v-3w4x-5y6z7a8b9c0d",
+"explicacio": "El metà pot ser produït per processos biològics o geològics.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_4u0n5p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"categoria": "groc",
+"pregunta": "Què és un exoplaneta de tipus 'Món de gel'?",
+"opcions": [
+{
+"id": "opt_9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+"text": "Un planeta amb una superfície coberta de gel"
+},
+{
+"id": "opt_0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+"text": "Un planeta amb una atmosfera congelada"
+},
+{
+"id": "opt_1u2v3w4x-5y6z-7a8b-9c0d-1e2f3g4h5i6j",
+"text": "Un planeta amb oceans de gel"
+},
+{
+"id": "opt_2v3w4x5y-6z7a-8b9c-0d1e-2f3g4h5i6j7k",
+"text": "Un planeta amb gel d'aigua i diòxid de carboni"
+}
+],
+"correctOptionId": "opt_9s0t1u2v-3w4x-5y6z-7a8b-9c0d1e2f3g4h",
+"explicacio": "Són planetes amb superfícies de gel, com Europa o Encèlad.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_5v1o6q9r-0s1t-2u3v-4w5x-6y7z8a9b0c1d",
+"categoria": "groc",
+"pregunta": "Com es diu l'exoplaneta amb la major massa coneguda?",
+"opcions": [
+{
+"id": "opt_3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+"text": "HD 100546 b"
+},
+{
+"id": "opt_4x5y6z7a-8b9c-0d1e-2f3g-4h5i6j7k8l9m",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_5y6z7a8b-9c0d-1e2f-3g4h-5i6j7k8l9m0n",
+"text": "WASP-17b"
+},
+{
+"id": "opt_6z7a8b9c-0d1e-2f3g-4h5i-6j7k8l9m0n1o",
+"text": "Gliese 581b"
+}
+],
+"correctOptionId": "opt_3w4x5y6z-7a8b-9c0d-1e2f-3g4h5i6j7k8l",
+"explicacio": "HD 100546 b podria tenir una massa 20 vegades la de Júpiter.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+},
+{
+"id": "q_6w2p7r0s-1t2u-3v4w-5x6y-7z8a9b0c1d2e",
+"categoria": "groc",
+"pregunta": "Per què és important la missió PLATO?",
+"opcions": [
+{
+"id": "opt_7a8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+"text": "Per trobar exoplanetes semblants a la Terra i estudiar la seva habitabilitat"
+},
+{
+"id": "opt_8b9c0d1e-2f3g-4h5i-6j7k-8l9m0n1o2p3q",
+"text": "Per mesurar la distància dels exoplanetes"
+},
+{
+"id": "opt_9c0d1e2f-3g4h-5i6j-7k8l-9m0n1o2p3q4r",
+"text": "Per estudiar la formació de les estrelles"
+},
+{
+"id": "opt_0d1e2f3g-4h5i-6j7k-8l9m-0n1o2p3q4r5s",
+"text": "Per mesurar la temperatura dels exoplanetes"
+}
+],
+"correctOptionId": "opt_7a8b9c0d-1e2f-3g4h-5i6j-7k8l9m0n1o2p",
+"explicacio": "PLATO buscarà planetes semblants a la Terra i analitzarà la seva habitabilitat.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+}
+],
+"lila": [
+{
+"id": "q_7x3q8s1t-2u3v-4w5x-6y7z-8a9b0c1d2e3f",
+"categoria": "lila",
+"pregunta": "Quin és l'exoplaneta més proper que podria ser habitable?",
+"opcions": [
+{
+"id": "opt_1e2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
+"text": "Pròxima Centauri b"
+},
+{
+"id": "opt_2f3g4h5i-6j7k-8l9m-0n1o-2p3q4r5s6t7u",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_3g4h5i6j-7k8l-9m0n-1o2p-3q4r5s6t7u8v",
+"text": "TRAPPIST-1e"
+},
+{
+"id": "opt_4h5i6j7k-8l9m-0n1o-2p3q-4r5s6t7u8v9w",
+"text": "Gliese 581g"
+}
+],
+"correctOptionId": "opt_1e2f3g4h-5i6j-7k8l-9m0n-1o2p3q4r5s6t",
+"explicacio": "Pròxima Centauri b està a només 4,2 anys llum i podria ser habitable.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_8y4r9t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"categoria": "lila",
+"pregunta": "Com es diu l'exoplaneta descobert pel mètode de la velocitat radial?",
+"opcions": [
+{
+"id": "opt_5i6j7k8l-9m0n-1o2p-3q4r-5s6t7u8v9w0x",
+"text": "51 Pegasi b"
+},
+{
+"id": "opt_6j7k8l9m-0n1o-2p3q-4r5s-6t7u8v9w0x1y",
+"text": "Kepler-186f"
+},
+{
+"id": "opt_7k8l9m0n-1o2p-3q4r-5s6t-7u8v9w0x1y2z",
+"text": "WASP-12b"
+},
+{
+"id": "opt_8l9m0n1o-2p3q-4r5s-6t7u-8v9w0x1y2z3a",
+"text": "TRAPPIST-1e"
+}
+],
+"correctOptionId": "opt_5i6j7k8l-9m0n-1o2p-3q4r-5s6t7u8v9w0x",
+"explicacio": "51 Pegasi b va ser descobert pel mètode de la velocitat radial.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_9z5s0u3v-4w5x-6y7z-8a9b-0c1d2e3f4g5h",
+"categoria": "lila",
+"pregunta": "Què és un exoplaneta de tipus 'Món de carboni'?",
+"opcions": [
+{
+"id": "opt_9m0n1o2p-3q4r-5s6t-7u8v-9w0x1y2z3a4b",
+"text": "Un planeta amb una composició rica en carboni"
+},
+{
+"id": "opt_0n1o2p3q-4r5s-6t7u-8v9w-0x1y2z3a4b5c",
+"text": "Un planeta amb una atmosfera de diòxid de carboni"
+},
+{
+"id": "opt_1o2p3q4r-5s6t-7u8v-9w0x-1y2z3a4b5c6d",
+"text": "Un planeta amb oceans de carboni"
+},
+{
+"id": "opt_2p3q4r5s-6t7u-8v9w-0x1y-2z3a4b5c6d7e",
+"text": "Un planeta amb diamants"
+}
+],
+"correctOptionId": "opt_9m0n1o2p-3q4r-5s6t-7u8v-9w0x1y2z3a4b",
+"explicacio": "Els mons de carboni tenen una composició dominada per carboni en lloc de silici.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_0a6t1v4w-5x6y-7z8a-9b0c-1d2e3f4g5h6i",
+"categoria": "lila",
+"pregunta": "Quin és l'exoplaneta més allunyat de la Terra descobert?",
+"opcions": [
+{
+"id": "opt_3q4r5s6t-7u8v-9w0x-1y2z-3a4b5c6d7e8f",
+"text": "SWEEPS-04b"
+},
+{
+"id": "opt_4r5s6t7u-8v9w-0x1y-2z3a-4b5c6d7e8f9g",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_5s6t7u8v-9w0x-1y2z-3a4b-5c6d7e8f9g0h",
+"text": "WASP-12b"
+},
+{
+"id": "opt_6t7u8v9w-0x1y-2z3a-4b5c-6d7e8f9g0h1i",
+"text": "TRAPPIST-1e"
+}
+],
+"correctOptionId": "opt_3q4r5s6t-7u8v-9w0x-1y2z-3a4b5c6d7e8f",
+"explicacio": "SWEEPS-04b està a uns 27.700 anys llum de distància.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_1b7u2w5x-6y7z-8a9b-0c1d-2e3f4g5h6i7j",
+"categoria": "lila",
+"pregunta": "Com es diu l'exoplaneta amb la temperatura més alta coneguda?",
+"opcions": [
+{
+"id": "opt_7u8v9w0x-1y2z-3a4b-5c6d-7e8f9g0h1i2j",
+"text": "KELT-9b"
+},
+{
+"id": "opt_8v9w0x1y-2z3a-4b5c-6d7e-8f9g0h1i2j3k",
+"text": "WASP-12b"
+},
+{
+"id": "opt_9w0x1y2z-3a4b-5c6d-7e8f-9g0h1i2j3k4l",
+"text": "HD 209458b"
+},
+{
+"id": "opt_0x1y2z3a-4b5c-6d7e-8f9g-0h1i2j3k4l5m",
+"text": "51 Pegasi b"
+}
+],
+"correctOptionId": "opt_7u8v9w0x-1y2z-3a4b-5c6d-7e8f9g0h1i2j",
+"explicacio": "KELT-9b té una temperatura de fins a 4.300 °C.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_2c8v3x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"categoria": "lila",
+"pregunta": "Per què alguns exoplanetes tenen òrbites retrògrades?",
+"opcions": [
+{
+"id": "opt_1y2z3a4b-5c6d-7e8f-9g0h-1i2j3k4l5m6n",
+"text": "Per interaccions gravitacionals durant la formació"
+},
+{
+"id": "opt_2z3a4b5c-6d7e-8f9g-0h1i-2j3k4l5m6n7o",
+"text": "Per la rotació de l'estrella"
+},
+{
+"id": "opt_3a4b5c6d-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+"text": "Per la presència de camps magnètics"
+},
+{
+"id": "opt_4b5c6d7e-8f9g-0h1i-2j3k-4l5m6n7o8p9q",
+"text": "Per la temperatura de l'estrella"
+}
+],
+"correctOptionId": "opt_1y2z3a4b-5c6d-7e8f-9g0h-1i2j3k4l5m6n",
+"explicacio": "Les interaccions gravitacionals poden invertir la direcció de l'òrbita.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_3d9w4y7z-8a9b-0c1d-2e3f-4g5h6i7j8k9l",
+"categoria": "lila",
+"pregunta": "Què és un exoplaneta de tipus 'Món de desert'?",
+"opcions": [
+{
+"id": "opt_5c6d7e8f-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+"text": "Un planeta sec amb poca o cap aigua"
+},
+{
+"id": "opt_6d7e8f9g-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+"text": "Un planeta amb una atmosfera de diòxid de carboni"
+},
+{
+"id": "opt_7e8f9g0h-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+"text": "Un planeta amb dunes de sorra"
+},
+{
+"id": "opt_8f9g0h1i-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+"text": "Un planeta amb gel a la superfície"
+}
+],
+"correctOptionId": "opt_5c6d7e8f-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+"explicacio": "Els mons de desert tenen poca aigua i condicions àrides.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+},
+{
+"id": "q_4e0x5z8a-9b0c-1d2e-3f4g-5h6i7j8k9l0m",
+"categoria": "lila",
+"pregunta": "Com es diu l'exoplaneta amb la densitat més baixa coneguda?",
+"opcions": [
+{
+"id": "opt_9g0h1i2j-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+"text": "WASP-17b"
+},
+{
+"id": "opt_0h1i2j3k-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+"text": "Kepler-452b"
+},
+{
+"id": "opt_1i2j3k4l-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+"text": "KELT-9b"
+},
+{
+"id": "opt_2j3k4l5m-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+"text": "HD 209458b"
+}
+],
+"correctOptionId": "opt_9g0h1i2j-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+"explicacio": "WASP-17b té una densitat similar a la de l'escuma de poliestirè.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+}
+]
+}
+}

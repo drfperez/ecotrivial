@@ -1,0 +1,1362 @@
+{
+  "schemaVersion": 3,
+  "savedAt": "2026-06-22T13:32:47.511Z",
+  "bank": {
+    "verd": [
+      {
+        "id": "q_5337c710-1f6c-4f47-8985-fb100682ad01",
+        "categoria": "verd",
+        "pregunta": "Quina varietat de tomàquet és tradicional i molt apreciada a Catalunya en ecològic?",
+        "opcions": [
+          {
+            "id": "opt_30a95385-482e-4075-a3b3-7a43d207fe90",
+            "text": "Tomàquet de penjar"
+          },
+          {
+            "id": "opt_e788168c-169f-4a55-83a2-4fbda80f7bbc",
+            "text": "Tomàquet cherry"
+          },
+          {
+            "id": "opt_59ddfb16-a597-4d8d-953b-bbcbd68d5d4c",
+            "text": "Tomàquet raïm"
+          },
+          {
+            "id": "opt_12e7ed8a-3341-4705-a7e6-2078a6a5830c",
+            "text": "Tomàquet d'amanida"
+          }
+        ],
+        "correctOptionId": "opt_30a95385-482e-4075-a3b3-7a43d207fe90",
+        "explicacio": "El tomàquet de penjar és una varietat autòctona, molt sucosa i perfecta per a l'agricultura ecològica.",
+        "order": 0,
+        "createdAt": "2026-06-22T13:32:02.708Z",
+        "updatedAt": "2026-06-22T13:32:02.708Z"
+      },
+      {
+        "id": "q_250b873f-f970-49ea-bb97-2b64da2d0408",
+        "categoria": "verd",
+        "pregunta": "Quin cultiu ecològic és típic de la comarca de les Garrigues (Lleida)?",
+        "opcions": [
+          {
+            "id": "opt_cf7bc2db-0a5e-428f-b561-6bf0b8445ebc",
+            "text": "L'olivera"
+          },
+          {
+            "id": "opt_de31c0ad-dca3-4010-8636-4bbbcd176ba0",
+            "text": "La vinya"
+          },
+          {
+            "id": "opt_f52a7b0b-00a5-4399-9e53-44d2ea00a51a",
+            "text": "L'ametller"
+          },
+          {
+            "id": "opt_3c810028-cbf2-4add-8c9f-bfc3ca2065f5",
+            "text": "El cereal"
+          }
+        ],
+        "correctOptionId": "opt_cf7bc2db-0a5e-428f-b561-6bf0b8445ebc",
+        "explicacio": "Les Garrigues són famoses per l'oli d'oliva verge extra ecològic, amb DO.",
+        "order": 1,
+        "createdAt": "2026-06-22T13:32:02.708Z",
+        "updatedAt": "2026-06-22T13:32:02.708Z"
+      },
+      {
+        "id": "q_c27727dc-a678-4e08-a8a8-4b15e7e1bf39",
+        "categoria": "verd",
+        "pregunta": "Què és un cultiu de cobertura en agricultura ecològica?",
+        "opcions": [
+          {
+            "id": "opt_c50dc800-39e5-47a3-8ab5-056c0dc7aa91",
+            "text": "Una planta que protegeix el sòl entre collites"
+          },
+          {
+            "id": "opt_75d8d7a8-f2b2-4a34-8ee0-c2a63645885d",
+            "text": "Una lona plàstica"
+          },
+          {
+            "id": "opt_288482bd-8eb7-414e-a64a-9f88b32e85a9",
+            "text": "Un hivernacle"
+          },
+          {
+            "id": "opt_d7c55502-9df6-4697-8a4a-f6d154b8c4ab",
+            "text": "Un tipus de reg"
+          }
+        ],
+        "correctOptionId": "opt_c50dc800-39e5-47a3-8ab5-056c0dc7aa91",
+        "explicacio": "Els cultius de cobertura eviten l'erosió i aporten nitrogen al sòl.",
+        "order": 2,
+        "createdAt": "2026-06-22T13:32:02.708Z",
+        "updatedAt": "2026-06-22T13:32:02.708Z"
+      },
+      {
+        "id": "q_08a68f0f-843e-4446-9c19-262e73340450",
+        "categoria": "verd",
+        "pregunta": "Quina hortalissa d'hivern es conrea sovint en ecològic a l'horta del Maresme?",
+        "opcions": [
+          {
+            "id": "opt_da0dca98-85a7-41fc-9e51-dff267cfb621",
+            "text": "La carxofa"
+          },
+          {
+            "id": "opt_c377951b-8276-459c-b4d1-5c7ceef021b3",
+            "text": "La síndria"
+          },
+          {
+            "id": "opt_f1d2abb9-4c43-4d99-b6c7-f136d16433cf",
+            "text": "El pebrot"
+          },
+          {
+            "id": "opt_e4f8c269-8032-46d5-b057-9a39e8b2324b",
+            "text": "La mongeta tendra"
+          }
+        ],
+        "correctOptionId": "opt_da0dca98-85a7-41fc-9e51-dff267cfb621",
+        "explicacio": "La carxofa és una hortalissa típica d'hivern, molt cultivada a la costa catalana.",
+        "order": 3,
+        "createdAt": "2026-06-22T13:32:02.709Z",
+        "updatedAt": "2026-06-22T13:32:02.709Z"
+      },
+      {
+        "id": "q_33baebc8-455e-4551-ae33-b768d2987537",
+        "categoria": "verd",
+        "pregunta": "Què és la rotació de cultius i per què és important?",
+        "opcions": [
+          {
+            "id": "opt_cdbf8a49-8483-4b1b-ba08-167dae01cfeb",
+            "text": "Alternar espècies per mantenir la fertilitat del sòl"
+          },
+          {
+            "id": "opt_f848bf8c-bd50-483b-bd38-b173948de0af",
+            "text": "Plantar sempre el mateix"
+          },
+          {
+            "id": "opt_feaec1e0-741e-4897-bfd5-10a15c0cee9d",
+            "text": "Utilitzar adobs químics"
+          },
+          {
+            "id": "opt_a1f40789-4fce-4436-9a49-607ab87df757",
+            "text": "Regar molt"
+          }
+        ],
+        "correctOptionId": "opt_cdbf8a49-8483-4b1b-ba08-167dae01cfeb",
+        "explicacio": "La rotació evita l'esgotament de nutrients i trenca els cicles de plagues.",
+        "order": 4,
+        "createdAt": "2026-06-22T13:32:02.709Z",
+        "updatedAt": "2026-06-22T13:32:02.709Z"
+      },
+      {
+        "id": "q_f8213077-071e-4b7f-95ea-02ae91edeea1",
+        "categoria": "verd",
+        "pregunta": "Quin és un dels principals beneficis de l'ús de fems animals en ecològic?",
+        "opcions": [
+          {
+            "id": "opt_473cedfb-747c-406f-a93d-06f2b87a8eb2",
+            "text": "Aporten matèria orgànica i nutrients"
+          },
+          {
+            "id": "opt_65c7da9b-cacb-4d0e-a9a6-9022d2c8a0da",
+            "text": "Emmagatzemen aigua"
+          },
+          {
+            "id": "opt_667e9897-e82a-4da6-8998-3fdf21638abe",
+            "text": "No fan res"
+          },
+          {
+            "id": "opt_f235ad89-4d7a-4dcf-a1e8-c2370da0c70e",
+            "text": "Eliminen les males herbes"
+          }
+        ],
+        "correctOptionId": "opt_473cedfb-747c-406f-a93d-06f2b87a8eb2",
+        "explicacio": "El fem ben compostat enriqueix el sòl de manera natural i millora la seva estructura.",
+        "order": 5,
+        "createdAt": "2026-06-22T13:32:02.709Z",
+        "updatedAt": "2026-06-22T13:32:02.709Z"
+      },
+      {
+        "id": "q_2804ea44-fb9f-49ef-9544-9c62fbbf4150",
+        "categoria": "verd",
+        "pregunta": "Què significa varietat tradicional en agricultura?",
+        "opcions": [
+          {
+            "id": "opt_0c5ff011-01dc-458c-988d-e8d0820ebbf2",
+            "text": "Varietats adaptades al territori i cultivades històricament"
+          },
+          {
+            "id": "opt_81894ff0-bde5-4dbe-8097-aefa942fa4f2",
+            "text": "Varietats modificades genèticament"
+          },
+          {
+            "id": "opt_3c73fda6-d15a-40b8-b9f6-77340006418e",
+            "text": "Varietats importades"
+          },
+          {
+            "id": "opt_9c9b5c46-dc7e-489b-b88c-ae632c59e531",
+            "text": "Varietats de flor"
+          }
+        ],
+        "correctOptionId": "opt_0c5ff011-01dc-458c-988d-e8d0820ebbf2",
+        "explicacio": "Les varietats tradicionals són riquesa genètica i cultural, molt apreciades en ecològic.",
+        "order": 6,
+        "createdAt": "2026-06-22T13:32:02.709Z",
+        "updatedAt": "2026-06-22T13:32:02.709Z"
+      },
+      {
+        "id": "q_9f4252f2-4225-408f-bbd1-ddb533dea100",
+        "categoria": "verd",
+        "pregunta": "Per què l'agricultura ecològica afavoreix la pol·linització?",
+        "opcions": [
+          {
+            "id": "opt_11959967-e8aa-4fd6-8c52-650e80547b1b",
+            "text": "Perquè no fa servir pesticides tòxics per a les abelles"
+          },
+          {
+            "id": "opt_3d0d0c0c-3ca0-4050-bcfc-083f3641cddd",
+            "text": "Perquè no té flors"
+          },
+          {
+            "id": "opt_d9639c94-982e-4f7a-afb5-d43c934370ce",
+            "text": "Perquè tot és verd"
+          },
+          {
+            "id": "opt_50eda9dc-ea98-4dc2-9576-d5289ae3097b",
+            "text": "Perquè fa molt de soroll"
+          }
+        ],
+        "correctOptionId": "opt_11959967-e8aa-4fd6-8c52-650e80547b1b",
+        "explicacio": "La manca de pesticides permet que les abelles i altres pol·linitzadors prosperin.",
+        "order": 7,
+        "createdAt": "2026-06-22T13:32:02.710Z",
+        "updatedAt": "2026-06-22T13:32:02.710Z"
+      }
+    ],
+    "blau": [
+      {
+        "id": "q_fe6970d5-e43f-4b0d-8025-af27a029d5a0",
+        "categoria": "blau",
+        "pregunta": "Per què l'agricultura ecològica contribueix a estalviar aigua?",
+        "opcions": [
+          {
+            "id": "opt_a0819d98-0364-4ac2-bcd3-f3cd62c7b3a9",
+            "text": "Perquè millora la capacitat de retenció del sòl"
+          },
+          {
+            "id": "opt_b5209233-9a16-45a3-810a-6f61eb5d8e29",
+            "text": "Perquè fa servir menys reg"
+          },
+          {
+            "id": "opt_23ebc8c8-0c73-4b4c-88fd-9fe8b0151232",
+            "text": "Perquè no rega mai"
+          },
+          {
+            "id": "opt_ba4b63b9-19a7-4922-9eac-dbcfc67f3e53",
+            "text": "Perquè fa servir aigua de mar"
+          }
+        ],
+        "correctOptionId": "opt_a0819d98-0364-4ac2-bcd3-f3cd62c7b3a9",
+        "explicacio": "Els sòls rics en matèria orgànica retenen millor la humitat, reduint la necessitat de reg.",
+        "order": 0,
+        "createdAt": "2026-06-22T13:32:02.710Z",
+        "updatedAt": "2026-06-22T13:32:02.710Z"
+      },
+      {
+        "id": "q_8bea9e63-8fe3-4132-a81e-e17f64728b97",
+        "categoria": "blau",
+        "pregunta": "Quin impacte positiu té l'agricultura ecològica sobre els aqüífers?",
+        "opcions": [
+          {
+            "id": "opt_1985b247-e566-4af6-ab1b-0d5289325888",
+            "text": "No contamina amb nitrats"
+          },
+          {
+            "id": "opt_0dfaa70b-b7f5-4b96-aeaf-0816d7d65c68",
+            "text": "Augmenta la salinitat"
+          },
+          {
+            "id": "opt_b5dfb8ec-2706-4bad-8622-143c7f9333ac",
+            "text": "Els buida completament"
+          },
+          {
+            "id": "opt_62d7c52e-9b46-4521-b2fa-a691f0c8384c",
+            "text": "No té cap efecte"
+          }
+        ],
+        "correctOptionId": "opt_1985b247-e566-4af6-ab1b-0d5289325888",
+        "explicacio": "En no fer servir fertilitzants de síntesi, s'evita la filtració de nitrats a les aigües subterrànies.",
+        "order": 1,
+        "createdAt": "2026-06-22T13:32:02.710Z",
+        "updatedAt": "2026-06-22T13:32:02.710Z"
+      },
+      {
+        "id": "q_065d90d7-7b55-426c-a54a-a01a3220ea36",
+        "categoria": "blau",
+        "pregunta": "Què són les zones humides i per què són importants?",
+        "opcions": [
+          {
+            "id": "opt_3af1a75f-426e-40df-9021-d7cbd0546e0d",
+            "text": "Ecosistemes que filtren l'aigua i acullen biodiversitat"
+          },
+          {
+            "id": "opt_56cfa876-e48e-422f-b368-deed7d80329a",
+            "text": "Zones sense aigua"
+          },
+          {
+            "id": "opt_92bbb310-9bb5-4c75-b56f-cafe19782860",
+            "text": "Terrenys de secà"
+          },
+          {
+            "id": "opt_300fba71-193d-4caf-bc42-95890e19bb56",
+            "text": "Embassaments artificials"
+          }
+        ],
+        "correctOptionId": "opt_3af1a75f-426e-40df-9021-d7cbd0546e0d",
+        "explicacio": "Les zones humides són claus per a l'equilibri ecològic i la purificació de l'aigua.",
+        "order": 2,
+        "createdAt": "2026-06-22T13:32:02.710Z",
+        "updatedAt": "2026-06-22T13:32:02.710Z"
+      },
+      {
+        "id": "q_018e983a-4620-403d-9112-4be5056f36f9",
+        "categoria": "blau",
+        "pregunta": "La ramaderia ecològica redueix la petjada de carboni perquè...",
+        "opcions": [
+          {
+            "id": "opt_1c25b072-64da-4c26-8b73-47e4ce364f17",
+            "text": "Els animals pasturen i fertilitzen el sòl naturalment"
+          },
+          {
+            "id": "opt_d7809169-1efd-42f4-b92a-2ff3480a0d01",
+            "text": "Els animals mengen plàstic"
+          },
+          {
+            "id": "opt_5f4be3e0-f620-4bda-b2dd-b64eb575cde8",
+            "text": "No tenen aigua"
+          },
+          {
+            "id": "opt_5b98a291-8b73-49af-8dad-366fc8ea00b1",
+            "text": "Són animals més petits"
+          }
+        ],
+        "correctOptionId": "opt_1c25b072-64da-4c26-8b73-47e4ce364f17",
+        "explicacio": "El pasturatge regenera el sòl i segresta carboni, a més d'evitar pinsos importats.",
+        "order": 3,
+        "createdAt": "2026-06-22T13:32:02.711Z",
+        "updatedAt": "2026-06-22T13:32:02.711Z"
+      },
+      {
+        "id": "q_9ade3ccb-985b-4811-9592-5e3a980afb48",
+        "categoria": "blau",
+        "pregunta": "Què és l'agroecologia en relació amb l'aigua?",
+        "opcions": [
+          {
+            "id": "opt_cefa776b-9d25-45c3-91e5-70f7be3cfc4b",
+            "text": "Un sistema que optimitza l'ús de l'aigua i la protegeix"
+          },
+          {
+            "id": "opt_9bb363b1-693f-4723-a408-4978aec1f117",
+            "text": "Un sistema que gasta molta aigua"
+          },
+          {
+            "id": "opt_219f25ac-5db2-4e2b-95a1-9f77d0e0ff78",
+            "text": "No té relació"
+          },
+          {
+            "id": "opt_31ef422d-8dbb-4139-84f5-54d547ac9a33",
+            "text": "Només usa aigua de pluja"
+          }
+        ],
+        "correctOptionId": "opt_cefa776b-9d25-45c3-91e5-70f7be3cfc4b",
+        "explicacio": "L'agroecologia dissenya paisatges que capten i filtren l'aigua de manera natural.",
+        "order": 4,
+        "createdAt": "2026-06-22T13:32:02.711Z",
+        "updatedAt": "2026-06-22T13:32:02.711Z"
+      },
+      {
+        "id": "q_85aece96-1f43-4bd3-8862-f59b1de366ee",
+        "categoria": "blau",
+        "pregunta": "Com pot l'agricultura ecològica ajudar a lluitar contra la sequera?",
+        "opcions": [
+          {
+            "id": "opt_10363eed-adcd-40db-bf96-f54984c07e68",
+            "text": "Millorant la infiltració i l'emmagatzematge d'aigua al sòl"
+          },
+          {
+            "id": "opt_ba04ec0d-ac7d-4d75-87f6-c2f35305e11c",
+            "text": "Plantant cactus"
+          },
+          {
+            "id": "opt_58ff24b7-eb4c-4895-8101-074c6dd34af5",
+            "text": "No regant mai"
+          },
+          {
+            "id": "opt_2115f82b-505b-43e1-a0da-f8cdc2472037",
+            "text": "Usant plàstics"
+          }
+        ],
+        "correctOptionId": "opt_10363eed-adcd-40db-bf96-f54984c07e68",
+        "explicacio": "Sòls sans amb matèria orgànica actuen com una esponja, retenint aigua per als períodes secs.",
+        "order": 5,
+        "createdAt": "2026-06-22T13:32:02.711Z",
+        "updatedAt": "2026-06-22T13:32:02.711Z"
+      },
+      {
+        "id": "q_98022af7-b9e9-4311-9237-ae020d6ef9b8",
+        "categoria": "blau",
+        "pregunta": "Què és el reg per degoteig i com s'usa en ecològic?",
+        "opcions": [
+          {
+            "id": "opt_5025acd4-c9d6-4405-a693-b37ec677be1d",
+            "text": "Un sistema que aplica aigua gota a gota, estalviant-ne"
+          },
+          {
+            "id": "opt_8159c58c-fc89-488b-b3ac-6adf9a1630b3",
+            "text": "Un sistema de reg per inundació"
+          },
+          {
+            "id": "opt_1cffc5a4-a7d6-4c0d-9bb3-6c066823421a",
+            "text": "Un sistema que rega amb mànegues"
+          },
+          {
+            "id": "opt_4536b4e3-e794-44c8-a9e9-e027dad8b54d",
+            "text": "Un sistema que no rega"
+          }
+        ],
+        "correctOptionId": "opt_5025acd4-c9d6-4405-a693-b37ec677be1d",
+        "explicacio": "El reg per degoteig és molt eficient i s'usa sovint en horticultura ecològica.",
+        "order": 6,
+        "createdAt": "2026-06-22T13:32:02.711Z",
+        "updatedAt": "2026-06-22T13:32:02.711Z"
+      },
+      {
+        "id": "q_17f20845-91a1-4dab-8fd1-7b6e13937cba",
+        "categoria": "blau",
+        "pregunta": "Per què és important mantenir la vegetació de ribera en zones agrícoles?",
+        "opcions": [
+          {
+            "id": "opt_60223f9b-6b62-466d-979e-00f807d9c7e2",
+            "text": "Per protegir els cursos d'aigua i la biodiversitat"
+          },
+          {
+            "id": "opt_9a3d41c0-dfdd-460e-9cfd-f03cf7b58561",
+            "text": "Perquè és bonica"
+          },
+          {
+            "id": "opt_4c9dad00-f083-4578-abec-8d685116e150",
+            "text": "Per ombra"
+          },
+          {
+            "id": "opt_69121161-2572-4049-ba5f-c921d2d991de",
+            "text": "Perquè no cal regar"
+          }
+        ],
+        "correctOptionId": "opt_60223f9b-6b62-466d-979e-00f807d9c7e2",
+        "explicacio": "La vegetació de ribera filtra contaminants i proporciona refugi per a la fauna.",
+        "order": 7,
+        "createdAt": "2026-06-22T13:32:02.712Z",
+        "updatedAt": "2026-06-22T13:32:02.712Z"
+      }
+    ],
+    "taronja": [
+      {
+        "id": "q_e1cb8bd4-0ae7-49fe-9e86-59c0e8c5be8f",
+        "categoria": "taronja",
+        "pregunta": "Com es diu la pràctica de criar vaques, ovelles o cabres en llibertat i amb aliment ecològic?",
+        "opcions": [
+          {
+            "id": "opt_1d393d75-be51-4391-8d5f-31685406228f",
+            "text": "Ramaderia intensiva"
+          },
+          {
+            "id": "opt_69af820b-1729-4099-8912-40bab46eb554",
+            "text": "Ramaderia ecològica de pastura"
+          },
+          {
+            "id": "opt_2283a03f-f8a1-4c0a-ac69-69a9b425b02d",
+            "text": "Indústria càrnia"
+          },
+          {
+            "id": "opt_65a4226e-8507-4708-bd56-3e87d49859c4",
+            "text": "Transhumància moderna"
+          }
+        ],
+        "correctOptionId": "opt_69af820b-1729-4099-8912-40bab46eb554",
+        "explicacio": "La ramaderia ecològica de pastura garanteix benestar animal i aliments lliures de químics.",
+        "order": 0,
+        "createdAt": "2026-06-22T13:32:02.712Z",
+        "updatedAt": "2026-06-22T13:32:02.712Z"
+      },
+      {
+        "id": "q_62c39bdd-5ac0-4217-b33c-ae150dfc69a0",
+        "categoria": "taronja",
+        "pregunta": "Quin és un dels requisits per a la ramaderia ecològica certificada?",
+        "opcions": [
+          {
+            "id": "opt_7cc8f1c6-d08f-41c9-8390-4d65e1360b52",
+            "text": "Els animals han de tenir accés a l'aire lliure"
+          },
+          {
+            "id": "opt_6ad0f063-40bb-45a6-b065-97e8b319054e",
+            "text": "Els animals han de viure en gàbies"
+          },
+          {
+            "id": "opt_8415cdba-93d5-457c-b58a-db643e14e257",
+            "text": "Els animals només mengen pinso importat"
+          },
+          {
+            "id": "opt_5776184d-e8ad-48b9-afca-f80fb5453273",
+            "text": "No es poden vacunar"
+          }
+        ],
+        "correctOptionId": "opt_7cc8f1c6-d08f-41c9-8390-4d65e1360b52",
+        "explicacio": "El benestar animal exigeix espai a l'aire lliure i condicions naturals.",
+        "order": 1,
+        "createdAt": "2026-06-22T13:32:02.712Z",
+        "updatedAt": "2026-06-22T13:32:02.712Z"
+      },
+      {
+        "id": "q_38439249-b831-4f31-a822-8df72b1521d8",
+        "categoria": "taronja",
+        "pregunta": "Les gallines ecològiques, a diferència de les intensives...",
+        "opcions": [
+          {
+            "id": "opt_c2ff3f17-a269-4cff-b1ce-8708bf537284",
+            "text": "Poden picotejar a terra i menjar insectes"
+          },
+          {
+            "id": "opt_52ece443-1f9c-4957-8e0c-4f40da17769a",
+            "text": "No poden sortir mai"
+          },
+          {
+            "id": "opt_48bfaf99-faf6-41ce-8e9f-36b31931d02a",
+            "text": "Són més petites"
+          },
+          {
+            "id": "opt_6e9c26cf-f582-49b5-81c3-6089efd499b6",
+            "text": "No posen ous"
+          }
+        ],
+        "correctOptionId": "opt_c2ff3f17-a269-4cff-b1ce-8708bf537284",
+        "explicacio": "La llibertat de moviment i la dieta natural són la base de l'aviram ecològic.",
+        "order": 2,
+        "createdAt": "2026-06-22T13:32:02.713Z",
+        "updatedAt": "2026-06-22T13:32:02.713Z"
+      },
+      {
+        "id": "q_bea29fd6-f0ab-4634-9c94-2e906ee72d31",
+        "categoria": "taronja",
+        "pregunta": "Què és el benestar animal en el context ecològic?",
+        "opcions": [
+          {
+            "id": "opt_a3fac0e3-b3c1-48fe-9bb8-368a8a63e6b0",
+            "text": "Que l'animal no pateix i viu segons la seva espècie"
+          },
+          {
+            "id": "opt_76c108d1-b9d7-4799-b31c-4f9f90c2ea9a",
+            "text": "Que l'animal engreixa ràpid"
+          },
+          {
+            "id": "opt_3c6f67e8-0eff-44bd-bfc3-b9070c2982cc",
+            "text": "Que està en una gàbia neta"
+          },
+          {
+            "id": "opt_a313a7bb-be20-4845-86e4-2c131bf1cfa6",
+            "text": "Que rep antibiòtics"
+          }
+        ],
+        "correctOptionId": "opt_a3fac0e3-b3c1-48fe-9bb8-368a8a63e6b0",
+        "explicacio": "El benestar animal és un pilar de l'agroecologia, respectant ritmes i comportaments naturals.",
+        "order": 3,
+        "createdAt": "2026-06-22T13:32:02.713Z",
+        "updatedAt": "2026-06-22T13:32:02.713Z"
+      },
+      {
+        "id": "q_b996b04f-6a10-4619-a7bb-e3d9829123b5",
+        "categoria": "taronja",
+        "pregunta": "Per què la ramaderia ecològica sovint té animals de races autòctones?",
+        "opcions": [
+          {
+            "id": "opt_d51e73c1-6534-43fa-bce3-480e05ec72ec",
+            "text": "Perquè estan més adaptades al territori i tenen més resistència"
+          },
+          {
+            "id": "opt_e949bb39-d38a-4ea2-8cee-dd379b27d655",
+            "text": "Perquè són més grans"
+          },
+          {
+            "id": "opt_59e5fdc2-b453-40fb-96cc-71623b822295",
+            "text": "Perquè donen més llet"
+          },
+          {
+            "id": "opt_3c9f4e10-b96d-43e3-8e0c-d52daab5297e",
+            "text": "Perquè són més bonics"
+          }
+        ],
+        "correctOptionId": "opt_d51e73c1-6534-43fa-bce3-480e05ec72ec",
+        "explicacio": "Les races autòctones són més resistents a les condicions locals i requereixen menys intervencions.",
+        "order": 4,
+        "createdAt": "2026-06-22T13:32:02.713Z",
+        "updatedAt": "2026-06-22T13:32:02.713Z"
+      },
+      {
+        "id": "q_1cd96900-a673-4f9b-a42e-9b18a7895100",
+        "categoria": "taronja",
+        "pregunta": "Què és l'alimentació ecològica per als animals?",
+        "opcions": [
+          {
+            "id": "opt_8bc19ffd-8010-4e17-a57a-8388faa2b53c",
+            "text": "Menjar procedent d'agricultura ecològica, sense OMG ni químics"
+          },
+          {
+            "id": "opt_9ccae708-8ead-41ed-b19c-7b8a6ab40ee9",
+            "text": "Menjar de supermercat"
+          },
+          {
+            "id": "opt_8253e615-0f23-4c67-bb0e-61d9a28a2033",
+            "text": "Menjar amb molts additius"
+          },
+          {
+            "id": "opt_8dbe84ab-4583-4a73-8b5f-d27f7a783cea",
+            "text": "Menjar de soja importada"
+          }
+        ],
+        "correctOptionId": "opt_8bc19ffd-8010-4e17-a57a-8388faa2b53c",
+        "explicacio": "Els pinsos ecològics han de ser certificats i lliures de transgènics.",
+        "order": 5,
+        "createdAt": "2026-06-22T13:32:02.714Z",
+        "updatedAt": "2026-06-22T13:32:02.714Z"
+      },
+      {
+        "id": "q_cdb76fc3-64f0-478e-83b3-f918a168cb88",
+        "categoria": "taronja",
+        "pregunta": "Com afecta la ramaderia ecològica al benestar del sòl?",
+        "opcions": [
+          {
+            "id": "opt_de168229-e750-4e5c-801e-38eb758fb92d",
+            "text": "El pasturatge millora la fertilitat i l'estructura del sòl"
+          },
+          {
+            "id": "opt_a7dcb693-9276-4d1b-9577-f4d8351f3f8c",
+            "text": "El compacta"
+          },
+          {
+            "id": "opt_21cf031c-b5a8-4a61-b7f1-8750c8d56af2",
+            "text": "No el toca"
+          },
+          {
+            "id": "opt_67e4149b-3a5a-4a7a-8982-854702b5fff6",
+            "text": "El contamina"
+          }
+        ],
+        "correctOptionId": "opt_de168229-e750-4e5c-801e-38eb758fb92d",
+        "explicacio": "Els animals pasturen i fertilitzen, i si es gestiona bé, regeneren el sòl.",
+        "order": 6,
+        "createdAt": "2026-06-22T13:32:02.714Z",
+        "updatedAt": "2026-06-22T13:32:02.714Z"
+      },
+      {
+        "id": "q_72e32d6a-4c32-40aa-b03c-b828d2b983dc",
+        "categoria": "taronja",
+        "pregunta": "Què és la transhumància i per què és una pràctica sostenible?",
+        "opcions": [
+          {
+            "id": "opt_720d2e52-f874-4a30-be1c-3bda4a0d6629",
+            "text": "El moviment estacional dels ramats per aprofitar pasturatges naturals"
+          },
+          {
+            "id": "opt_b9215e3e-d9f6-401f-ac09-c44f8cd8a70c",
+            "text": "Criar animals en naus"
+          },
+          {
+            "id": "opt_e2abf37a-d3b3-4146-b85d-0ecbbfb0ea9f",
+            "text": "Transportar animals en camions"
+          },
+          {
+            "id": "opt_f22d0271-1cd3-462e-8de4-c1a5d1854525",
+            "text": "No té relació"
+          }
+        ],
+        "correctOptionId": "opt_720d2e52-f874-4a30-be1c-3bda4a0d6629",
+        "explicacio": "La transhumància aprofita recursos naturals sense sobrepasturar.",
+        "order": 7,
+        "createdAt": "2026-06-22T13:32:02.714Z",
+        "updatedAt": "2026-06-22T13:32:02.714Z"
+      }
+    ],
+    "vermell": [
+      {
+        "id": "q_6c106db2-6f06-4367-8ac9-2a55bd19bff0",
+        "categoria": "vermell",
+        "pregunta": "Quin és l'ens oficial que certifica els productes ecològics a Catalunya?",
+        "opcions": [
+          {
+            "id": "opt_14a0913e-da1a-49f0-8a35-d6682cdf53ac",
+            "text": "CCPAE"
+          },
+          {
+            "id": "opt_2adb53b7-edd5-44a6-afa3-40c38e7adf0b",
+            "text": "DOQ"
+          },
+          {
+            "id": "opt_95c2d957-23f2-4d16-a4bb-0cdb9e49b9a2",
+            "text": "ICO"
+          },
+          {
+            "id": "opt_9e7e42af-fd5e-4a98-97c5-b244d77bc96d",
+            "text": "Generalitat Verda"
+          }
+        ],
+        "correctOptionId": "opt_14a0913e-da1a-49f0-8a35-d6682cdf53ac",
+        "explicacio": "El Consell Català de la Producció Agrària Ecològica és el certificador oficial.",
+        "order": 0,
+        "createdAt": "2026-06-22T13:32:02.715Z",
+        "updatedAt": "2026-06-22T13:32:02.715Z"
+      },
+      {
+        "id": "q_8bcdee80-af9e-4fc1-8430-e113a88c0f08",
+        "categoria": "vermell",
+        "pregunta": "Quin segell europeu identifica els aliments ecològics?",
+        "opcions": [
+          {
+            "id": "opt_5922dc46-07f2-49f3-829f-f33205bbe29b",
+            "text": "Una fulla verda amb estrelles"
+          },
+          {
+            "id": "opt_39278734-f250-4887-99fa-2edfdf56cc39",
+            "text": "Un cercle blau"
+          },
+          {
+            "id": "opt_a6b3cdfd-45f9-43bc-90e6-ef25a6bc71c9",
+            "text": "Un triangle groc"
+          },
+          {
+            "id": "opt_787e54a4-c7d4-46dc-bb6c-c6823768d309",
+            "text": "Una abella"
+          }
+        ],
+        "correctOptionId": "opt_5922dc46-07f2-49f3-829f-f33205bbe29b",
+        "explicacio": "El logotip de la fulla verda és el segell oficial de la Unió Europea.",
+        "order": 1,
+        "createdAt": "2026-06-22T13:32:02.715Z",
+        "updatedAt": "2026-06-22T13:32:02.715Z"
+      },
+      {
+        "id": "q_ccbf6814-4c01-43a6-b6d6-3ad485bdab7f",
+        "categoria": "vermell",
+        "pregunta": "Què vol dir que un producte tingui certificació ecològica?",
+        "opcions": [
+          {
+            "id": "opt_29187dfb-2a2f-4e67-bd16-33825ad8d3c2",
+            "text": "Que ha superat controls i compleix la normativa"
+          },
+          {
+            "id": "opt_8f6f3a08-1c1b-427e-b6f3-8c042288b5b2",
+            "text": "Que és més barat"
+          },
+          {
+            "id": "opt_2e53f752-4711-4fb2-ac4b-5bb0a86d30bf",
+            "text": "Que és de color verd"
+          },
+          {
+            "id": "opt_d887eabb-557a-46f9-9cb0-392b826a8942",
+            "text": "Que ve de fora"
+          }
+        ],
+        "correctOptionId": "opt_29187dfb-2a2f-4e67-bd16-33825ad8d3c2",
+        "explicacio": "La certificació garanteix que tot el procés segueix les normes ecològiques.",
+        "order": 2,
+        "createdAt": "2026-06-22T13:32:02.715Z",
+        "updatedAt": "2026-06-22T13:32:02.716Z"
+      },
+      {
+        "id": "q_3d93aaae-a938-4c3c-a3b0-ed99fe2dc40b",
+        "categoria": "vermell",
+        "pregunta": "Quin ODS està més directament relacionat amb l'alimentació ecològica?",
+        "opcions": [
+          {
+            "id": "opt_52183869-16de-450a-a929-05dc217b8adf",
+            "text": "ODS 2: Fam zero"
+          },
+          {
+            "id": "opt_01311864-a3b1-49a7-ace5-2c70c7fef46c",
+            "text": "ODS 5: Igualtat de gènere"
+          },
+          {
+            "id": "opt_79ca686c-195e-461f-9256-7a39e11a56b3",
+            "text": "ODS 8: Treball digne"
+          },
+          {
+            "id": "opt_7e1584d1-6c00-4b00-b6fc-14beb1b50294",
+            "text": "Tots els anteriors"
+          }
+        ],
+        "correctOptionId": "opt_7e1584d1-6c00-4b00-b6fc-14beb1b50294",
+        "explicacio": "L'alimentació ecològica contribueix a diversos ODS alhora.",
+        "order": 3,
+        "createdAt": "2026-06-22T13:32:02.716Z",
+        "updatedAt": "2026-06-22T13:32:02.716Z"
+      },
+      {
+        "id": "q_5677bb4b-d4e1-434e-9c8d-97acb44658b7",
+        "categoria": "vermell",
+        "pregunta": "Què és el consum responsable segons l'ODS 12?",
+        "opcions": [
+          {
+            "id": "opt_acd2a9bc-4739-4ee3-9837-e8b39958fda4",
+            "text": "Comprar productes locals i de temporada"
+          },
+          {
+            "id": "opt_26eed5dc-7647-423c-822b-25867c0cb292",
+            "text": "Comprar el més barat"
+          },
+          {
+            "id": "opt_6b16b3fc-5f6a-4744-b492-c49063aa5833",
+            "text": "Comprar el més envasat"
+          },
+          {
+            "id": "opt_fc7d3097-3d5f-458e-8cef-ce62fc6a3d20",
+            "text": "No comprar res"
+          }
+        ],
+        "correctOptionId": "opt_acd2a9bc-4739-4ee3-9837-e8b39958fda4",
+        "explicacio": "L'ODS 12 promou producció i consum responsables.",
+        "order": 4,
+        "createdAt": "2026-06-22T13:32:02.716Z",
+        "updatedAt": "2026-06-22T13:32:02.716Z"
+      },
+      {
+        "id": "q_c71e5baa-eda4-4ddf-8735-971ba26cdf14",
+        "categoria": "vermell",
+        "pregunta": "Què vol dir sobirania alimentària?",
+        "opcions": [
+          {
+            "id": "opt_a2795798-b749-4b26-afa8-2716fd907b54",
+            "text": "Dret dels pobles a decidir el seu sistema alimentari"
+          },
+          {
+            "id": "opt_69d3236d-f068-4b85-b231-5c7b3f6947c9",
+            "text": "Que els aliments siguin barats"
+          },
+          {
+            "id": "opt_f2388211-2434-4fa3-aeef-f69c72766ad1",
+            "text": "Que els aliments vinguin de fora"
+          },
+          {
+            "id": "opt_8477dec5-eb2d-4c6a-bcee-25dfda711b8f",
+            "text": "Que només es mengi pa"
+          }
+        ],
+        "correctOptionId": "opt_a2795798-b749-4b26-afa8-2716fd907b54",
+        "explicacio": "Defensa que cada comunitat pugui decidir com produeix i consumeix aliments.",
+        "order": 5,
+        "createdAt": "2026-06-22T13:32:02.717Z",
+        "updatedAt": "2026-06-22T13:32:02.717Z"
+      },
+      {
+        "id": "q_c0172cab-bb5e-47a2-aae4-977c296dab3c",
+        "categoria": "vermell",
+        "pregunta": "Per què és important el comerç just en productes ecològics?",
+        "opcions": [
+          {
+            "id": "opt_7c5cdc09-c3c8-4cc4-bbd0-b805047cdde0",
+            "text": "Per garantir condicions dignes als productors"
+          },
+          {
+            "id": "opt_8a01c8c9-649d-4713-9285-8399a7372c3e",
+            "text": "Perquè és més car"
+          },
+          {
+            "id": "opt_a7dda02b-1682-4c80-a237-adbd64fc5031",
+            "text": "Perquè és de luxe"
+          },
+          {
+            "id": "opt_c61bc7d1-8a7f-4f43-8f16-529f5b4a11d5",
+            "text": "No és important"
+          }
+        ],
+        "correctOptionId": "opt_7c5cdc09-c3c8-4cc4-bbd0-b805047cdde0",
+        "explicacio": "Assegura preus justos i condicions laborals adequades.",
+        "order": 6,
+        "createdAt": "2026-06-22T13:32:02.718Z",
+        "updatedAt": "2026-06-22T13:32:02.718Z"
+      },
+      {
+        "id": "q_41742e83-a77e-4403-ab0b-d5da4c655d43",
+        "categoria": "vermell",
+        "pregunta": "Què és la traçabilitat en alimentació ecològica?",
+        "opcions": [
+          {
+            "id": "opt_963dbc5b-463c-4bd5-82a1-3772045d529c",
+            "text": "Poder seguir tot el camí del producte, del camp a la taula"
+          },
+          {
+            "id": "opt_a64a3cc1-b1a2-4183-a74c-46e946271d97",
+            "text": "Que el producte sigui rastrejable per GPS"
+          },
+          {
+            "id": "opt_55405ffc-d6ed-4a37-92c8-0ba9a465b5b4",
+            "text": "Que tingui un codi de barres"
+          },
+          {
+            "id": "opt_0b59b0d1-dd5f-40c7-8448-720271782c2e",
+            "text": "Que sigui fàcil de transportar"
+          }
+        ],
+        "correctOptionId": "opt_963dbc5b-463c-4bd5-82a1-3772045d529c",
+        "explicacio": "La traçabilitat garanteix transparència i confiança.",
+        "order": 7,
+        "createdAt": "2026-06-22T13:32:02.718Z",
+        "updatedAt": "2026-06-22T13:32:02.718Z"
+      }
+    ],
+    "groc": [
+      {
+        "id": "q_56728fbe-6511-4d93-9bef-5efd36290f1c",
+        "categoria": "groc",
+        "pregunta": "Què són els 10 elements de l'Agroecologia de la FAO?",
+        "opcions": [
+          {
+            "id": "opt_3f686e18-06fe-4165-8ea6-c3e05881f30c",
+            "text": "Un decàleg per a sistemes alimentaris sostenibles"
+          },
+          {
+            "id": "opt_6fcd271f-a388-40e7-adb5-0a3dda9362cf",
+            "text": "Deu tipus de fems"
+          },
+          {
+            "id": "opt_cb8de048-2d28-4532-a69e-57358b4dea13",
+            "text": "Deu verdures"
+          },
+          {
+            "id": "opt_f1908d5a-19d0-4208-89db-a453bb5d5545",
+            "text": "Unes lleis europees"
+          }
+        ],
+        "correctOptionId": "opt_3f686e18-06fe-4165-8ea6-c3e05881f30c",
+        "explicacio": "La FAO va definir elements clau per aplicar l'agroecologia als sistemes alimentaris.",
+        "order": 0,
+        "createdAt": "2026-06-22T13:32:02.719Z",
+        "updatedAt": "2026-06-22T13:32:02.719Z"
+      },
+      {
+        "id": "q_3ae27db5-2b25-433a-874e-a6ab392f7f5b",
+        "categoria": "groc",
+        "pregunta": "Quin benefici social té l'agricultura ecològica al món rural?",
+        "opcions": [
+          {
+            "id": "opt_af66ce0a-fc00-42a6-b384-011f7f8c7e43",
+            "text": "Genera ocupació i fixa població"
+          },
+          {
+            "id": "opt_5ae7f546-0a71-4156-ac8e-aac2d1b76b82",
+            "text": "Redueix la biodiversitat"
+          },
+          {
+            "id": "opt_292e1cc0-ca24-49aa-988b-4519d4549601",
+            "text": "Només beneficia grans empreses"
+          },
+          {
+            "id": "opt_f270dce3-3aa8-409c-941a-67bf4387f26e",
+            "text": "No té cap benefici"
+          }
+        ],
+        "correctOptionId": "opt_af66ce0a-fc00-42a6-b384-011f7f8c7e43",
+        "explicacio": "L'agricultura ecològica pot afavorir ocupació i desenvolupament local.",
+        "order": 1,
+        "createdAt": "2026-06-22T13:32:02.719Z",
+        "updatedAt": "2026-06-22T13:32:02.719Z"
+      },
+      {
+        "id": "q_dd3982ee-2f08-4a84-a259-ee0d865bfc7f",
+        "categoria": "groc",
+        "pregunta": "Què significa aliment de km 0?",
+        "opcions": [
+          {
+            "id": "opt_38dfbb31-3b87-4c81-92ea-6b48ea2e2a73",
+            "text": "Que és de proximitat, produït a prop"
+          },
+          {
+            "id": "opt_5738b8b2-3bff-435c-92c7-706277dcc0a6",
+            "text": "Que té 0 calories"
+          },
+          {
+            "id": "opt_717b8764-0bbe-42be-bdde-74cace9c2a4a",
+            "text": "Que ve de l'altra punta del món"
+          },
+          {
+            "id": "opt_7f35c558-f401-4af0-b371-de1830496414",
+            "text": "Que és congelat"
+          }
+        ],
+        "correctOptionId": "opt_38dfbb31-3b87-4c81-92ea-6b48ea2e2a73",
+        "explicacio": "El km 0 redueix la petjada de carboni i dona suport als productors locals.",
+        "order": 2,
+        "createdAt": "2026-06-22T13:32:02.720Z",
+        "updatedAt": "2026-06-22T13:32:02.720Z"
+      },
+      {
+        "id": "q_ddf9517d-9f80-4b38-9a01-fb2a1807becc",
+        "categoria": "groc",
+        "pregunta": "Per què l'agroecologia promou la diversitat de cultius?",
+        "opcions": [
+          {
+            "id": "opt_28a0fd7f-982e-4b66-ad4c-80b53d59c59b",
+            "text": "Perquè augmenta la resiliència i redueix plagues"
+          },
+          {
+            "id": "opt_5835b9ca-e47d-4d8d-985c-facd9caca997",
+            "text": "Perquè queda més bonic"
+          },
+          {
+            "id": "opt_35248f90-837a-4f70-b87c-3d00bf65ff24",
+            "text": "Perquè és més fàcil"
+          },
+          {
+            "id": "opt_b439a0e2-752e-4ec1-87db-70c56e184f4e",
+            "text": "Perquè ho diu la llei"
+          }
+        ],
+        "correctOptionId": "opt_28a0fd7f-982e-4b66-ad4c-80b53d59c59b",
+        "explicacio": "La diversitat fa els sistemes més forts davant plagues i canvis climàtics.",
+        "order": 3,
+        "createdAt": "2026-06-22T13:32:02.722Z",
+        "updatedAt": "2026-06-22T13:32:02.722Z"
+      },
+      {
+        "id": "q_c5e77f3f-8a98-4ead-a1f2-548d9fd9c996",
+        "categoria": "groc",
+        "pregunta": "Què és una cooperativa agroecològica?",
+        "opcions": [
+          {
+            "id": "opt_12b0e998-4f3c-4243-9729-c4dff379870c",
+            "text": "Un grup de productors que treballen junts, de manera sostenible"
+          },
+          {
+            "id": "opt_8bf38150-ede9-4d15-8ed5-995985d19f2e",
+            "text": "Una empresa multinacional"
+          },
+          {
+            "id": "opt_eb36670b-4d0c-49c3-a8b7-6cfc4b7f9cd5",
+            "text": "Un banc"
+          },
+          {
+            "id": "opt_754b7e20-f337-471d-8d06-1ccce57e12c4",
+            "text": "Una botiga de llavors"
+          }
+        ],
+        "correctOptionId": "opt_12b0e998-4f3c-4243-9729-c4dff379870c",
+        "explicacio": "Les cooperatives permeten compartir recursos i comercialitzar millor.",
+        "order": 4,
+        "createdAt": "2026-06-22T13:32:02.722Z",
+        "updatedAt": "2026-06-22T13:32:02.722Z"
+      },
+      {
+        "id": "q_c0577343-0834-40b3-ba4b-0ecfcf09a026",
+        "categoria": "groc",
+        "pregunta": "Com pot l'agricultura ecològica ajudar a la salut de les persones?",
+        "opcions": [
+          {
+            "id": "opt_3d7dc4e1-fd94-4a04-87d5-76f29b198b33",
+            "text": "Reduint l'exposició a pesticides i promovent aliments més sans"
+          },
+          {
+            "id": "opt_b5e0f1eb-3e55-4a3e-bf93-b172b39881c5",
+            "text": "No té efecte"
+          },
+          {
+            "id": "opt_b11df7f8-c84a-4031-bfc4-f79b4965156c",
+            "text": "Augmenta les malalties"
+          },
+          {
+            "id": "opt_13796a70-3ac3-4ab6-89a9-2d7f99c2a70b",
+            "text": "Només afecta els animals"
+          }
+        ],
+        "correctOptionId": "opt_3d7dc4e1-fd94-4a04-87d5-76f29b198b33",
+        "explicacio": "Redueix l'exposició a químics i promou aliments més saludables.",
+        "order": 5,
+        "createdAt": "2026-06-22T13:32:02.722Z",
+        "updatedAt": "2026-06-22T13:32:02.722Z"
+      },
+      {
+        "id": "q_e1f8fa04-c7f2-4a91-8c5b-10d93d2d4fda",
+        "categoria": "groc",
+        "pregunta": "Què és la petjada ecològica dels aliments?",
+        "opcions": [
+          {
+            "id": "opt_5622266b-42a6-4717-b03f-a0d935882ff1",
+            "text": "L'impacte ambiental de la producció i transport d'un aliment"
+          },
+          {
+            "id": "opt_6a39b736-f1bb-4616-9205-546f5921756f",
+            "text": "La mida de l'aliment"
+          },
+          {
+            "id": "opt_2d533838-1ddd-45f6-b9a3-256c1285f999",
+            "text": "El seu pes"
+          },
+          {
+            "id": "opt_1db92d9f-3f0e-4d63-b981-9b2c61093325",
+            "text": "El seu color"
+          }
+        ],
+        "correctOptionId": "opt_5622266b-42a6-4717-b03f-a0d935882ff1",
+        "explicacio": "Mesura l'impacte ambiental dels aliments al llarg del seu cicle.",
+        "order": 6,
+        "createdAt": "2026-06-22T13:32:02.723Z",
+        "updatedAt": "2026-06-22T13:32:02.723Z"
+      },
+      {
+        "id": "q_e2c50f8e-ca4c-465d-86cb-e0c0c48d4a3f",
+        "categoria": "groc",
+        "pregunta": "Per què és important l'educació en agroecologia a les escoles?",
+        "opcions": [
+          {
+            "id": "opt_6d318f23-fb59-4028-a61a-2754604f0a31",
+            "text": "Per formar ciutadans conscients i responsables amb el medi ambient"
+          },
+          {
+            "id": "opt_6428d823-bd37-4da5-a486-64891f79c396",
+            "text": "Perquè és una assignatura obligatòria"
+          },
+          {
+            "id": "opt_eca98ef4-11b9-4f0e-9a0f-c60b650aa35f",
+            "text": "Per omplir temps"
+          },
+          {
+            "id": "opt_88f39d89-e628-4c32-9d53-a040a33dd5ff",
+            "text": "No és important"
+          }
+        ],
+        "correctOptionId": "opt_6d318f23-fb59-4028-a61a-2754604f0a31",
+        "explicacio": "Fomenta valors de sostenibilitat i coneixement del territori.",
+        "order": 7,
+        "createdAt": "2026-06-22T13:32:02.723Z",
+        "updatedAt": "2026-06-22T13:32:02.723Z"
+      }
+    ],
+    "lila": [
+      {
+        "id": "q_856e6eb8-32a0-4bc1-8b82-79ec07efb84e",
+        "categoria": "lila",
+        "pregunta": "Quina fruita de temporada ecològica és típica del Priorat?",
+        "opcions": [
+          {
+            "id": "opt_ef12b09c-9299-4f87-9cba-ef6aba880e37",
+            "text": "El raïm"
+          },
+          {
+            "id": "opt_850c403b-f66d-4fb6-ab9a-a7f31283524c",
+            "text": "La poma"
+          },
+          {
+            "id": "opt_b1e3d64c-f9bb-4395-92f7-80848aa90632",
+            "text": "La pera"
+          },
+          {
+            "id": "opt_458469e2-2642-44b8-8485-49192b064e40",
+            "text": "La taronja"
+          }
+        ],
+        "correctOptionId": "opt_ef12b09c-9299-4f87-9cba-ef6aba880e37",
+        "explicacio": "El Priorat és conegut per la vinya i el raïm.",
+        "order": 0,
+        "createdAt": "2026-06-22T13:32:02.724Z",
+        "updatedAt": "2026-06-22T13:32:02.724Z"
+      },
+      {
+        "id": "q_5238f772-4770-481a-b738-7a1fb2dfd1ff",
+        "categoria": "lila",
+        "pregunta": "Què són els productes de la terra en l'àmbit ecològic?",
+        "opcions": [
+          {
+            "id": "opt_9fbab676-172c-435b-a9a1-a317bc6ed4f7",
+            "text": "Productes frescos de temporada i proximitat"
+          },
+          {
+            "id": "opt_a6ec8b79-e3b1-4469-aff3-73b2dacf285a",
+            "text": "Productes congelats"
+          },
+          {
+            "id": "opt_b71296f5-45a4-43c0-95b1-07e88d106234",
+            "text": "Productes importats"
+          },
+          {
+            "id": "opt_b64f336f-1b6c-4e25-bcba-7b4d0309c9e7",
+            "text": "Productes enllaunats"
+          }
+        ],
+        "correctOptionId": "opt_9fbab676-172c-435b-a9a1-a317bc6ed4f7",
+        "explicacio": "Respecten el calendari natural i el territori.",
+        "order": 1,
+        "createdAt": "2026-06-22T13:32:02.724Z",
+        "updatedAt": "2026-06-22T13:32:02.724Z"
+      },
+      {
+        "id": "q_792694bd-9afa-4c81-af2d-cbaf458c3455",
+        "categoria": "lila",
+        "pregunta": "La poma ecològica de la comarca de la Segarra es caracteritza per...",
+        "opcions": [
+          {
+            "id": "opt_e34653df-34a2-48c6-aad3-584777133a2e",
+            "text": "Ser més saborosa i lliure de químics"
+          },
+          {
+            "id": "opt_144ffb45-6c52-4fbc-8c83-1295eabe606e",
+            "text": "Ser més petita"
+          },
+          {
+            "id": "opt_dbb15e78-287c-4f1e-aed2-d6647fcf4c83",
+            "text": "Ser de color vermell"
+          },
+          {
+            "id": "opt_6b75dd3a-f239-4a80-a66f-98f036dd5338",
+            "text": "No tenir llavors"
+          }
+        ],
+        "correctOptionId": "opt_e34653df-34a2-48c6-aad3-584777133a2e",
+        "explicacio": "Les pràctiques ecològiques afavoreixen el sabor i una millor conservació.",
+        "order": 2,
+        "createdAt": "2026-06-22T13:32:02.724Z",
+        "updatedAt": "2026-06-22T13:32:02.724Z"
+      },
+      {
+        "id": "q_373c11da-31d7-4827-84f2-702aafebcd70",
+        "categoria": "lila",
+        "pregunta": "Quin d'aquests és un producte ecològic típic de les Terres de l'Ebre?",
+        "opcions": [
+          {
+            "id": "opt_e7611b23-ed07-4c08-92ce-ea9994491dae",
+            "text": "L'arròs ecològic del Delta"
+          },
+          {
+            "id": "opt_c50e2de9-8b53-4fd7-b687-823bc3b6b31f",
+            "text": "Els plàtans"
+          },
+          {
+            "id": "opt_742223f8-ce3b-4cd6-9a45-662b1c9b975f",
+            "text": "Les magranes de Múrcia"
+          },
+          {
+            "id": "opt_a991bff4-cd4b-4b9b-b891-8212a2669587",
+            "text": "El kiwi"
+          }
+        ],
+        "correctOptionId": "opt_e7611b23-ed07-4c08-92ce-ea9994491dae",
+        "explicacio": "L'arròs ecològic del Delta és un producte singular i de gran qualitat.",
+        "order": 3,
+        "createdAt": "2026-06-22T13:32:02.725Z",
+        "updatedAt": "2026-06-22T13:32:02.725Z"
+      },
+      {
+        "id": "q_4a262b77-7d85-4658-9f20-16c40c5b0199",
+        "categoria": "lila",
+        "pregunta": "Què és la biodiversitat agrícola?",
+        "opcions": [
+          {
+            "id": "opt_5853a371-1c9a-4d37-b10c-8d22c4e19853",
+            "text": "La varietat d'espècies i varietats que es conreen en una explotació"
+          },
+          {
+            "id": "opt_c0632ef6-ef33-4185-9aba-831f2dba4dc4",
+            "text": "La diversitat d'animals salvatges"
+          },
+          {
+            "id": "opt_f3698961-9afb-428c-8edb-0f13356028b8",
+            "text": "La diversitat de maquinària"
+          },
+          {
+            "id": "opt_f147ec7c-1177-478f-a768-8139d385b57f",
+            "text": "La diversitat de colors"
+          }
+        ],
+        "correctOptionId": "opt_5853a371-1c9a-4d37-b10c-8d22c4e19853",
+        "explicacio": "Una major biodiversitat agrícola fa els sistemes més resilients.",
+        "order": 4,
+        "createdAt": "2026-06-22T13:32:02.725Z",
+        "updatedAt": "2026-06-22T13:32:02.725Z"
+      },
+      {
+        "id": "q_7db9288d-8175-4be9-b5da-320133df11f2",
+        "categoria": "lila",
+        "pregunta": "Per què els horts escolars ecològics són una bona eina educativa?",
+        "opcions": [
+          {
+            "id": "opt_8b8809fe-b5af-46bc-ac91-c620ed1b91ce",
+            "text": "Permeten aprendre fent, connectant amb la natura i l'alimentació"
+          },
+          {
+            "id": "opt_cc332b34-1ba4-40c2-ac6a-bcfd82d925ed",
+            "text": "Perquè donen fruita gratis"
+          },
+          {
+            "id": "opt_f87970aa-e849-4fab-a4bc-36ca394c5e17",
+            "text": "Perquè són bonics"
+          },
+          {
+            "id": "opt_cf306e3b-a7a6-4522-98d8-03b896e69e58",
+            "text": "Perquè ocupen espai"
+          }
+        ],
+        "correctOptionId": "opt_8b8809fe-b5af-46bc-ac91-c620ed1b91ce",
+        "explicacio": "Fomenten aprenentatge vivencial i hàbits saludables.",
+        "order": 5,
+        "createdAt": "2026-06-22T13:32:02.725Z",
+        "updatedAt": "2026-06-22T13:32:02.725Z"
+      },
+      {
+        "id": "q_f5ed5394-df53-4c1e-a174-20021311c53e",
+        "categoria": "lila",
+        "pregunta": "Què és la collita de tardor típica en ecològic a Catalunya?",
+        "opcions": [
+          {
+            "id": "opt_9975510c-4edb-47e8-a538-855b007878d4",
+            "text": "Carabasses, bolets, pomes i raïm"
+          },
+          {
+            "id": "opt_8356cba9-76fd-4d9b-9711-3ab036735a3a",
+            "text": "Síndries i melons"
+          },
+          {
+            "id": "opt_7927ee82-cc16-4323-ac13-a6722e57fd9d",
+            "text": "Espàrrecs"
+          },
+          {
+            "id": "opt_23707363-c944-4434-929f-3a94886fab81",
+            "text": "Maduixes"
+          }
+        ],
+        "correctOptionId": "opt_9975510c-4edb-47e8-a538-855b007878d4",
+        "explicacio": "A la tardor es cullen productes de temporada com carbassa, poma i raïm.",
+        "order": 6,
+        "createdAt": "2026-06-22T13:32:02.726Z",
+        "updatedAt": "2026-06-22T13:32:02.726Z"
+      },
+      {
+        "id": "q_4881e3fd-931d-48dd-bf5b-bb58d4bb971f",
+        "categoria": "lila",
+        "pregunta": "Com podem identificar un producte ecològic al mercat?",
+        "opcions": [
+          {
+            "id": "opt_c7d1f872-7f40-4b95-8ea1-ccd36d9fe272",
+            "text": "Pel segell oficial i l'etiquetatge"
+          },
+          {
+            "id": "opt_62dcc80e-f164-4f32-b471-423fd9f3b78d",
+            "text": "Pel seu color"
+          },
+          {
+            "id": "opt_c75776a5-aeed-468f-a577-8fa0d6b53e70",
+            "text": "Pel seu preu"
+          },
+          {
+            "id": "opt_a005b737-fad6-4451-856f-453f754328b2",
+            "text": "Per la seva mida"
+          }
+        ],
+        "correctOptionId": "opt_c7d1f872-7f40-4b95-8ea1-ccd36d9fe272",
+        "explicacio": "La certificació i l'etiquetatge són les garanties més fiables.",
+        "order": 7,
+        "createdAt": "2026-06-22T13:32:02.726Z",
+        "updatedAt": "2026-06-22T13:32:02.726Z"
+      }
+    ]
+  }
+}

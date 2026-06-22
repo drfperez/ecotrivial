@@ -1,0 +1,1387 @@
+{
+"schemaVersion": 3,
+"savedAt": "2026-06-22T13:32:10.841Z",
+"bank": {
+"verd": [
+{
+"id": "q_1a2b3c4d-5e6f-4g7h-8i9j-0k1l2m3n4o5p",
+"categoria": "verd",
+"pregunta": "Què és un ecosistema?",
+"opcions": [
+{
+"id": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"text": "El conjunt d'éssers vius que habiten un lloc i les relacions que s'estableixen entre ells i el medi"
+},
+{
+"id": "opt_2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+"text": "Només els animals d'una zona"
+},
+{
+"id": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"text": "Únicament les plantes d'un bosc"
+},
+{
+"id": "opt_4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+"text": "El clima d'una regió"
+}
+],
+"correctOptionId": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"explicacio": "Un ecosistema inclou tots els éssers vius (biocenosi) i el medi físic (biòtop) que els envolta, amb les seves interaccions.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_2b3c4d5e-6f7g-4h8i-9j0k-1l2m3n4o5p6q",
+"categoria": "verd",
+"pregunta": "Quins són els dos components principals d'un ecosistema?",
+"opcions": [
+{
+"id": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"text": "El biòtop i la biocenosi"
+},
+{
+"id": "opt_6g7h8i9j-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+"text": "Els animals i les plantes"
+},
+{
+"id": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"text": "L'aigua i l'aire"
+},
+{
+"id": "opt_8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+"text": "El sol i la terra"
+}
+],
+"correctOptionId": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"explicacio": "El biòtop és el medi físic (sòl, aigua, clima) i la biocenosi és el conjunt d'éssers vius que hi viuen.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_3c4d5e6f-7g8h-4i9j-0k1l-2m3n4o5p6q7r",
+"categoria": "verd",
+"pregunta": "Què és un factor abiòtic?",
+"opcions": [
+{
+"id": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"text": "Un element no viu del medi, com la temperatura o la llum"
+},
+{
+"id": "opt_0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+"text": "Un ésser viu, com un arbre"
+},
+{
+"id": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"text": "Una relació entre depredador i presa"
+},
+{
+"id": "opt_2m3n4o5p-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+"text": "Un animal en perill d'extinció"
+}
+],
+"correctOptionId": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"explicacio": "Els factors abiòtics són les característiques físiques o químiques de l'entorn, com la humitat, la salinitat o el pH.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_4d5e6f7g-8h9i-4j0k-1l2m-3n4o5p6q7r8s",
+"categoria": "verd",
+"pregunta": "Què és un factor biòtic?",
+"opcions": [
+{
+"id": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"text": "Un ésser viu o les relacions entre éssers vius"
+},
+{
+"id": "opt_4o5p6q7r-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+"text": "La temperatura de l'aigua"
+},
+{
+"id": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"text": "El tipus de roca del sòl"
+},
+{
+"id": "opt_6q7r8s9t-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+"text": "La quantitat de pluja"
+}
+],
+"correctOptionId": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"explicacio": "Els factors biòtics inclouen tots els organismes i les relacions que estableixen entre ells (competència, depredació, etc.).",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_5e6f7g8h-9i0j-4k1l-2m3n-4o5p6q7r8s9t",
+"categoria": "verd",
+"pregunta": "Quina diferència hi ha entre hàbitat i nínxol ecològic?",
+"opcions": [
+{
+"id": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"text": "L'hàbitat és el lloc on viu l'organisme i el nínxol és la seva funció i paper en l'ecosistema"
+},
+{
+"id": "opt_8s9t0u1v-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+"text": "Són el mateix"
+},
+{
+"id": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"text": "El nínxol és l'adreça i l'hàbitat és la professió"
+},
+{
+"id": "opt_0u1v2w3x-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+"text": "L'hàbitat només és per als animals i el nínxol per a les plantes"
+}
+],
+"correctOptionId": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"explicacio": "L'hàbitat és l'espai físic, mentre que el nínxol ecològic descriu com l'organisme obté aliment, es reprodueix i interactua.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_6f7g8h9i-0j1k-4l2m-3n4o-5p6q7r8s9t0u",
+"categoria": "verd",
+"pregunta": "Què és la biodiversitat d'un ecosistema?",
+"opcions": [
+{
+"id": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"text": "La varietat d'espècies i d'individus que hi ha en un ecosistema"
+},
+{
+"id": "opt_2w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+"text": "El nombre d'animals grans"
+},
+{
+"id": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"text": "La quantitat d'aigua disponible"
+},
+{
+"id": "opt_4y5z6a7b-8c9d-0e1f-2g3h-4i5j6k7l8m9n",
+"text": "El clima d'una zona"
+}
+],
+"correctOptionId": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"explicacio": "La biodiversitat mesura la riquesa d'espècies i la variabilitat genètica, i és clau per a l'equilibri de l'ecosistema.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_7g8h9i0j-1k2l-4m3n-4o5p-6q7r8s9t0u1v",
+"categoria": "verd",
+"pregunta": "Què és una població en ecologia?",
+"opcions": [
+{
+"id": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"text": "El conjunt d'individus de la mateixa espècie que viuen en un mateix lloc"
+},
+{
+"id": "opt_6a7b8c9d-0e1f-2g3h-4i5j-6k7l8m9n0o1p",
+"text": "Tots els animals d'un bosc"
+},
+{
+"id": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"text": "Els organismes d'un ecosistema"
+},
+{
+"id": "opt_8c9d0e1f-2g3h-4i5j-6k7l-8m9n0o1p2q3r",
+"text": "Les plantes d'un jardí"
+}
+],
+"correctOptionId": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"explicacio": "Una població està formada per individus de la mateixa espècie que comparteixen un territori i es poden reproduir entre ells.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_8h9i0j1k-2l3m-4n4o-5p6q-7r8s9t0u1v2w",
+"categoria": "verd",
+"pregunta": "Què és una comunitat biològica?",
+"opcions": [
+{
+"id": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"text": "El conjunt de poblacions d'espècies diferents que conviuen en un ecosistema"
+},
+{
+"id": "opt_0e1f2g3h-4i5j-6k7l-8m9n-0o1p2q3r4s5t",
+"text": "Només els animals d'una zona"
+},
+{
+"id": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"text": "Els éssers vius sense relacions entre ells"
+},
+{
+"id": "opt_2g3h4i5j-6k7l-8m9n-0o1p-2q3r4s5t6u7v",
+"text": "El medi físic d'un lloc"
+}
+],
+"correctOptionId": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"explicacio": "La comunitat inclou totes les poblacions d'espècies diferents (animals, plantes, fongs, bacteris) que interactuen.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+}
+],
+"blau": [
+{
+"id": "q_9i0j1k2l-3m4n-4o5p-6q7r-8s9t0u1v2w3x",
+"categoria": "blau",
+"pregunta": "Què és una cadena tròfica?",
+"opcions": [
+{
+"id": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"text": "La seqüència d'éssers vius que s'alimenten els uns dels altres"
+},
+{
+"id": "opt_4i5j6k7l-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+"text": "La llista d'animals d'un bosc"
+},
+{
+"id": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"text": "El camí que segueix l'aigua"
+},
+{
+"id": "opt_6k7l8m9n-0o1p-2q3r-4s5t-6u7v8w9x0y1z",
+"text": "La classificació de les plantes"
+}
+],
+"correctOptionId": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"explicacio": "La cadena tròfica mostra com l'energia i la matèria es transmeten des dels productors fins als consumidors i descomponedors.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_0j1k2l3m-4n5o-4p6q-7r8s-9t0u1v2w3x4y",
+"categoria": "blau",
+"pregunta": "Quins són els productors en un ecosistema terrestre?",
+"opcions": [
+{
+"id": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"text": "Les plantes i les algues"
+},
+{
+"id": "opt_8m9n0o1p-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+"text": "Els animals herbívors"
+},
+{
+"id": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"text": "Els fongs"
+},
+{
+"id": "opt_0o1p2q3r-4s5t-6u7v-8w9x-0y1z2a3b4c5d",
+"text": "Els bacteris"
+}
+],
+"correctOptionId": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"explicacio": "Els productors (plantes, algues) són autòtrofs i fabriquen matèria orgànica mitjançant la fotosíntesi.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_1k2l3m4n-5o6p-4q7r-8s9t-0u1v2w3x4y5z",
+"categoria": "blau",
+"pregunta": "Què és un consumidor primari?",
+"opcions": [
+{
+"id": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"text": "Un animal que menja productors (herbívor)"
+},
+{
+"id": "opt_2q3r4s5t-6u7v-8w9x-0y1z-2a3b4c5d6e7f",
+"text": "Un animal que menja carn"
+},
+{
+"id": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"text": "Un descomponedor"
+},
+{
+"id": "opt_4s5t6u7v-8w9x-0y1z-2a3b-4c5d6e7f8g9h",
+"text": "El primer organisme d'una cadena"
+}
+],
+"correctOptionId": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"explicacio": "Els consumidors primaris són els herbívors que s'alimenten directament dels productors.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_2l3m4n5o-6p7q-4r8s-9t0u-1v2w3x4y5z6a",
+"categoria": "blau",
+"pregunta": "Quin és el paper dels descomponedors en l'ecosistema?",
+"opcions": [
+{
+"id": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"text": "Descompondre la matèria orgànica i alliberar nutrients al sòl"
+},
+{
+"id": "opt_6u7v8w9x-0y1z-2a3b-4c5d-6e7f8g9h0i1j",
+"text": "Caçar preses"
+},
+{
+"id": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"text": "Fabricar el seu propi aliment"
+},
+{
+"id": "opt_8w9x0y1z-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+"text": "Competir amb els productors"
+}
+],
+"correctOptionId": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"explicacio": "Els descomponedors (bacteris i fongs) reciclen la matèria orgànica convertint-la en nutrients que les plantes poden reutilitzar.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_3m4n5o6p-7q8r-4s9t-0u1v-2w3x4y5z6a7b",
+"categoria": "blau",
+"pregunta": "Com es diu la relació en què un organisme es beneficia i l'altre en surt perjudicat?",
+"opcions": [
+{
+"id": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"text": "Depredació o parasitisme"
+},
+{
+"id": "opt_0y1z2a3b-4c5d-6e7f-8g9h-0i1j2k3l4m5n",
+"text": "Mutualisme"
+},
+{
+"id": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"text": "Comensalisme"
+},
+{
+"id": "opt_2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+"text": "Simbiosi"
+}
+],
+"correctOptionId": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"explicacio": "En la depredació (un animal mata un altre per alimentar-se) i el parasitisme (un s'alimenta de l'altre sense matar-lo) una espècie surt beneficiada i l'altra perjudicada.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_4n5o6p7q-8r9s-4t0u-1v2w-3x4y5z6a7b8c",
+"categoria": "blau",
+"pregunta": "Què és una xarxa tròfica?",
+"opcions": [
+{
+"id": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"text": "El conjunt de cadenes tròfiques interconnectades d'un ecosistema"
+},
+{
+"id": "opt_4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+"text": "Una cadena alimentària simple"
+},
+{
+"id": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"text": "La relació entre dos animals"
+},
+{
+"id": "opt_6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+"text": "Un tipus de competència"
+}
+],
+"correctOptionId": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"explicacio": "La xarxa tròfica és més realista que una cadena perquè mostra que la majoria d'organismes mengen diverses coses i són menjats per diversos depredadors.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_5o6p7q8r-9s0t-4u1v-2w3x-4y5z6a7b8c9d",
+"categoria": "blau",
+"pregunta": "Què és la competència en un ecosistema?",
+"opcions": [
+{
+"id": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"text": "La lluita per un recurs limitat (aliment, aigua, territori)"
+},
+{
+"id": "opt_8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+"text": "La cooperació entre espècies"
+},
+{
+"id": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"text": "La relació de depredació"
+},
+{
+"id": "opt_0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"text": "La simbiosi obligada"
+}
+],
+"correctOptionId": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"explicacio": "La competència pot ser intraespecífica (entre individus de la mateixa espècie) o interespecífica (entre espècies diferents).",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_6p7q8r9s-0t1u-4v2w-3x4y-5z6a7b8c9d0e",
+"categoria": "blau",
+"pregunta": "Què és el mutualisme?",
+"opcions": [
+{
+"id": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"text": "Una relació on ambdues espècies en surten beneficiades"
+},
+{
+"id": "opt_2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"text": "Una relació on una espècie es beneficia i l'altra no es veu afectada"
+},
+{
+"id": "opt_3l4m5n6o-7p8q-9r0s-1t2u-3v4w5x6y7z8a",
+"text": "Una relació on una espècie en perjudica una altra"
+},
+{
+"id": "opt_4m5n6o7p-8q9r-0s1t-2u3v-4w5x6y7z8a9b",
+"text": "Una relació de depredació"
+}
+],
+"correctOptionId": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"explicacio": "Un exemple de mutualisme és la pol·linització: l'insecte obté aliment i la planta es reprodueix.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+}
+],
+"taronja": [
+{
+"id": "q_7q8r9s0t-1u2v-4w3x-4y5z-6a7b8c9d0e1f",
+"categoria": "taronja",
+"pregunta": "Quin d'aquests és un ecosistema terrestre?",
+"opcions": [
+{
+"id": "opt_5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"text": "El bosc"
+},
+{
+"id": "opt_6o7p8q9r-0s1t-2u3v-4w5x-6y7z8a9b0c1d",
+"text": "L'oceà"
+},
+{
+"id": "opt_7p8q9r0s-1t2u-3v4w-5x6y-7z8a9b0c1d2e",
+"text": "Un estany"
+},
+{
+"id": "opt_8q9r0s1t-2u3v-4w5x-6y7z-8a9b0c1d2e3f",
+"text": "Un riu"
+}
+],
+"correctOptionId": "opt_5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"explicacio": "Els boscos són ecosistemes terrestres, mentre que oceans, estanys i rius són aquàtics.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_8r9s0t1u-2v3w-4x4y-5z6a-7b8c9d0e1f2g",
+"categoria": "taronja",
+"pregunta": "Què caracteritza un ecosistema aquàtic d'aigua dolça?",
+"opcions": [
+{
+"id": "opt_9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"text": "Baixa salinitat, com en rius i llacs"
+},
+{
+"id": "opt_0s1t2u3v-4w5x-6y7z-8a9b-0c1d2e3f4g5h",
+"text": "Alta salinitat, com el mar"
+},
+{
+"id": "opt_1t2u3v4w-5x6y-7z8a-9b0c-1d2e3f4g5h6i",
+"text": "Absència total d'aigua"
+},
+{
+"id": "opt_2u3v4w5x-6y7z-8a9b-0c1d-2e3f4g5h6i7j",
+"text": "Predomini de sòl sec"
+}
+],
+"correctOptionId": "opt_9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"explicacio": "L'aigua dolça té poca sal, i hi viuen espècies com truites, granotes o nenúfars.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_9s0t1u2v-3w4x-4y5z-6a7b-8c9d0e1f2g3h",
+"categoria": "taronja",
+"pregunta": "Quin és l'ecosistema més extens del planeta?",
+"opcions": [
+{
+"id": "opt_3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"text": "L'oceà"
+},
+{
+"id": "opt_4w5x6y7z-8a9b-0c1d-2e3f-4g5h6i7j8k9l",
+"text": "El bosc tropical"
+},
+{
+"id": "opt_5x6y7z8a-9b0c-1d2e-3f4g-5h6i7j8k9l0m",
+"text": "El desert"
+},
+{
+"id": "opt_6y7z8a9b-0c1d-2e3f-4g5h-6i7j8k9l0m1n",
+"text": "La tundra"
+}
+],
+"correctOptionId": "opt_3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"explicacio": "L'oceà cobreix més del 70% de la superfície terrestre i és l'ecosistema més gran.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_0t1u2v3w-4x5y-4z6a-7b8c-9d0e1f2g3h4i",
+"categoria": "taronja",
+"pregunta": "On es troben els ecosistemes de muntanya?",
+"opcions": [
+{
+"id": "opt_7z8a9b0c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+"text": "En zones amb gran altitud i pendents, amb canvis de vegetació segons l'alçada"
+},
+{
+"id": "opt_8a9b0c1d-2e3f-4g5h-6i7j-8k9l0m1n2o3p",
+"text": "A les planes costaneres"
+},
+{
+"id": "opt_9b0c1d2e-3f4g-5h6i-7j8k-9l0m1n2o3p4q",
+"text": "Al fons dels oceans"
+},
+{
+"id": "opt_0c1d2e3f-4g5h-6i7j-8k9l-0m1n2o3p4q5r",
+"text": "Als deserts càlids"
+}
+],
+"correctOptionId": "opt_7z8a9b0c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+"explicacio": "A mesura que pugem, la temperatura baixa i la vegetació canvia (de bosc a prats i roques).",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_1u2v3w4x-5y6z-4a7b-8c9d-0e1f2g3h4i5j",
+"categoria": "taronja",
+"pregunta": "Què és un ecosistema artificial?",
+"opcions": [
+{
+"id": "opt_1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"text": "Un ecosistema creat o modificat pels humans, com un camp de cultiu"
+},
+{
+"id": "opt_2e3f4g5h-6i7j-8k9l-0m1n-2o3p4q5r6s7t",
+"text": "Un bosc verge"
+},
+{
+"id": "opt_3f4g5h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8u",
+"text": "Un escull de corall"
+},
+{
+"id": "opt_4g5h6i7j-8k9l-0m1n-2o3p-4q5r6s7t8u9v",
+"text": "Un aiguamoll natural"
+}
+],
+"correctOptionId": "opt_1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"explicacio": "Els camps de conreu, els parcs urbans o els embassaments són ecosistemes artificials gestionats per persones.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_2v3w4x5y-6z7a-4b8c-9d0e-1f2g3h4i5j6k",
+"categoria": "taronja",
+"pregunta": "Com anomenem els ecosistemes on l'aigua i la terra s'alternen, com els aiguamolls?",
+"opcions": [
+{
+"id": "opt_5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"text": "Ecosistemes mixtos o de transició"
+},
+{
+"id": "opt_6i7j8k9l-0m1n-2o3p-4q5r-6s7t8u9v0w1x",
+"text": "Ecosistemes terrestres"
+},
+{
+"id": "opt_7j8k9l0m-1n2o-3p4q-5r6s-7t8u9v0w1x2y",
+"text": "Ecosistemes aquàtics"
+},
+{
+"id": "opt_8k9l0m1n-2o3p-4q5r-6s7t-8u9v0w1x2y3z",
+"text": "Ecosistemes àrids"
+}
+],
+"correctOptionId": "opt_5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"explicacio": "Els aiguamolls, maresmes i deltes tenen característiques tant terrestres com aquàtiques.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_3w4x5y6z-7a8b-4c9d-0e1f-2g3h4i5j6k7l",
+"categoria": "taronja",
+"pregunta": "Quins factors determinen el tipus d'ecosistema terrestre?",
+"opcions": [
+{
+"id": "opt_9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"text": "El clima (temperatura i precipitacions) i el sòl"
+},
+{
+"id": "opt_0m1n2o3p-4q5r-6s7t-8u9v-0w1x2y3z4a5b",
+"text": "Només la latitud"
+},
+{
+"id": "opt_1n2o3p4q-5r6s-7t8u-9v0w-1x2y3z4a5b6c",
+"text": "La quantitat de llum"
+},
+{
+"id": "opt_2o3p4q5r-6s7t-8u9v-0w1x-2y3z4a5b6c7d",
+"text": "La presència d'animals"
+}
+],
+"correctOptionId": "opt_9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"explicacio": "El clima (temperatura, pluviositat) i el tipus de sòl determinen la vegetació i els animals que hi poden viure.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_4x5y6z7a-8b9c-4d0e-1f2g-3h4i5j6k7l8m",
+"categoria": "taronja",
+"pregunta": "Què és la zona intermareal?",
+"opcions": [
+{
+"id": "opt_3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"text": "La franja de costa que queda al descobert amb la marea baixa i coberta amb la marea alta"
+},
+{
+"id": "opt_4q5r6s7t-8u9v-0w1x-2y3z-4a5b6c7d8e9f",
+"text": "La zona més profunda de l'oceà"
+},
+{
+"id": "opt_5r6s7t8u-9v0w-1x2y-3z4a-5b6c7d8e9f0g",
+"text": "El fons marí sense llum"
+},
+{
+"id": "opt_6s7t8u9v-0w1x-2y3z-4a5b-6c7d8e9f0g1h",
+"text": "La superfície de l'aigua"
+}
+],
+"correctOptionId": "opt_3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"explicacio": "És una zona de transició molt rica en vida, on les espècies han d'adaptar-se a canvis de salinitat, temperatura i dessecació.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+}
+],
+"vermell": [
+{
+"id": "q_5y6z7a8b-9c0d-4e1f-2g3h-4i5j6k7l8m9n",
+"categoria": "vermell",
+"pregunta": "Com s'adapten les plantes del desert a la falta d'aigua?",
+"opcions": [
+{
+"id": "opt_7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+"text": "Amb arrels profundes i tiges suculentes que emmagatzemen aigua"
+},
+{
+"id": "opt_8u9v0w1x-2y3z-4a5b-6c7d-8e9f0g1h2i3j",
+"text": "Amb fulles molt grans"
+},
+{
+"id": "opt_9v0w1x2y-3z4a-5b6c-7d8e-9f0g1h2i3j4k",
+"text": "Amb moltes flors"
+},
+{
+"id": "opt_0w1x2y3z-4a5b-6c7d-8e9f-0g1h2i3j4k5l",
+"text": "Vivint a l'ombra d'altres plantes"
+}
+],
+"correctOptionId": "opt_7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+"explicacio": "Els cactus i altres plantes xeròfites tenen adaptacions per retenir aigua i reduir la pèrdua per transpiració.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_6z7a8b9c-0d1e-4f2g-3h4i-5j6k7l8m9n0o",
+"categoria": "vermell",
+"pregunta": "Com s'adapten els animals de la tundra al fred extrem?",
+"opcions": [
+{
+"id": "opt_1x2y3z4a-5b6c-7d8e-9f0g-1h2i3j4k5l6m",
+"text": "Amb pelatge gruixut, greix sota la pell i mida petita per perdre menys calor"
+},
+{
+"id": "opt_2y3z4a5b-6c7d-8e9f-0g1h-2i3j4k5l6m7n",
+"text": "Amb colors cridaners"
+},
+{
+"id": "opt_3z4a5b6c-7d8e-9f0g-1h2i-3j4k5l6m7n8o",
+"text": "Amb ales per volar lluny"
+},
+{
+"id": "opt_4a5b6c7d-8e9f-0g1h-2i3j-4k5l6m7n8o9p",
+"text": "Amb pell fina"
+}
+],
+"correctOptionId": "opt_1x2y3z4a-5b6c-7d8e-9f0g-1h2i3j4k5l6m",
+"explicacio": "Aquestes adaptacions redueixen la pèrdua de calor i permeten sobreviure a temperatures sota zero.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_7a8b9c0d-1e2f-4g3h-4i5j-6k7l8m9n0o1p",
+"categoria": "vermell",
+"pregunta": "Per què els animals aquàtics tenen formes hidrodinàmiques?",
+"opcions": [
+{
+"id": "opt_5b6c7d8e-9f0g-1h2i-3j4k-5l6m7n8o9p0q",
+"text": "Per reduir la resistència a l'aigua i nedar més fàcilment"
+},
+{
+"id": "opt_6c7d8e9f-0g1h-2i3j-4k5l-6m7n8o9p0q1r",
+"text": "Per ser més bonics"
+},
+{
+"id": "opt_7d8e9f0g-1h2i-3j4k-5l6m-7n8o9p0q1r2s",
+"text": "Per poder respirar millor"
+},
+{
+"id": "opt_8e9f0g1h-2i3j-4k5l-6m7n-8o9p0q1r2s3t",
+"text": "Per alimentar-se més ràpid"
+}
+],
+"correctOptionId": "opt_5b6c7d8e-9f0g-1h2i-3j4k-5l6m7n8o9p0q",
+"explicacio": "La forma allargada i arrodonida (com la dels peixos) redueix la fricció i facilita el moviment en l'aigua.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_8b9c0d1e-2f3g-4h4i-5j6k-7l8m9n0o1p2q",
+"categoria": "vermell",
+"pregunta": "Què és el camuflatge i per què és una adaptació?",
+"opcions": [
+{
+"id": "opt_9f0g1h2i-3j4k-5l6m-7n8o-9p0q1r2s3t4u",
+"text": "Una coloració o forma que permet a l'animal passar desapercebut davant depredadors o preses"
+},
+{
+"id": "opt_0g1h2i3j-4k5l-6m7n-8o9p-0q1r2s3t4u5v",
+"text": "Una manera de cridar l'atenció"
+},
+{
+"id": "opt_1h2i3j4k-5l6m-7n8o-9p0q-1r2s3t4u5v6w",
+"text": "Un tipus de moviment"
+},
+{
+"id": "opt_2i3j4k5l-6m7n-8o9p-0q1r-2s3t4u5v6w7x",
+"text": "Un mecanisme de defensa químic"
+}
+],
+"correctOptionId": "opt_9f0g1h2i-3j4k-5l6m-7n8o-9p0q1r2s3t4u",
+"explicacio": "El camuflatge és una adaptació evolutiva que augmenta la supervivència, per exemple en insectes fulla o en peixos plans.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_9c0d1e2f-3g4h-4i5j-6k7l-8m9n0o1p2q3r",
+"categoria": "vermell",
+"pregunta": "Com s'adapten les plantes dels boscos plujosos a la poca llum al sòl?",
+"opcions": [
+{
+"id": "opt_3j4k5l6m-7n8o-9p0q-1r2s-3t4u5v6w7x8y",
+"text": "Amb fulles grans i amples per captar més llum"
+},
+{
+"id": "opt_4k5l6m7n-8o9p-0q1r-2s3t-4u5v6w7x8y9z",
+"text": "Amb fulles petites i espinoses"
+},
+{
+"id": "opt_5l6m7n8o-9p0q-1r2s-3t4u-5v6w7x8y9z0a",
+"text": "Sense fulles"
+},
+{
+"id": "opt_6m7n8o9p-0q1r-2s3t-4u5v-6w7x8y9z0a1b",
+"text": "Amb arrels aèries"
+}
+],
+"correctOptionId": "opt_3j4k5l6m-7n8o-9p0q-1r2s-3t4u5v6w7x8y",
+"explicacio": "Les fulles grans (com les de les falgueres o els monstres) augmenten la superfície per absorbir la poca llum que arriba a l'interior del bosc.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_0d1e2f3g-4h5i-4j6k-7l8m-9n0o1p2q3r4s",
+"categoria": "vermell",
+"pregunta": "Quina adaptació permet als ocells migrar per sobreviure?",
+"opcions": [
+{
+"id": "opt_7n8o9p0q-1r2s-3t4u-5v6w-7x8y9z0a1b2c",
+"text": "La capacitat de volar llargues distàncies i un sistema de navegació"
+},
+{
+"id": "opt_8o9p0q1r-2s3t-4u5v-6w7x-8y9z0a1b2c3d",
+"text": "El canvi de color de les plomes"
+},
+{
+"id": "opt_9p0q1r2s-3t4u-5v6w-7x8y-9z0a1b2c3d4e",
+"text": "L'emmagatzematge de greix només"
+},
+{
+"id": "opt_0q1r2s3t-4u5v-6w7x-8y9z-0a1b2c3d4e5f",
+"text": "La construcció de nius"
+}
+],
+"correctOptionId": "opt_7n8o9p0q-1r2s-3t4u-5v6w-7x8y9z0a1b2c",
+"explicacio": "La migració permet als ocells seguir el clima favorable i trobar aliment en diferents estacions.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.717Z",
+"updatedAt": "2026-06-22T13:32:02.717Z"
+},
+{
+"id": "q_1e2f3g4h-5i6j-4k7l-8m9n-0o1p2q3r4s5t",
+"categoria": "vermell",
+"pregunta": "Per què els ossos polars tenen la pell negra sota el pèl blanc?",
+"opcions": [
+{
+"id": "opt_1r2s3t4u-5v6w-7x8y-9z0a-1b2c3d4e5f6g",
+"text": "Per absorbir millor la calor del sol"
+},
+{
+"id": "opt_2s3t4u5v-6w7x-8y9z-0a1b-2c3d4e5f6g7h",
+"text": "Per camuflar-se a la neu"
+},
+{
+"id": "opt_3t4u5v6w-7x8y-9z0a-1b2c-3d4e5f6g7h8i",
+"text": "Per espantar els depredadors"
+},
+{
+"id": "opt_4u5v6w7x-8y9z-0a1b-2c3d-4e5f6g7h8i9j",
+"text": "Per nedar més ràpid"
+}
+],
+"correctOptionId": "opt_1r2s3t4u-5v6w-7x8y-9z0a-1b2c3d4e5f6g",
+"explicacio": "La pell negra ajuda a capturar la radiació solar, mentre que el pèl blanc proporciona camuflatge.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+},
+{
+"id": "q_2f3g4h5i-6j7k-4l8m-9n0o-1p2q3r4s5t6u",
+"categoria": "vermell",
+"pregunta": "Què és la hibernació i per què és una adaptació?",
+"opcions": [
+{
+"id": "opt_5v6w7x8y-9z0a-1b2c-3d4e-5f6g7h8i9j0k",
+"text": "Un estat de letargia en què l'animal redueix el metabolisme per estalviar energia en èpoques fredes"
+},
+{
+"id": "opt_6w7x8y9z-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+"text": "Un llarg viatge per buscar menjar"
+},
+{
+"id": "opt_7x8y9z0a-1b2c-3d4e-5f6g-7h8i9j0k1l2m",
+"text": "Un canvi de color de la pell"
+},
+{
+"id": "opt_8y9z0a1b-2c3d-4e5f-6g7h-8i9j0k1l2m3n",
+"text": "Un sistema de caça"
+}
+],
+"correctOptionId": "opt_5v6w7x8y-9z0a-1b2c-3d4e-5f6g7h8i9j0k",
+"explicacio": "La hibernació permet als animals (com l'ós o el liró) sobreviure quan el menjar escasseja i les temperatures baixen.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+}
+],
+"groc": [
+{
+"id": "q_3g4h5i6j-7k8l-4m9n-0o1p-2q3r4s5t6u7v",
+"categoria": "groc",
+"pregunta": "Quina és la font principal d'energia de la majoria d'ecosistemes?",
+"opcions": [
+{
+"id": "opt_9z0a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+"text": "La llum del sol"
+},
+{
+"id": "opt_0a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+"text": "La calor interna de la Terra"
+},
+{
+"id": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"text": "El vent"
+},
+{
+"id": "opt_2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+"text": "La llum de la Lluna"
+}
+],
+"correctOptionId": "opt_9z0a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+"explicacio": "L'energia solar és captada pels productors (plantes) i després flueix a través de les cadenes tròfiques.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_4h5i6j7k-8l9m-4n0o-1p2q-3r4s5t6u7v8w",
+"categoria": "groc",
+"pregunta": "Com es transmet l'energia d'un nivell tròfic a un altre?",
+"opcions": [
+{
+"id": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"text": "Mitjançant l'alimentació (relacions tròfiques)"
+},
+{
+"id": "opt_4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+"text": "Mitjançant la respiració"
+},
+{
+"id": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"text": "Per la fotosíntesi"
+},
+{
+"id": "opt_6g7h8i9j-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+"text": "Per la descomposició"
+}
+],
+"correctOptionId": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"explicacio": "L'energia passa d'un organisme a un altre quan un és consumit per un altre (herbívor, carnívor, etc.).",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_5i6j7k8l-9m0n-4o1p-2q3r-4s5t6u7v8w9x",
+"categoria": "groc",
+"pregunta": "Què passa amb l'energia en cada pas de la cadena tròfica?",
+"opcions": [
+{
+"id": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"text": "Es perd en forma de calor i només una petita part es transfereix al següent nivell"
+},
+{
+"id": "opt_8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+"text": "Es conserva tota"
+},
+{
+"id": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"text": "Augmenta a cada nivell"
+},
+{
+"id": "opt_0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+"text": "Es transforma en matèria"
+}
+],
+"correctOptionId": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"explicacio": "Cada nivell tròfic aprofita aproximadament un 10% de l'energia que rep; la resta es dissipa en calor.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.720Z",
+"updatedAt": "2026-06-22T13:32:02.720Z"
+},
+{
+"id": "q_6j7k8l9m-0n1o-4p2q-3r4s-5t6u7v8w9x0y",
+"categoria": "groc",
+"pregunta": "Què és un cicle biogeoquímic?",
+"opcions": [
+{
+"id": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"text": "El recorregut d'un element químic a través dels éssers vius i el medi ambient"
+},
+{
+"id": "opt_2m3n4o5p-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+"text": "El camí de l'energia"
+},
+{
+"id": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"text": "La reproducció dels organismes"
+},
+{
+"id": "opt_4o5p6q7r-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+"text": "La migració d'animals"
+}
+],
+"correctOptionId": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"explicacio": "Els cicles de l'aigua, del carboni, del nitrogen o del fòsfor són exemples de com la matèria es recicla a l'ecosistema.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_7k8l9m0n-1o2p-4q3r-4s5t-6u7v8w9x0y1z",
+"categoria": "groc",
+"pregunta": "Per què el carboni és essencial per als éssers vius?",
+"opcions": [
+{
+"id": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"text": "Perquè forma part de les molècules orgàniques (glúcids, lípids, proteïnes, àcids nucleics)"
+},
+{
+"id": "opt_6q7r8s9t-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+"text": "Perquè dóna energia directa"
+},
+{
+"id": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"text": "Perquè és un gas inerte"
+},
+{
+"id": "opt_8s9t0u1v-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+"text": "Perquè es troba a l'aire"
+}
+],
+"correctOptionId": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"explicacio": "El carboni és l'element bàsic de la vida; es troba en totes les biomolècules i es recicla a través de la fotosíntesi, respiració i descomposició.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_8l9m0n1o-2p3q-4r4s-5t6u-7v8w9x0y1z2a",
+"categoria": "groc",
+"pregunta": "Què és l'efecte hivernacle natural?",
+"opcions": [
+{
+"id": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"text": "La retenció de calor per part de l'atmosfera, que manté la temperatura adequada per a la vida"
+},
+{
+"id": "opt_0u1v2w3x-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+"text": "L'escalfament provocat pels humans"
+},
+{
+"id": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"text": "La refrigeració del planeta"
+},
+{
+"id": "opt_2w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+"text": "El refredament global"
+}
+],
+"correctOptionId": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"explicacio": "L'efecte hivernacle és un procés natural que manté la Terra calenta; el problema és l'augment excessiu per les emissions de gasos.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_9m0n1o2p-3q4r-4s5t-6u7v-8w9x0y1z2a3b",
+"categoria": "groc",
+"pregunta": "Per què els nutrients han de reciclar-se en un ecosistema?",
+"opcions": [
+{
+"id": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"text": "Perquè els recursos són limitats i els éssers vius els necessiten per créixer i reproduir-se"
+},
+{
+"id": "opt_4y5z6a7b-8c9d-0e1f-2g3h-4i5j6k7l8m9n",
+"text": "Perquè sinó s'acumularien"
+},
+{
+"id": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"text": "Perquè l'energia no es recicla"
+},
+{
+"id": "opt_6a7b8c9d-0e1f-2g3h-4i5j-6k7l8m9n0o1p",
+"text": "Perquè és més barat"
+}
+],
+"correctOptionId": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"explicacio": "La matèria és finita; per tant, ha de ser reutilitzada pels productors gràcies als descomponedors.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+},
+{
+"id": "q_0n1o2p3q-4r5s-4t6u-7v8w-9x0y1z2a3b4c",
+"categoria": "groc",
+"pregunta": "Què és la productivitat primària d'un ecosistema?",
+"opcions": [
+{
+"id": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"text": "La quantitat de matèria orgànica que produeixen els productors (plantes) per unitat de temps"
+},
+{
+"id": "opt_8c9d0e1f-2g3h-4i5j-6k7l-8m9n0o1p2q3r",
+"text": "La quantitat d'animals que hi ha"
+},
+{
+"id": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"text": "El nombre d'espècies diferents"
+},
+{
+"id": "opt_0e1f2g3h-4i5j-6k7l-8m9n-0o1p2q3r4s5t",
+"text": "La quantitat d'aigua disponible"
+}
+],
+"correctOptionId": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"explicacio": "La productivitat primària depèn de la llum, l'aigua i els nutrients, i és la base de tota la xarxa tròfica.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+}
+],
+"lila": [
+{
+"id": "q_1o2p3q4r-5s6t-4u7v-8w9x-0y1z2a3b4c5d",
+"categoria": "lila",
+"pregunta": "Què és la contaminació d'un ecosistema?",
+"opcions": [
+{
+"id": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"text": "L'alteració del medi per substàncies o energies que causen efectes nocius"
+},
+{
+"id": "opt_2g3h4i5j-6k7l-8m9n-0o1p-2q3r4s5t6u7v",
+"text": "La introducció d'espècies noves"
+},
+{
+"id": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"text": "L'augment de la biodiversitat"
+},
+{
+"id": "opt_4i5j6k7l-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+"text": "La sequera"
+}
+],
+"correctOptionId": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"explicacio": "La contaminació pot ser química (pesticides, plàstics), física (soroll, calor) o biològica (espècies invasores).",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_2p3q4r5s-6t7u-4v8w-9x0y-1z2a3b4c5d6e",
+"categoria": "lila",
+"pregunta": "Què és una espècie invasora i per què és un problema?",
+"opcions": [
+{
+"id": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"text": "Una espècie que arriba a un ecosistema nou, es reprodueix ràpidament i desequilibra les relacions"
+},
+{
+"id": "opt_6k7l8m9n-0o1p-2q3r-4s5t-6u7v8w9x0y1z",
+"text": "Una espècie autòctona que s'extingeix"
+},
+{
+"id": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"text": "Una espècie que viu en harmonia"
+},
+{
+"id": "opt_8m9n0o1p-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+"text": "Una espècie que no menja res"
+}
+],
+"correctOptionId": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"explicacio": "Les espècies invasores (com el musclo zebra o la canya de plàstic) poden eliminar espècies autòctones i alterar tot l'ecosistema.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_3q4r5s6t-7u8v-4w9x-0y1z-2a3b4c5d6e7f",
+"categoria": "lila",
+"pregunta": "Què és la desertificació i quines són les seves causes principals?",
+"opcions": [
+{
+"id": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"text": "La degradació del sòl en zones àrides per causes com la deforestació, el sobrepasturatge i el canvi climàtic"
+},
+{
+"id": "opt_0o1p2q3r-4s5t-6u7v-8w9x-0y1z2a3b4c5d",
+"text": "La formació de nous deserts naturals"
+},
+{
+"id": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"text": "L'augment de les pluges"
+},
+{
+"id": "opt_2q3r4s5t-6u7v-8w9x-0y1z-2a3b4c5d6e7f",
+"text": "La construcció de ciutats"
+}
+],
+"correctOptionId": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"explicacio": "La desertificació redueix la capacitat productiva del sòl i amenaça la biodiversitat i les persones que hi viuen.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_4r5s6t7u-8v9w-4x0y-1z2a-3b4c5d6e7f8g",
+"categoria": "lila",
+"pregunta": "Què és l'extinció d'espècies i quines són les principals causes humanes?",
+"opcions": [
+{
+"id": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"text": "La desaparició definitiva d'una espècie a causa de la destrucció d'hàbitat, la caça furtiva o la contaminació"
+},
+{
+"id": "opt_4s5t6u7v-8w9x-0y1z-2a3b-4c5d6e7f8g9h",
+"text": "La migració d'animals"
+},
+{
+"id": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"text": "La selecció natural"
+},
+{
+"id": "opt_6u7v8w9x-0y1z-2a3b-4c5d-6e7f8g9h0i1j",
+"text": "L'aparició de noves espècies"
+}
+],
+"correctOptionId": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"explicacio": "L'activitat humana està accelerant l'extinció a un ritme molt superior al natural, afectant la biodiversitat.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_5s6t7u8v-9w0x-4y1z-2a3b-4c5d6e7f8g9h",
+"categoria": "lila",
+"pregunta": "Com podem ajudar a conservar els ecosistemes des de casa?",
+"opcions": [
+{
+"id": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"text": "Reduint, reutilitzant i reciclant, estalviant aigua i energia, i consumint productes sostenibles"
+},
+{
+"id": "opt_8w9x0y1z-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+"text": "No fent res"
+},
+{
+"id": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"text": "Consumint molt"
+},
+{
+"id": "opt_0y1z2a3b-4c5d-6e7f-8g9h-0i1j2k3l4m5n",
+"text": "Utilitzant molts plàstics"
+}
+],
+"correctOptionId": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"explicacio": "Les accions individuals com reciclar i reduir el consum ajuden a disminuir l'impacte humà sobre els ecosistemes.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_6t7u8v9w-0x1y-4z2a-3b4c-5d6e7f8g9h0i",
+"categoria": "lila",
+"pregunta": "Què és un espai natural protegit i per què és important?",
+"opcions": [
+{
+"id": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"text": "Una àrea que es conserva per mantenir la biodiversitat, els paisatges i els recursos naturals"
+},
+{
+"id": "opt_2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+"text": "Un lloc on es poden caçar animals"
+},
+{
+"id": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"text": "Una zona de construcció"
+},
+{
+"id": "opt_4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+"text": "Un parc d'atraccions"
+}
+],
+"correctOptionId": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"explicacio": "Els parcs nacionals, reserves i espais naturals protegits ajuden a preservar espècies i ecosistemes per a les generacions futures.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_7u8v9w0x-1y2z-4a3b-4c5d-6e7f8g9h0i1j",
+"categoria": "lila",
+"pregunta": "Per què la desforestació afecta el clima global?",
+"opcions": [
+{
+"id": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"text": "Perquè els arbres absorbeixen CO2 i alliberen oxigen; en tallar-los, augmenta el CO2 a l'atmosfera"
+},
+{
+"id": "opt_6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+"text": "Perquè els arbres produeixen pluja"
+},
+{
+"id": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"text": "Perquè els arbres refreden l'aire"
+},
+{
+"id": "opt_8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+"text": "Perquè els arbres consumeixen oxigen"
+}
+],
+"correctOptionId": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"explicacio": "Els boscos actuen com a embornals de carboni; la seva destrucció allibera carboni emmagatzemat i redueix la capacitat de capturar CO2.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+},
+{
+"id": "q_8v9w0x1y-2z3a-4b4c-5d6e-7f8g9h0i1j2k",
+"categoria": "lila",
+"pregunta": "Què és la sobreexplotació de recursos naturals?",
+"opcions": [
+{
+"id": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"text": "L'extracció o consum de recursos per sobre de la seva capacitat de regeneració"
+},
+{
+"id": "opt_0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"text": "L'ús moderat dels recursos"
+},
+{
+"id": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"text": "La conservació dels recursos"
+},
+{
+"id": "opt_2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"text": "La protecció d'espècies"
+}
+],
+"correctOptionId": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"explicacio": "La pesca excessiva, la tala abusiva i l'extracció d'aigua són exemples de sobreexplotació que posen en perill els ecosistemes.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+}
+]
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

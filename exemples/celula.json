@@ -1,0 +1,1374 @@
+{
+"schemaVersion": 3,
+"savedAt": "2026-06-22T13:32:10.841Z",
+"bank": {
+"verd": [
+{
+"id": "q_1a2b3c4d-5e6f-4g7h-8i9j-0k1l2m3n4o5p",
+"categoria": "verd",
+"pregunta": "Quina és la unitat bàsica i funcional de tots els éssers vius?",
+"opcions": [
+{
+"id": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"text": "La cèl·lula"
+},
+{
+"id": "opt_2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+"text": "L'àtom"
+},
+{
+"id": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"text": "El teixit"
+},
+{
+"id": "opt_4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+"text": "L'òrgan"
+}
+],
+"correctOptionId": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"explicacio": "La cèl·lula és la unitat més petita que té vida pròpia i forma tots els éssers vius.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_2b3c4d5e-6f7g-4h8i-9j0k-1l2m3n4o5p6q",
+"categoria": "verd",
+"pregunta": "Quin d'aquests organismes està format per una sola cèl·lula?",
+"opcions": [
+{
+"id": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"text": "El bacteri"
+},
+{
+"id": "opt_6g7h8i9j-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+"text": "Una planta"
+},
+{
+"id": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"text": "Un fong"
+},
+{
+"id": "opt_8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+"text": "Un animal"
+}
+],
+"correctOptionId": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"explicacio": "Els bacteris són organismes unicel·lulars, formats per una única cèl·lula.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_3c4d5e6f-7g8h-4i9j-0k1l-2m3n4o5p6q7r",
+"categoria": "verd",
+"pregunta": "Quina part de la cèl·lula controla totes les funcions i conté l'ADN?",
+"opcions": [
+{
+"id": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"text": "El nucli"
+},
+{
+"id": "opt_0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+"text": "La membrana"
+},
+{
+"id": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"text": "El citoplasma"
+},
+{
+"id": "opt_2m3n4o5p-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+"text": "La paret cel·lular"
+}
+],
+"correctOptionId": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"explicacio": "El nucli conté el material genètic (ADN) i dirigeix les activitats cel·lulars.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_4d5e6f7g-8h9i-4j0k-1l2m-3n4o5p6q7r8s",
+"categoria": "verd",
+"pregunta": "Com s'anomena el material gelatinós que omple la cèl·lula i on es troben els orgànuls?",
+"opcions": [
+{
+"id": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"text": "Citoplasma"
+},
+{
+"id": "opt_4o5p6q7r-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+"text": "Nucli"
+},
+{
+"id": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"text": "Membrana"
+},
+{
+"id": "opt_6q7r8s9t-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+"text": "Vacuola"
+}
+],
+"correctOptionId": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"explicacio": "El citoplasma és la dissolució aquosa on suren els orgànuls i es realitzen moltes reaccions.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_5e6f7g8h-9i0j-4k1l-2m3n-4o5p6q7r8s9t",
+"categoria": "verd",
+"pregunta": "Quina funció té la membrana cel·lular?",
+"opcions": [
+{
+"id": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"text": "Protegeix la cèl·lula i regula el pas de substàncies"
+},
+{
+"id": "opt_8s9t0u1v-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+"text": "Emmagatzema aigua"
+},
+{
+"id": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"text": "Realitza la fotosíntesi"
+},
+{
+"id": "opt_0u1v2w3x-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+"text": "Digereix els nutrients"
+}
+],
+"correctOptionId": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"explicacio": "La membrana és una capa fina que envolta la cèl·lula i selecciona què entra i surt.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_6f7g8h9i-0j1k-4l2m-3n4o-5p6q7r8s9t0u",
+"categoria": "verd",
+"pregunta": "Què vol dir que una cèl·lula és eucariota?",
+"opcions": [
+{
+"id": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"text": "Que té el nucli ben diferenciat i delimitat per una membrana"
+},
+{
+"id": "opt_2w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+"text": "Que no té nucli"
+},
+{
+"id": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"text": "Que és molt petita"
+},
+{
+"id": "opt_4y5z6a7b-8c9d-0e1f-2g3h-4i5j6k7l8m9n",
+"text": "Que viu en ambients extrems"
+}
+],
+"correctOptionId": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"explicacio": "Les cèl·lules eucariotes tenen el material genètic dins d'un nucli separat per una membrana.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_7g8h9i0j-1k2l-4m3n-4o5p-6q7r8s9t0u1v",
+"categoria": "verd",
+"pregunta": "Quin d'aquests organismes és pluricel·lular?",
+"opcions": [
+{
+"id": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"text": "Un arbre"
+},
+{
+"id": "opt_6a7b8c9d-0e1f-2g3h-4i5j-6k7l8m9n0o1p",
+"text": "Un bacteri"
+},
+{
+"id": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"text": "Un protozou"
+},
+{
+"id": "opt_8c9d0e1f-2g3h-4i5j-6k7l-8m9n0o1p2q3r",
+"text": "Un virus"
+}
+],
+"correctOptionId": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"explicacio": "Els arbres estan formats per moltes cèl·lules que treballen juntes.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_8h9i0j1k-2l3m-4n4o-5p6q-7r8s9t0u1v2w",
+"categoria": "verd",
+"pregunta": "Quina és la diferència principal entre una cèl·lula procariota i una eucariota?",
+"opcions": [
+{
+"id": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"text": "La procariota no té nucli definit"
+},
+{
+"id": "opt_0e1f2g3h-4i5j-6k7l-8m9n-0o1p2q3r4s5t",
+"text": "La procariota és més gran"
+},
+{
+"id": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"text": "La eucariota no té membrana"
+},
+{
+"id": "opt_2g3h4i5j-6k7l-8m9n-0o1p-2q3r4s5t6u7v",
+"text": "No hi ha diferència"
+}
+],
+"correctOptionId": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"explicacio": "Les cèl·lules procariotes (com els bacteris) no tenen nucli, mentre que les eucariotes sí.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+}
+],
+"blau": [
+{
+"id": "q_9i0j1k2l-3m4n-4o5p-6q7r-8s9t0u1v2w3x",
+"categoria": "blau",
+"pregunta": "On es realitza la respiració cel·lular per obtenir energia?",
+"opcions": [
+{
+"id": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"text": "Als mitocondris"
+},
+{
+"id": "opt_4i5j6k7l-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+"text": "Als cloroplasts"
+},
+{
+"id": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"text": "A la membrana"
+},
+{
+"id": "opt_6k7l8m9n-0o1p-2q3r-4s5t-6u7v8w9x0y1z",
+"text": "Al nucli"
+}
+],
+"correctOptionId": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"explicacio": "Els mitocondris són els orgànuls que realitzen la respiració cel·lular i produeixen energia.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_0j1k2l3m-4n5o-4p6q-7r8s-9t0u1v2w3x4y",
+"categoria": "blau",
+"pregunta": "Quina funció tenen els cloroplasts a les cèl·lules vegetals?",
+"opcions": [
+{
+"id": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"text": "Fer la fotosíntesi"
+},
+{
+"id": "opt_8m9n0o1p-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+"text": "Emmagatzemar aigua"
+},
+{
+"id": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"text": "Digestionar nutrients"
+},
+{
+"id": "opt_0o1p2q3r-4s5t-6u7v-8w9x-0y1z2a3b4c5d",
+"text": "Controlar l'herència"
+}
+],
+"correctOptionId": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"explicacio": "Els cloroplasts contenen clorofil·la i realitzen la fotosíntesi per crear matèria orgànica.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_1k2l3m4n-5o6p-4q7r-8s9t-0u1v2w3x4y5z",
+"categoria": "blau",
+"pregunta": "Com s'anomena el procés pel qual les cèl·lules obtenen energia dels nutrients?",
+"opcions": [
+{
+"id": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"text": "Respiració cel·lular"
+},
+{
+"id": "opt_2q3r4s5t-6u7v-8w9x-0y1z-2a3b4c5d6e7f",
+"text": "Fotosíntesi"
+},
+{
+"id": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"text": "Digestió"
+},
+{
+"id": "opt_4s5t6u7v-8w9x-0y1z-2a3b-4c5d6e7f8g9h",
+"text": "Excreció"
+}
+],
+"correctOptionId": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"explicacio": "La respiració cel·lular allibera l'energia continguda en els aliments per a les funcions vitals.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_2l3m4n5o-6p7q-4r8s-9t0u-1v2w3x4y5z6a",
+"categoria": "blau",
+"pregunta": "Quina substància absorbeixen les cèl·lules vegetals per fer la fotosíntesi?",
+"opcions": [
+{
+"id": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"text": "Diòxid de carboni"
+},
+{
+"id": "opt_6u7v8w9x-0y1z-2a3b-4c5d-6e7f8g9h0i1j",
+"text": "Oxigen"
+},
+{
+"id": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"text": "Nitrogen"
+},
+{
+"id": "opt_8w9x0y1z-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+"text": "Metà"
+}
+],
+"correctOptionId": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"explicacio": "Les plantes prenen diòxid de carboni de l'aire per sintetitzar glucosa durant la fotosíntesi.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_3m4n5o6p-7q8r-4s9t-0u1v-2w3x4y5z6a7b",
+"categoria": "blau",
+"pregunta": "Què és la nutrició autòtrofa?",
+"opcions": [
+{
+"id": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"text": "Quan l'organisme fabrica el seu propi aliment"
+},
+{
+"id": "opt_0y1z2a3b-4c5d-6e7f-8g9h-0i1j2k3l4m5n",
+"text": "Quan s'alimenta d'altres organismes"
+},
+{
+"id": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"text": "Quan menja matèria orgànica"
+},
+{
+"id": "opt_2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+"text": "Quan no menja"
+}
+],
+"correctOptionId": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"explicacio": "Els éssers autòtrofs, com les plantes, produeixen la seva matèria orgànica a partir de substàncies inorgàniques.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_4n5o6p7q-8r9s-4t0u-1v2w-3x4y5z6a7b8c",
+"categoria": "blau",
+"pregunta": "Quin és el producte de rebuig principal de la respiració cel·lular?",
+"opcions": [
+{
+"id": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"text": "Diòxid de carboni"
+},
+{
+"id": "opt_4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+"text": "Oxigen"
+},
+{
+"id": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"text": "Aigua"
+},
+{
+"id": "opt_6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+"text": "Glucosa"
+}
+],
+"correctOptionId": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"explicacio": "La respiració cel·lular allibera diòxid de carboni com a producte de rebuig.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_5o6p7q8r-9s0t-4u1v-2w3x-4y5z6a7b8c9d",
+"categoria": "blau",
+"pregunta": "Què és la nutrició heteròtrofa?",
+"opcions": [
+{
+"id": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"text": "Quan l'organisme s'alimenta d'altres éssers vius"
+},
+{
+"id": "opt_8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+"text": "Quan fabrica el seu propi aliment"
+},
+{
+"id": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"text": "Quan viu en simbiosi"
+},
+{
+"id": "opt_0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"text": "Quan no necessita menjar"
+}
+],
+"correctOptionId": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"explicacio": "Els heteròtrofs, com els animals i els fongs, obtenen la matèria orgànica d'altres organismes.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_6p7q8r9s-0t1u-4v2w-3x4y-5z6a7b8c9d0e",
+"categoria": "blau",
+"pregunta": "On s'emmagatzema l'aigua i les sals minerals a la cèl·lula vegetal?",
+"opcions": [
+{
+"id": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"text": "A la vacuola"
+},
+{
+"id": "opt_2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"text": "Al cloroplast"
+},
+{
+"id": "opt_3l4m5n6o-7p8q-9r0s-1t2u-3v4w5x6y7z8a",
+"text": "Al mitocondri"
+},
+{
+"id": "opt_4m5n6o7p-8q9r-0s1t-2u3v-4w5x6y7z8a9b",
+"text": "Al nucli"
+}
+],
+"correctOptionId": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"explicacio": "La vacuola és un orgànul que emmagatzema aigua, sals i altres substàncies, i és molt gran a les cèl·lules vegetals.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+}
+],
+"taronja": [
+{
+"id": "q_7q8r9s0t-1u2v-4w3x-4y5z-6a7b8c9d0e1f",
+"categoria": "taronja",
+"pregunta": "Quin orgànul és conegut com la 'central energètica' de la cèl·lula?",
+"opcions": [
+{
+"id": "opt_5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"text": "El mitocondri"
+},
+{
+"id": "opt_6o7p8q9r-0s1t-2u3v-4w5x-6y7z8a9b0c1d",
+"text": "El cloroplast"
+},
+{
+"id": "opt_7p8q9r0s-1t2u-3v4w-5x6y-7z8a9b0c1d2e",
+"text": "El reticle endoplasmàtic"
+},
+{
+"id": "opt_8q9r0s1t-2u3v-4w5x-6y7z-8a9b0c1d2e3f",
+"text": "L'aparell de Golgi"
+}
+],
+"correctOptionId": "opt_5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"explicacio": "Els mitocondris produeixen energia en forma d'ATP a partir de la glucosa.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_8r9s0t1u-2v3w-4x4y-5z6a-7b8c9d0e1f2g",
+"categoria": "taronja",
+"pregunta": "Quina funció té l'aparell de Golgi?",
+"opcions": [
+{
+"id": "opt_9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"text": "Processar, empaquetar i distribuir proteïnes"
+},
+{
+"id": "opt_0s1t2u3v-4w5x-6y7z-8a9b-0c1d2e3f4g5h",
+"text": "Produir energia"
+},
+{
+"id": "opt_1t2u3v4w-5x6y-7z8a-9b0c-1d2e3f4g5h6i",
+"text": "Fer la fotosíntesi"
+},
+{
+"id": "opt_2u3v4w5x-6y7z-8a9b-0c1d-2e3f4g5h6i7j",
+"text": "Emmagatzemar aigua"
+}
+],
+"correctOptionId": "opt_9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"explicacio": "L'aparell de Golgi modifica les proteïnes i les envia cap a dins o fora de la cèl·lula.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_9s0t1u2v-3w4x-4y5z-6a7b-8c9d0e1f2g3h",
+"categoria": "taronja",
+"pregunta": "On es fabriquen les proteïnes a la cèl·lula?",
+"opcions": [
+{
+"id": "opt_3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"text": "Als ribosomes"
+},
+{
+"id": "opt_4w5x6y7z-8a9b-0c1d-2e3f-4g5h6i7j8k9l",
+"text": "Als lisosomes"
+},
+{
+"id": "opt_5x6y7z8a-9b0c-1d2e-3f4g-5h6i7j8k9l0m",
+"text": "Als peroxisomes"
+},
+{
+"id": "opt_6y7z8a9b-0c1d-2e3f-4g5h-6i7j8k9l0m1n",
+"text": "Al nucli"
+}
+],
+"correctOptionId": "opt_3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"explicacio": "Els ribosomes són els orgànuls encarregats de la síntesi de proteïnes.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_0t1u2v3w-4x5y-4z6a-7b8c-9d0e1f2g3h4i",
+"categoria": "taronja",
+"pregunta": "Què fan els lisosomes?",
+"opcions": [
+{
+"id": "opt_7z8a9b0c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+"text": "Digereixen substàncies i restes cel·lulars"
+},
+{
+"id": "opt_8a9b0c1d-2e3f-4g5h-6i7j-8k9l0m1n2o3p",
+"text": "Emmagatzemen aigua"
+},
+{
+"id": "opt_9b0c1d2e-3f4g-5h6i-7j8k-9l0m1n2o3p4q",
+"text": "Realitzen la fotosíntesi"
+},
+{
+"id": "opt_0c1d2e3f-4g5h-6i7j-8k9l-0m1n2o3p4q5r",
+"text": "Controlen l'herència"
+}
+],
+"correctOptionId": "opt_7z8a9b0c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+"explicacio": "Els lisosomes contenen enzims digestius que descomponen materials inútils.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_1u2v3w4x-5y6z-4a7b-8c9d-0e1f2g3h4i5j",
+"categoria": "taronja",
+"pregunta": "Quin orgànul és exclusiu de les cèl·lules vegetals?",
+"opcions": [
+{
+"id": "opt_1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"text": "El cloroplast"
+},
+{
+"id": "opt_2e3f4g5h-6i7j-8k9l-0m1n-2o3p4q5r6s7t",
+"text": "El mitocondri"
+},
+{
+"id": "opt_3f4g5h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8u",
+"text": "El nucli"
+},
+{
+"id": "opt_4g5h6i7j-8k9l-0m1n-2o3p-4q5r6s7t8u9v",
+"text": "El ribosoma"
+}
+],
+"correctOptionId": "opt_1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"explicacio": "Els cloroplasts només es troben a les cèl·lules vegetals i en alguns protists, i realitzen la fotosíntesi.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_2v3w4x5y-6z7a-4b8c-9d0e-1f2g3h4i5j6k",
+"categoria": "taronja",
+"pregunta": "Quina és la funció del reticle endoplasmàtic?",
+"opcions": [
+{
+"id": "opt_5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"text": "Sintetitzar i transportar substàncies"
+},
+{
+"id": "opt_6i7j8k9l-0m1n-2o3p-4q5r-6s7t8u9v0w1x",
+"text": "Produir energia"
+},
+{
+"id": "opt_7j8k9l0m-1n2o-3p4q-5r6s-7t8u9v0w1x2y",
+"text": "Digestionar aliments"
+},
+{
+"id": "opt_8k9l0m1n-2o3p-4q5r-6s7t-8u9v0w1x2y3z",
+"text": "Controlar l'herència"
+}
+],
+"correctOptionId": "opt_5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"explicacio": "El reticle endoplasmàtic és un sistema de canals que ajuda a transportar i sintetitzar lípids i proteïnes.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_3w4x5y6z-7a8b-4c9d-0e1f-2g3h4i5j6k7l",
+"categoria": "taronja",
+"pregunta": "Què és la paret cel·lular i on es troba?",
+"opcions": [
+{
+"id": "opt_9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"text": "Una capa rígida que envolta les cèl·lules vegetals i els bacteris"
+},
+{
+"id": "opt_0m1n2o3p-4q5r-6s7t-8u9v-0w1x2y3z4a5b",
+"text": "Una membrana que només tenen els animals"
+},
+{
+"id": "opt_1n2o3p4q-5r6s-7t8u-9v0w-1x2y3z4a5b6c",
+"text": "El nucli de la cèl·lula"
+},
+{
+"id": "opt_2o3p4q5r-6s7t-8u9v-0w1x-2y3z4a5b6c7d",
+"text": "Un orgànul que produeix energia"
+}
+],
+"correctOptionId": "opt_9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"explicacio": "La paret cel·lular dóna forma i protegeix la cèl·lula vegetal i és impermeable en cert grau.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_4x5y6z7a-8b9c-4d0e-1f2g-3h4i5j6k7l8m",
+"categoria": "taronja",
+"pregunta": "Quin orgànul ajuda a la divisió cel·lular en les cèl·lules animals?",
+"opcions": [
+{
+"id": "opt_3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"text": "El centrosoma"
+},
+{
+"id": "opt_4q5r6s7t-8u9v-0w1x-2y3z-4a5b6c7d8e9f",
+"text": "El cloroplast"
+},
+{
+"id": "opt_5r6s7t8u-9v0w-1x2y-3z4a-5b6c7d8e9f0g",
+"text": "La vacuola"
+},
+{
+"id": "opt_6s7t8u9v-0w1x-2y3z-4a5b-6c7d8e9f0g1h",
+"text": "El nucli"
+}
+],
+"correctOptionId": "opt_3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"explicacio": "El centrosoma organitza els microtúbuls i ajuda a la separació dels cromosomes durant la divisió cel·lular.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+}
+],
+"vermell": [
+{
+"id": "q_5y6z7a8b-9c0d-4e1f-2g3h-4i5j6k7l8m9n",
+"categoria": "vermell",
+"pregunta": "Quina diferència hi ha entre la cèl·lula animal i la vegetal?",
+"opcions": [
+{
+"id": "opt_7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+"text": "La vegetal té paret cel·lular i cloroplasts"
+},
+{
+"id": "opt_8u9v0w1x-2y3z-4a5b-6c7d-8e9f0g1h2i3j",
+"text": "L'animal té paret cel·lular"
+},
+{
+"id": "opt_9v0w1x2y-3z4a-5b6c-7d8e-9f0g1h2i3j4k",
+"text": "La vegetal no té nucli"
+},
+{
+"id": "opt_0w1x2y3z-4a5b-6c7d-8e9f-0g1h2i3j4k5l",
+"text": "No tenen diferències"
+}
+],
+"correctOptionId": "opt_7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+"explicacio": "La cèl·lula vegetal té una paret rígida, cloroplasts i una gran vacuola, mentre que l'animal no.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_6z7a8b9c-0d1e-4f2g-3h4i-5j6k7l8m9n0o",
+"categoria": "vermell",
+"pregunta": "Quin orgànul tenen les cèl·lules vegetals i no les animals?",
+"opcions": [
+{
+"id": "opt_1x2y3z4a-5b6c-7d8e-9f0g-1h2i3j4k5l6m",
+"text": "El cloroplast"
+},
+{
+"id": "opt_2y3z4a5b-6c7d-8e9f-0g1h-2i3j4k5l6m7n",
+"text": "El mitocondri"
+},
+{
+"id": "opt_3z4a5b6c-7d8e-9f0g-1h2i-3j4k5l6m7n8o",
+"text": "El ribosoma"
+},
+{
+"id": "opt_4a5b6c7d-8e9f-0g1h-2i3j-4k5l6m7n8o9p",
+"text": "L'aparell de Golgi"
+}
+],
+"correctOptionId": "opt_1x2y3z4a-5b6c-7d8e-9f0g-1h2i3j4k5l6m",
+"explicacio": "Els cloroplasts només es troben a les cèl·lules vegetals i són els responsables de la fotosíntesi.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_7a8b9c0d-1e2f-4g3h-4i5j-6k7l8m9n0o1p",
+"categoria": "vermell",
+"pregunta": "Com és la forma de la cèl·lula vegetal en comparació amb la animal?",
+"opcions": [
+{
+"id": "opt_5b6c7d8e-9f0g-1h2i-3j4k-5l6m7n8o9p0q",
+"text": "La vegetal sol ser poligonal i rígida"
+},
+{
+"id": "opt_6c7d8e9f-0g1h-2i3j-4k5l-6m7n8o9p0q1r",
+"text": "La vegetal és arrodonida"
+},
+{
+"id": "opt_7d8e9f0g-1h2i-3j4k-5l6m-7n8o9p0q1r2s",
+"text": "La animal té forma de cub"
+},
+{
+"id": "opt_8e9f0g1h-2i3j-4k5l-6m7n-8o9p0q1r2s3t",
+"text": "Totes dues tenen la mateixa forma"
+}
+],
+"correctOptionId": "opt_5b6c7d8e-9f0g-1h2i-3j4k-5l6m7n8o9p0q",
+"explicacio": "La paret cel·lular proporciona rigidesa i forma poligonal a les cèl·lules vegetals.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_8b9c0d1e-2f3g-4h4i-5j6k-7l8m9n0o1p2q",
+"categoria": "vermell",
+"pregunta": "Quina funció tenen els plastidis en les cèl·lules vegetals?",
+"opcions": [
+{
+"id": "opt_9f0g1h2i-3j4k-5l6m-7n8o-9p0q1r2s3t4u",
+"text": "Emmagatzemar nutrients i realitzar la fotosíntesi"
+},
+{
+"id": "opt_0g1h2i3j-4k5l-6m7n-8o9p-0q1r2s3t4u5v",
+"text": "Digestionir aliments"
+},
+{
+"id": "opt_1h2i3j4k-5l6m-7n8o-9p0q-1r2s3t4u5v6w",
+"text": "Controlar el moviment"
+},
+{
+"id": "opt_2i3j4k5l-6m7n-8o9p-0q1r-2s3t4u5v6w7x",
+"text": "Sintetitzar proteïnes"
+}
+],
+"correctOptionId": "opt_9f0g1h2i-3j4k-5l6m-7n8o-9p0q1r2s3t4u",
+"explicacio": "Els plastidis (com els cloroplasts) emmagatzemen midó i realitzen la fotosíntesi en les cèl·lules vegetals.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_9c0d1e2f-3g4h-4i5j-6k7l-8m9n0o1p2q3r",
+"categoria": "vermell",
+"pregunta": "Les cèl·lules animals tenen paret cel·lular?",
+"opcions": [
+{
+"id": "opt_3j4k5l6m-7n8o-9p0q-1r2s-3t4u5v6w7x8y",
+"text": "No, només tenen membrana plasmàtica"
+},
+{
+"id": "opt_4k5l6m7n-8o9p-0q1r-2s3t-4u5v6w7x8y9z",
+"text": "Sí, com les vegetals"
+},
+{
+"id": "opt_5l6m7n8o-9p0q-1r2s-3t4u-5v6w7x8y9z0a",
+"text": "Només algunes"
+},
+{
+"id": "opt_6m7n8o9p-0q1r-2s3t-4u5v-6w7x8y9z0a1b",
+"text": "Depèn de l'edat"
+}
+],
+"correctOptionId": "opt_3j4k5l6m-7n8o-9p0q-1r2s-3t4u5v6w7x8y",
+"explicacio": "Les cèl·lules animals no tenen paret cel·lular; estan envoltades només per la membrana.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_0d1e2f3g-4h5i-4j6k-7l8m-9n0o1p2q3r4s",
+"categoria": "vermell",
+"pregunta": "Quina diferència hi ha en les vacuoles entre cèl·lula animal i vegetal?",
+"opcions": [
+{
+"id": "opt_7n8o9p0q-1r2s-3t4u-5v6w-7x8y9z0a1b2c",
+"text": "La vegetal té una gran vacuola central"
+},
+{
+"id": "opt_8o9p0q1r-2s3t-4u5v-6w7x-8y9z0a1b2c3d",
+"text": "L'animal té vacuoles més grans"
+},
+{
+"id": "opt_9p0q1r2s-3t4u-5v6w-7x8y-9z0a1b2c3d4e",
+"text": "Totes dues tenen vacuoles iguals"
+},
+{
+"id": "opt_0q1r2s3t-4u5v-6w7x-8y9z-0a1b2c3d4e5f",
+"text": "La vegetal no té vacuoles"
+}
+],
+"correctOptionId": "opt_7n8o9p0q-1r2s-3t4u-5v6w-7x8y9z0a1b2c",
+"explicacio": "Les cèl·lules vegetals tenen una vacuola central gran per emmagatzemar aigua, mentre que les animals tenen vacuoles petites o cap.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.717Z",
+"updatedAt": "2026-06-22T13:32:02.717Z"
+},
+{
+"id": "q_1e2f3g4h-5i6j-4k7l-8m9n-0o1p2q3r4s5t",
+"categoria": "vermell",
+"pregunta": "Les cèl·lules animals poden realitzar la fotosíntesi?",
+"opcions": [
+{
+"id": "opt_1r2s3t4u-5v6w-7x8y-9z0a-1b2c3d4e5f6g",
+"text": "No, perquè no tenen cloroplasts"
+},
+{
+"id": "opt_2s3t4u5v-6w7x-8y9z-0a1b-2c3d4e5f6g7h",
+"text": "Sí, com les plantes"
+},
+{
+"id": "opt_3t4u5v6w-7x8y-9z0a-1b2c-3d4e5f6g7h8i",
+"text": "Només si estan al sol"
+},
+{
+"id": "opt_4u5v6w7x-8y9z-0a1b-2c3d-4e5f6g7h8i9j",
+"text": "Depèn del tipus d'animal"
+}
+],
+"correctOptionId": "opt_1r2s3t4u-5v6w-7x8y-9z0a-1b2c3d4e5f6g",
+"explicacio": "Les cèl·lules animals no tenen cloroplasts, per tant no poden fer la fotosíntesi.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+},
+{
+"id": "q_2f3g4h5i-6j7k-4l8m-9n0o-1p2q3r4s5t6u",
+"categoria": "vermell",
+"pregunta": "Quina estructura presenten les cèl·lules vegetals que els dona suport i protecció?",
+"opcions": [
+{
+"id": "opt_5v6w7x8y-9z0a-1b2c-3d4e-5f6g7h8i9j0k",
+"text": "La paret cel·lular"
+},
+{
+"id": "opt_6w7x8y9z-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+"text": "La membrana"
+},
+{
+"id": "opt_7x8y9z0a-1b2c-3d4e-5f6g-7h8i9j0k1l2m",
+"text": "El nucli"
+},
+{
+"id": "opt_8y9z0a1b-2c3d-4e5f-6g7h-8i9j0k1l2m3n",
+"text": "El citoplasma"
+}
+],
+"correctOptionId": "opt_5v6w7x8y-9z0a-1b2c-3d4e-5f6g7h8i9j0k",
+"explicacio": "La paret cel·lular és una capa rígida que protegeix i dóna forma a la cèl·lula vegetal.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+}
+],
+"groc": [
+{
+"id": "q_3g4h5i6j-7k8l-4m9n-0o1p-2q3r4s5t6u7v",
+"categoria": "groc",
+"pregunta": "Què és la fotosíntesi?",
+"opcions": [
+{
+"id": "opt_9z0a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+"text": "Procés que converteix energia solar en química"
+},
+{
+"id": "opt_0a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+"text": "Procés de respiració"
+},
+{
+"id": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"text": "Procés de digestió"
+},
+{
+"id": "opt_2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+"text": "Procés de reproducció"
+}
+],
+"correctOptionId": "opt_9z0a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+"explicacio": "La fotosíntesi utilitza la llum del sol, aigua i diòxid de carboni per crear glucosa i oxigen.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_4h5i6j7k-8l9m-4n0o-1p2q-3r4s5t6u7v8w",
+"categoria": "groc",
+"pregunta": "Quina substància és produïda durant la fotosíntesi com a font d'energia?",
+"opcions": [
+{
+"id": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"text": "Glucosa"
+},
+{
+"id": "opt_4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+"text": "Diòxid de carboni"
+},
+{
+"id": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"text": "Aigua"
+},
+{
+"id": "opt_6g7h8i9j-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+"text": "Oxigen"
+}
+],
+"correctOptionId": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"explicacio": "La glucosa és el sucre que la planta produeix i fa servir com a combustible.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_5i6j7k8l-9m0n-4o1p-2q3r-4s5t6u7v8w9x",
+"categoria": "groc",
+"pregunta": "Com es diu el procés de divisió cel·lular per al creixement i reparació?",
+"opcions": [
+{
+"id": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"text": "Mitosi"
+},
+{
+"id": "opt_8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+"text": "Meiosi"
+},
+{
+"id": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"text": "Fecundació"
+},
+{
+"id": "opt_0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+"text": "Germinació"
+}
+],
+"correctOptionId": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"explicacio": "La mitosi és la divisió cel·lular que produeix dues cèl·lules idèntiques per al creixement.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.720Z",
+"updatedAt": "2026-06-22T13:32:02.720Z"
+},
+{
+"id": "q_6j7k8l9m-0n1o-4p2q-3r4s-5t6u7v8w9x0y",
+"categoria": "groc",
+"pregunta": "Què alliberen les cèl·lules vegetals durant la fotosíntesi?",
+"opcions": [
+{
+"id": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"text": "Oxigen"
+},
+{
+"id": "opt_2m3n4o5p-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+"text": "Diòxid de carboni"
+},
+{
+"id": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"text": "Nitrogen"
+},
+{
+"id": "opt_4o5p6q7r-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+"text": "Metà"
+}
+],
+"correctOptionId": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"explicacio": "L'oxigen és un producte de la fotosíntesi que les plantes alliberen a l'atmosfera.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_7k8l9m0n-1o2p-4q3r-4s5t-6u7v8w9x0y1z",
+"categoria": "groc",
+"pregunta": "Per què les plantes necessiten la llum del sol?",
+"opcions": [
+{
+"id": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"text": "Per realitzar la fotosíntesi"
+},
+{
+"id": "opt_6q7r8s9t-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+"text": "Per respirar"
+},
+{
+"id": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"text": "Per reproduir-se"
+},
+{
+"id": "opt_8s9t0u1v-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+"text": "Per absorbir aigua"
+}
+],
+"correctOptionId": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"explicacio": "La llum és l'energia que impulsa la fotosíntesi per fabricar aliment.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_8l9m0n1o-2p3q-4r4s-5t6u-7v8w9x0y1z2a",
+"categoria": "groc",
+"pregunta": "Què és la meiosi?",
+"opcions": [
+{
+"id": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"text": "Divisió cel·lular que produeix cèl·lules sexuals"
+},
+{
+"id": "opt_0u1v2w3x-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+"text": "Divisió per al creixement"
+},
+{
+"id": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"text": "Procés de nutrició"
+},
+{
+"id": "opt_2w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+"text": "Procés de respiració"
+}
+],
+"correctOptionId": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"explicacio": "La meiosi redueix el nombre de cromosomes a la meitat per formar gàmetes (òvuls i espermatozous).",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_9m0n1o2p-3q4r-4s5t-6u7v-8w9x0y1z2a3b",
+"categoria": "groc",
+"pregunta": "Quina relació hi ha entre la fotosíntesi i la respiració cel·lular?",
+"opcions": [
+{
+"id": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"text": "La fotosíntesi produeix oxigen i glucosa, i la respiració els consumeix"
+},
+{
+"id": "opt_4y5z6a7b-8c9d-0e1f-2g3h-4i5j6k7l8m9n",
+"text": "Són processos independents"
+},
+{
+"id": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"text": "La respiració produeix glucosa"
+},
+{
+"id": "opt_6a7b8c9d-0e1f-2g3h-4i5j-6k7l8m9n0o1p",
+"text": "No tenen relació"
+}
+],
+"correctOptionId": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"explicacio": "La fotosíntesi i la respiració són processos complementaris: la primera produeix aliment i oxigen, la segona els consumeix per obtenir energia.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+},
+{
+"id": "q_0n1o2p3q-4r5s-4t6u-7v8w-9x0y1z2a3b4c",
+"categoria": "groc",
+"pregunta": "Com es diu el conjunt de reaccions que alliberen energia a la cèl·lula?",
+"opcions": [
+{
+"id": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"text": "Catabolisme"
+},
+{
+"id": "opt_8c9d0e1f-2g3h-4i5j-6k7l-8m9n0o1p2q3r",
+"text": "Anabolisme"
+},
+{
+"id": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"text": "Fotosíntesi"
+},
+{
+"id": "opt_0e1f2g3h-4i5j-6k7l-8m9n-0o1p2q3r4s5t",
+"text": "Digestió"
+}
+],
+"correctOptionId": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"explicacio": "El catabolisme és el conjunt de reaccions que descomponen molècules per alliberar energia.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+}
+],
+"lila": [
+{
+"id": "q_1o2p3q4r-5s6t-4u7v-8w9x-0y1z2a3b4c5d",
+"categoria": "lila",
+"pregunta": "Quin instrument s'utilitza per observar les cèl·lules?",
+"opcions": [
+{
+"id": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"text": "El microscopi"
+},
+{
+"id": "opt_2g3h4i5j-6k7l-8m9n-0o1p-2q3r4s5t6u7v",
+"text": "El telescopi"
+},
+{
+"id": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"text": "La lupa"
+},
+{
+"id": "opt_4i5j6k7l-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+"text": "El termòmetre"
+}
+],
+"correctOptionId": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"explicacio": "El microscopi permet veure estructures molt petites, com les cèl·lules, que no es veuen a ull nu.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_2p3q4r5s-6t7u-4v8w-9x0y-1z2a3b4c5d6e",
+"categoria": "lila",
+"pregunta": "Què és una cèl·lula mare?",
+"opcions": [
+{
+"id": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"text": "Una cèl·lula que es pot diferenciar en altres tipus cel·lulars"
+},
+{
+"id": "opt_6k7l8m9n-0o1p-2q3r-4s5t-6u7v8w9x0y1z",
+"text": "La cèl·lula més gran del cos"
+},
+{
+"id": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"text": "Una cèl·lula que només es troba en plantes"
+},
+{
+"id": "opt_8m9n0o1p-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+"text": "Una cèl·lula que no té nucli"
+}
+],
+"correctOptionId": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"explicacio": "Les cèl·lules mare tenen la capacitat de convertir-se en cèl·lules especialitzades, com les musculars o nervioses.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_3q4r5s6t-7u8v-4w9x-0y1z-2a3b4c5d6e7f",
+"categoria": "lila",
+"pregunta": "Per què les cèl·lules són petites?",
+"opcions": [
+{
+"id": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"text": "Perquè la relació superfície/volum permet l'intercanvi eficient de substàncies"
+},
+{
+"id": "opt_0o1p2q3r-4s5t-6u7v-8w9x-0y1z2a3b4c5d",
+"text": "Perquè no cabrien dins dels organismes"
+},
+{
+"id": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"text": "Perquè no tenen prou energia"
+},
+{
+"id": "opt_2q3r4s5t-6u7v-8w9x-0y1z-2a3b4c5d6e7f",
+"text": "Perquè són invisibles"
+}
+],
+"correctOptionId": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"explicacio": "La mida petita permet que els nutrients i els residus entrin i surtin ràpidament a través de la membrana.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_4r5s6t7u-8v9w-4x0y-1z2a-3b4c5d6e7f8g",
+"categoria": "lila",
+"pregunta": "Què és un teixit?",
+"opcions": [
+{
+"id": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"text": "Un conjunt de cèl·lules semblants que realitzen una funció comuna"
+},
+{
+"id": "opt_4s5t6u7v-8w9x-0y1z-2a3b-4c5d6e7f8g9h",
+"text": "Una sola cèl·lula"
+},
+{
+"id": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"text": "Un òrgan"
+},
+{
+"id": "opt_6u7v8w9x-0y1z-2a3b-4c5d-6e7f8g9h0i1j",
+"text": "Un sistema d'òrgans"
+}
+],
+"correctOptionId": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"explicacio": "Els teixits estan formats per cèl·lules especialitzades que treballen juntes, com el teixit muscular.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_5s6t7u8v-9w0x-4y1z-2a3b-4c5d6e7f8g9h",
+"categoria": "lila",
+"pregunta": "Com s'anomena la tècnica per tenyir les cèl·lules i veure-les millor al microscopi?",
+"opcions": [
+{
+"id": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"text": "Tinció"
+},
+{
+"id": "opt_8w9x0y1z-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+"text": "Filtració"
+},
+{
+"id": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"text": "Centrifugació"
+},
+{
+"id": "opt_0y1z2a3b-4c5d-6e7f-8g9h-0i1j2k3l4m5n",
+"text": "Evaporació"
+}
+],
+"correctOptionId": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"explicacio": "La tinció utilitza colorants per destacar les parts de la cèl·lula i facilitar-ne l'observació.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_6t7u8v9w-0x1y-4z2a-3b4c-5d6e7f8g9h0i",
+"categoria": "lila",
+"pregunta": "Per què és important l'estudi de les cèl·lules en medicina?",
+"opcions": [
+{
+"id": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"text": "Per entendre les malalties i desenvolupar tractaments"
+},
+{
+"id": "opt_2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+"text": "Per dissenyar cotxes"
+},
+{
+"id": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"text": "Per construir edificis"
+},
+{
+"id": "opt_4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+"text": "Per fabricar aliments"
+}
+],
+"correctOptionId": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"explicacio": "Moltes malalties afecten les cèl·lules; estudiar-les ajuda a trobar remeis i prevenir malalties.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_7u8v9w0x-1y2z-4a3b-4c5d-6e7f8g9h0i1j",
+"categoria": "lila",
+"pregunta": "Què és la diferenciació cel·lular?",
+"opcions": [
+{
+"id": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"text": "Procés pel qual les cèl·lules s'especialitzen per a una funció determinada"
+},
+{
+"id": "opt_6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+"text": "Procés pel qual les cèl·lules es divideixen"
+},
+{
+"id": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"text": "Procés de mort cel·lular"
+},
+{
+"id": "opt_8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+"text": "Procés de reproducció"
+}
+],
+"correctOptionId": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"explicacio": "La diferenciació converteix cèl·lules mare en cèl·lules especialitzades, com neurones o glòbuls vermells.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+},
+{
+"id": "q_8v9w0x1y-2z3a-4b4c-5d6e-7f8g9h0i1j2k",
+"categoria": "lila",
+"pregunta": "Com es diu la cèl·lula més gran del cos humà?",
+"opcions": [
+{
+"id": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"text": "L'òvul"
+},
+{
+"id": "opt_0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"text": "L'espermatozou"
+},
+{
+"id": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"text": "La neurona"
+},
+{
+"id": "opt_2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"text": "El glòbul vermell"
+}
+],
+"correctOptionId": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"explicacio": "L'òvul és la cèl·lula més gran del cos humà, visible a simple vista.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+}
+]
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+

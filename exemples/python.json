@@ -1,0 +1,1389 @@
+{
+"schemaVersion": 3,
+"savedAt": "2026-06-22T13:32:10.841Z",
+"bank": {
+"verd": [
+{
+"id": "q_1a2b3c4d-5e6f-4g7h-8i9j-0k1l2m3n4o5p",
+"categoria": "verd",
+"pregunta": "Quina instrucció s'utilitza per mostrar text per pantalla en Python?",
+"opcions": [
+{
+"id": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"text": "print()"
+},
+{
+"id": "opt_2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+"text": "input()"
+},
+{
+"id": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"text": "output()"
+},
+{
+"id": "opt_4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+"text": "write()"
+}
+],
+"correctOptionId": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"explicacio": "La funció print() mostra el text o el valor que li passem entre parèntesis per la consola.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_2b3c4d5e-6f7g-4h8i-9j0k-1l2m3n4o5p6q",
+"categoria": "verd",
+"pregunta": "Com es declara una variable en Python?",
+"opcions": [
+{
+"id": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"text": "Escrivint el nom i assignant-li un valor amb ="
+},
+{
+"id": "opt_6g7h8i9j-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+"text": "Utilitzant la paraula clau var"
+},
+{
+"id": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"text": "Amb la instrucció declare"
+},
+{
+"id": "opt_8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+"text": "No cal declarar, s'usa directament el nom"
+}
+],
+"correctOptionId": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"explicacio": "En Python, una variable es crea en el moment que li assignem un valor, per exemple: edat = 12.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_3c4d5e6f-7g8h-4i9j-0k1l-2m3n4o5p6q7r",
+"categoria": "verd",
+"pregunta": "Quin símbol s'utilitza per escriure un comentari en Python?",
+"opcions": [
+{
+"id": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"text": "#"
+},
+{
+"id": "opt_0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+"text": "//"
+},
+{
+"id": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"text": "/*"
+},
+{
+"id": "opt_2m3n4o5p-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+"text": "--"
+}
+],
+"correctOptionId": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"explicacio": "El símbol # indica que la resta de la línia és un comentari i Python l'ignorarà.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.708Z",
+"updatedAt": "2026-06-22T13:32:02.708Z"
+},
+{
+"id": "q_4d5e6f7g-8h9i-4j0k-1l2m-3n4o5p6q7r8s",
+"categoria": "verd",
+"pregunta": "Quina funció s'utilitza per llegir dades de l'usuari des del teclat?",
+"opcions": [
+{
+"id": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"text": "input()"
+},
+{
+"id": "opt_4o5p6q7r-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+"text": "read()"
+},
+{
+"id": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"text": "scan()"
+},
+{
+"id": "opt_6q7r8s9t-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+"text": "get()"
+}
+],
+"correctOptionId": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"explicacio": "input() permet capturar el que escriu l'usuari i retornar-ho com a cadena de text.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_5e6f7g8h-9i0j-4k1l-2m3n-4o5p6q7r8s9t",
+"categoria": "verd",
+"pregunta": "Quina és la manera correcta d'escriure un nom de variable en Python?",
+"opcions": [
+{
+"id": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"text": "nom_estudiant"
+},
+{
+"id": "opt_8s9t0u1v-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+"text": "nom-estudiant"
+},
+{
+"id": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"text": "nom estudiant"
+},
+{
+"id": "opt_0u1v2w3x-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+"text": "1nom_estudiant"
+}
+],
+"correctOptionId": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"explicacio": "Els noms de variables poden contenir lletres, números i guions baixos, però no comencen amb número ni tenen espais.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_6f7g8h9i-0j1k-4l2m-3n4o-5p6q7r8s9t0u",
+"categoria": "verd",
+"pregunta": "Què és un tipus de dada en Python?",
+"opcions": [
+{
+"id": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"text": "La classe de valor que pot tenir una variable (nombre, text, etc.)"
+},
+{
+"id": "opt_2w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+"text": "La mida de la variable"
+},
+{
+"id": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"text": "El nom de la variable"
+},
+{
+"id": "opt_4y5z6a7b-8c9d-0e1f-2g3h-4i5j6k7l8m9n",
+"text": "La posició a la memòria"
+}
+],
+"correctOptionId": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"explicacio": "Els tipus bàsics són int (enter), float (decimal), str (cadena) i bool (booleà).",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_7g8h9i0j-1k2l-4m3n-4o5p-6q7r8s9t0u1v",
+"categoria": "verd",
+"pregunta": "Com es converteix un número en text en Python?",
+"opcions": [
+{
+"id": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"text": "str(num)"
+},
+{
+"id": "opt_6a7b8c9d-0e1f-2g3h-4i5j-6k7l8m9n0o1p",
+"text": "int(num)"
+},
+{
+"id": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"text": "float(num)"
+},
+{
+"id": "opt_8c9d0e1f-2g3h-4i5j-6k7l-8m9n0o1p2q3r",
+"text": "bool(num)"
+}
+],
+"correctOptionId": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"explicacio": "La funció str() converteix qualsevol valor a cadena de text.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.709Z",
+"updatedAt": "2026-06-22T13:32:02.709Z"
+},
+{
+"id": "q_8h9i0j1k-2l3m-4n4o-5p6q-7r8s9t0u1v2w",
+"categoria": "verd",
+"pregunta": "Què fa l'operador '+' entre dues cadenes de text?",
+"opcions": [
+{
+"id": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"text": "Les concatena (les uneix)"
+},
+{
+"id": "opt_0e1f2g3h-4i5j-6k7l-8m9n-0o1p2q3r4s5t",
+"text": "Les resta"
+},
+{
+"id": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"text": "Les multiplica"
+},
+{
+"id": "opt_2g3h4i5j-6k7l-8m9n-0o1p-2q3r4s5t6u7v",
+"text": "Les divideix"
+}
+],
+"correctOptionId": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"explicacio": "Per exemple: 'Hola' + ' ' + 'món' dóna 'Hola món'.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+}
+],
+"blau": [
+{
+"id": "q_9i0j1k2l-3m4n-4o5p-6q7r-8s9t0u1v2w3x",
+"categoria": "blau",
+"pregunta": "Com es comparen dos valors per veure si són iguals en Python?",
+"opcions": [
+{
+"id": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"text": "=="
+},
+{
+"id": "opt_4i5j6k7l-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+"text": "="
+},
+{
+"id": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"text": "!="
+},
+{
+"id": "opt_6k7l8m9n-0o1p-2q3r-4s5t-6u7v8w9x0y1z",
+"text": "<>"
+}
+],
+"correctOptionId": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"explicacio": "L'operador '==' compara igualtat, mentre que '=' s'utilitza per assignar.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_0j1k2l3m-4n5o-4p6q-7r8s-9t0u1v2w3x4y",
+"categoria": "blau",
+"pregunta": "Quin operador s'utilitza per comprovar si un valor és més gran que un altre?",
+"opcions": [
+{
+"id": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"text": ">"
+},
+{
+"id": "opt_8m9n0o1p-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+"text": "<"
+},
+{
+"id": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"text": ">="
+},
+{
+"id": "opt_0o1p2q3r-4s5t-6u7v-8w9x-0y1z2a3b4c5d",
+"text": "<="
+}
+],
+"correctOptionId": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"explicacio": "'>' significa 'més gran que' i retorna True o False.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_1k2l3m4n-5o6p-4q7r-8s9t-0u1v2w3x4y5z",
+"categoria": "blau",
+"pregunta": "Quin tipus de dada s'usa per a valors verdaders o falsos?",
+"opcions": [
+{
+"id": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"text": "bool"
+},
+{
+"id": "opt_2q3r4s5t-6u7v-8w9x-0y1z-2a3b4c5d6e7f",
+"text": "int"
+},
+{
+"id": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"text": "str"
+},
+{
+"id": "opt_4s5t6u7v-8w9x-0y1z-2a3b-4c5d6e7f8g9h",
+"text": "float"
+}
+],
+"correctOptionId": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"explicacio": "El tipus bool només pot ser True o False, és molt útil per a condicions.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.710Z",
+"updatedAt": "2026-06-22T13:32:02.710Z"
+},
+{
+"id": "q_2l3m4n5o-6p7q-4r8s-9t0u-1v2w3x4y5z6a",
+"categoria": "blau",
+"pregunta": "Què fa l'operador '%' en Python?",
+"opcions": [
+{
+"id": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"text": "Retorna el residu d'una divisió"
+},
+{
+"id": "opt_6u7v8w9x-0y1z-2a3b-4c5d-6e7f8g9h0i1j",
+"text": "Divideix dos nombres"
+},
+{
+"id": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"text": "Multiplica nombres"
+},
+{
+"id": "opt_8w9x0y1z-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+"text": "Resta nombres"
+}
+],
+"correctOptionId": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"explicacio": "Per exemple: 10 % 3 dóna 1, perquè 10 dividit entre 3 dóna residu 1.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_3m4n5o6p-7q8r-4s9t-0u1v-2w3x4y5z6a7b",
+"categoria": "blau",
+"pregunta": "Com s'escriu un número decimal en Python?",
+"opcions": [
+{
+"id": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"text": "3.14"
+},
+{
+"id": "opt_0y1z2a3b-4c5d-6e7f-8g9h-0i1j2k3l4m5n",
+"text": "3,14"
+},
+{
+"id": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"text": "314"
+},
+{
+"id": "opt_2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+"text": "3/14"
+}
+],
+"correctOptionId": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"explicacio": "Els decimals s'escriuen amb punt (.) com a separador decimal.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_4n5o6p7q-8r9s-4t0u-1v2w-3x4y5z6a7b8c",
+"categoria": "blau",
+"pregunta": "Què retorna l'expressió '5 > 3' en Python?",
+"opcions": [
+{
+"id": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"text": "True"
+},
+{
+"id": "opt_4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+"text": "False"
+},
+{
+"id": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"text": "5"
+},
+{
+"id": "opt_6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+"text": "3"
+}
+],
+"correctOptionId": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"explicacio": "Com que 5 és més gran que 3, el resultat és True.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_5o6p7q8r-9s0t-4u1v-2w3x-4y5z6a7b8c9d",
+"categoria": "blau",
+"pregunta": "Com es verifica si dues variables no són iguals?",
+"opcions": [
+{
+"id": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"text": "!="
+},
+{
+"id": "opt_8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+"text": "=="
+},
+{
+"id": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"text": "<>"
+},
+{
+"id": "opt_0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"text": "is not"
+}
+],
+"correctOptionId": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"explicacio": "L'operador '!=' retorna True si els valors són diferents.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.711Z",
+"updatedAt": "2026-06-22T13:32:02.711Z"
+},
+{
+"id": "q_6p7q8r9s-0t1u-4v2w-3x4y-5z6a7b8c9d0e",
+"categoria": "blau",
+"pregunta": "Què fa la funció type() en Python?",
+"opcions": [
+{
+"id": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"text": "Retorna el tipus de dada d'una variable"
+},
+{
+"id": "opt_2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"text": "Canvia el tipus de dada"
+},
+{
+"id": "opt_3l4m5n6o-7p8q-9r0s-1t2u-3v4w5x6y7z8a",
+"text": "Comprova si una variable existeix"
+},
+{
+"id": "opt_4m5n6o7p-8q9r-0s1t-2u3v-4w5x6y7z8a9b",
+"text": "Elimina una variable"
+}
+],
+"correctOptionId": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"explicacio": "Per exemple: type(5) retorna <class 'int'>.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+}
+],
+"taronja": [
+{
+"id": "q_7q8r9s0t-1u2v-4w3x-4y5z-6a7b8c9d0e1f",
+"categoria": "taronja",
+"pregunta": "Quina paraula clau s'utilitza per a una estructura condicional en Python?",
+"opcions": [
+{
+"id": "opt_5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"text": "if"
+},
+{
+"id": "opt_6o7p8q9r-0s1t-2u3v-4w5x-6y7z8a9b0c1d",
+"text": "when"
+},
+{
+"id": "opt_7p8q9r0s-1t2u-3v4w-5x6y-7z8a9b0c1d2e",
+"text": "case"
+},
+{
+"id": "opt_8q9r0s1t-2u3v-4w5x-6y7z-8a9b0c1d2e3f",
+"text": "switch"
+}
+],
+"correctOptionId": "opt_5n6o7p8q-9r0s-1t2u-3v4w-5x6y7z8a9b0c",
+"explicacio": "La paraula clau if s'utilitza per a executar codi només si es compleix una condició.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_8r9s0t1u-2v3w-4x4y-5z6a-7b8c9d0e1f2g",
+"categoria": "taronja",
+"pregunta": "Quina estructura s'usa per a executar un bloc si la condició és falsa?",
+"opcions": [
+{
+"id": "opt_9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"text": "else"
+},
+{
+"id": "opt_0s1t2u3v-4w5x-6y7z-8a9b-0c1d2e3f4g5h",
+"text": "elif"
+},
+{
+"id": "opt_1t2u3v4w-5x6y-7z8a-9b0c-1d2e3f4g5h6i",
+"text": "then"
+},
+{
+"id": "opt_2u3v4w5x-6y7z-8a9b-0c1d-2e3f4g5h6i7j",
+"text": "else if"
+}
+],
+"correctOptionId": "opt_9r0s1t2u-3v4w-5x6y-7z8a-9b0c1d2e3f4g",
+"explicacio": "La clàusula else s'executa si la condició de l'if és False.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.712Z",
+"updatedAt": "2026-06-22T13:32:02.712Z"
+},
+{
+"id": "q_9s0t1u2v-3w4x-4y5z-6a7b-8c9d0e1f2g3h",
+"categoria": "taronja",
+"pregunta": "Com s'escriu una condició per a comprovar si un nombre és parell?",
+"opcions": [
+{
+"id": "opt_3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"text": "num % 2 == 0"
+},
+{
+"id": "opt_4w5x6y7z-8a9b-0c1d-2e3f-4g5h6i7j8k9l",
+"text": "num / 2 == 0"
+},
+{
+"id": "opt_5x6y7z8a-9b0c-1d2e-3f4g-5h6i7j8k9l0m",
+"text": "num % 2 = 0"
+},
+{
+"id": "opt_6y7z8a9b-0c1d-2e3f-4g5h-6i7j8k9l0m1n",
+"text": "num // 2 == 0"
+}
+],
+"correctOptionId": "opt_3v4w5x6y-7z8a-9b0c-1d2e-3f4g5h6i7j8k",
+"explicacio": "El residu de dividir entre 2 és 0 si el nombre és parell.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_0t1u2v3w-4x5y-4z6a-7b8c-9d0e1f2g3h4i",
+"categoria": "taronja",
+"pregunta": "Com s'encadenen diverses condicions en un if?",
+"opcions": [
+{
+"id": "opt_7z8a9b0c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+"text": "Utilitzant 'and' i 'or'"
+},
+{
+"id": "opt_8a9b0c1d-2e3f-4g5h-6i7j-8k9l0m1n2o3p",
+"text": "Utilitzant '&' i '|'"
+},
+{
+"id": "opt_9b0c1d2e-3f4g-5h6i-7j8k-9l0m1n2o3p4q",
+"text": "Utilitzant '+' i '-'"
+},
+{
+"id": "opt_0c1d2e3f-4g5h-6i7j-8k9l-0m1n2o3p4q5r",
+"text": "Utilitzant '&&' i '||'"
+}
+],
+"correctOptionId": "opt_7z8a9b0c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+"explicacio": "'and' requereix que totes les condicions siguin True; 'or' només una.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_1u2v3w4x-5y6z-4a7b-8c9d-0e1f2g3h4i5j",
+"categoria": "taronja",
+"pregunta": "Quin és el resultat de la següent condició: 10 > 5 and 3 < 4?",
+"opcions": [
+{
+"id": "opt_1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"text": "True"
+},
+{
+"id": "opt_2e3f4g5h-6i7j-8k9l-0m1n-2o3p4q5r6s7t",
+"text": "False"
+},
+{
+"id": "opt_3f4g5h6i-7j8k-9l0m-1n2o-3p4q5r6s7t8u",
+"text": "Error"
+},
+{
+"id": "opt_4g5h6i7j-8k9l-0m1n-2o3p-4q5r6s7t8u9v",
+"text": "10"
+}
+],
+"correctOptionId": "opt_1d2e3f4g-5h6i-7j8k-9l0m-1n2o3p4q5r6s",
+"explicacio": "10 > 5 és True i 3 < 4 també és True, per tant amb 'and' el resultat és True.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.713Z",
+"updatedAt": "2026-06-22T13:32:02.713Z"
+},
+{
+"id": "q_2v3w4x5y-6z7a-4b8c-9d0e-1f2g3h4i5j6k",
+"categoria": "taronja",
+"pregunta": "Què fa la paraula clau 'elif'?",
+"opcions": [
+{
+"id": "opt_5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"text": "Permet comprovar una altra condició si la primera és falsa"
+},
+{
+"id": "opt_6i7j8k9l-0m1n-2o3p-4q5r-6s7t8u9v0w1x",
+"text": "Força que la condició sigui certa"
+},
+{
+"id": "opt_7j8k9l0m-1n2o-3p4q-5r6s-7t8u9v0w1x2y",
+"text": "Finalitza el programa"
+},
+{
+"id": "opt_8k9l0m1n-2o3p-4q5r-6s7t-8u9v0w1x2y3z",
+"text": "Defineix una funció"
+}
+],
+"correctOptionId": "opt_5h6i7j8k-9l0m-1n2o-3p4q-5r6s7t8u9v0w",
+"explicacio": "'elif' és l'abreviació de 'else if' i s'usa en cadenes de condicions.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_3w4x5y6z-7a8b-4c9d-0e1f-2g3h4i5j6k7l",
+"categoria": "taronja",
+"pregunta": "Quin operador s'usa per negar una condició en Python?",
+"opcions": [
+{
+"id": "opt_9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"text": "not"
+},
+{
+"id": "opt_0m1n2o3p-4q5r-6s7t-8u9v-0w1x2y3z4a5b",
+"text": "!"
+},
+{
+"id": "opt_1n2o3p4q-5r6s-7t8u-9v0w-1x2y3z4a5b6c",
+"text": "-"
+},
+{
+"id": "opt_2o3p4q5r-6s7t-8u9v-0w1x-2y3z4a5b6c7d",
+"text": "~"
+}
+],
+"correctOptionId": "opt_9l0m1n2o-3p4q-5r6s-7t8u-9v0w1x2y3z4a",
+"explicacio": "not inverteix el valor booleà: not True es converteix en False.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+},
+{
+"id": "q_4x5y6z7a-8b9c-4d0e-1f2g-3h4i5j6k7l8m",
+"categoria": "taronja",
+"pregunta": "Què fa el codi: if 5: print('Hola')?",
+"opcions": [
+{
+"id": "opt_3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"text": "Mostra 'Hola' perquè 5 és considerat True"
+},
+{
+"id": "opt_4q5r6s7t-8u9v-0w1x-2y3z-4a5b6c7d8e9f",
+"text": "No mostra res perquè 5 és False"
+},
+{
+"id": "opt_5r6s7t8u-9v0w-1x2y-3z4a-5b6c7d8e9f0g",
+"text": "Mostra un error"
+},
+{
+"id": "opt_6s7t8u9v-0w1x-2y3z-4a5b-6c7d8e9f0g1h",
+"text": "Mostra 'Hola' si 5 és parell"
+}
+],
+"correctOptionId": "opt_3p4q5r6s-7t8u-9v0w-1x2y-3z4a5b6c7d8e",
+"explicacio": "Qualsevol número diferent de 0 es considera True en una condició.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.714Z",
+"updatedAt": "2026-06-22T13:32:02.714Z"
+}
+],
+"vermell": [
+{
+"id": "q_5y6z7a8b-9c0d-4e1f-2g3h-4i5j6k7l8m9n",
+"categoria": "vermell",
+"pregunta": "Quina instrucció s'usa per a crear un bucle que repeteix un bloc un nombre definit de vegades?",
+"opcions": [
+{
+"id": "opt_7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+"text": "for"
+},
+{
+"id": "opt_8u9v0w1x-2y3z-4a5b-6c7d-8e9f0g1h2i3j",
+"text": "while"
+},
+{
+"id": "opt_9v0w1x2y-3z4a-5b6c-7d8e-9f0g1h2i3j4k",
+"text": "loop"
+},
+{
+"id": "opt_0w1x2y3z-4a5b-6c7d-8e9f-0g1h2i3j4k5l",
+"text": "repeat"
+}
+],
+"correctOptionId": "opt_7t8u9v0w-1x2y-3z4a-5b6c-7d8e9f0g1h2i",
+"explicacio": "El bucle 'for' itera sobre una seqüència (com una llista o un rang) un nombre determinat de vegades.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_6z7a8b9c-0d1e-4f2g-3h4i-5j6k7l8m9n0o",
+"categoria": "vermell",
+"pregunta": "Com es crea un bucle while en Python?",
+"opcions": [
+{
+"id": "opt_1x2y3z4a-5b6c-7d8e-9f0g-1h2i3j4k5l6m",
+"text": "while condició:"
+},
+{
+"id": "opt_2y3z4a5b-6c7d-8e9f-0g1h-2i3j4k5l6m7n",
+"text": "while (condició) {"
+},
+{
+"id": "opt_3z4a5b6c-7d8e-9f0g-1h2i-3j4k5l6m7n8o",
+"text": "loop condició:"
+},
+{
+"id": "opt_4a5b6c7d-8e9f-0g1h-2i3j-4k5l6m7n8o9p",
+"text": "repeat while condició:"
+}
+],
+"correctOptionId": "opt_1x2y3z4a-5b6c-7d8e-9f0g-1h2i3j4k5l6m",
+"explicacio": "La sintaxi correcta és 'while condició:' i el bloc s'identa.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.715Z"
+},
+{
+"id": "q_7a8b9c0d-1e2f-4g3h-4i5j-6k7l8m9n0o1p",
+"categoria": "vermell",
+"pregunta": "Què fa el codi: for i in range(3): print(i)?",
+"opcions": [
+{
+"id": "opt_5b6c7d8e-9f0g-1h2i-3j4k-5l6m7n8o9p0q",
+"text": "Mostra 0, 1, 2"
+},
+{
+"id": "opt_6c7d8e9f-0g1h-2i3j-4k5l-6m7n8o9p0q1r",
+"text": "Mostra 1, 2, 3"
+},
+{
+"id": "opt_7d8e9f0g-1h2i-3j4k-5l6m-7n8o9p0q1r2s",
+"text": "Mostra 0, 1, 2, 3"
+},
+{
+"id": "opt_8e9f0g1h-2i3j-4k5l-6m7n-8o9p0q1r2s3t",
+"text": "Mostra 3, 2, 1"
+}
+],
+"correctOptionId": "opt_5b6c7d8e-9f0g-1h2i-3j4k-5l6m7n8o9p0q",
+"explicacio": "range(3) genera els números 0, 1 i 2.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.715Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_8b9c0d1e-2f3g-4h4i-5j6k-7l8m9n0o1p2q",
+"categoria": "vermell",
+"pregunta": "Com es pot sortir d'un bucle abans que acabi?",
+"opcions": [
+{
+"id": "opt_9f0g1h2i-3j4k-5l6m-7n8o-9p0q1r2s3t4u",
+"text": "break"
+},
+{
+"id": "opt_0g1h2i3j-4k5l-6m7n-8o9p-0q1r2s3t4u5v",
+"text": "exit"
+},
+{
+"id": "opt_1h2i3j4k-5l6m-7n8o-9p0q-1r2s3t4u5v6w",
+"text": "stop"
+},
+{
+"id": "opt_2i3j4k5l-6m7n-8o9p-0q1r-2s3t4u5v6w7x",
+"text": "return"
+}
+],
+"correctOptionId": "opt_9f0g1h2i-3j4k-5l6m-7n8o-9p0q1r2s3t4u",
+"explicacio": "La instrucció 'break' interromp el bucle immediatament.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_9c0d1e2f-3g4h-4i5j-6k7l-8m9n0o1p2q3r",
+"categoria": "vermell",
+"pregunta": "Què fa 'continue' dins d'un bucle?",
+"opcions": [
+{
+"id": "opt_3j4k5l6m-7n8o-9p0q-1r2s-3t4u5v6w7x8y",
+"text": "Salta a la següent iteració sense executar la resta del bloc"
+},
+{
+"id": "opt_4k5l6m7n-8o9p-0q1r-2s3t-4u5v6w7x8y9z",
+"text": "Atura el bucle"
+},
+{
+"id": "opt_5l6m7n8o-9p0q-1r2s-3t4u-5v6w7x8y9z0a",
+"text": "Repeteix la iteració"
+},
+{
+"id": "opt_6m7n8o9p-0q1r-2s3t-4u5v-6w7x8y9z0a1b",
+"text": "Reinicia la variable del bucle"
+}
+],
+"correctOptionId": "opt_3j4k5l6m-7n8o-9p0q-1r2s-3t4u5v6w7x8y",
+"explicacio": "'continue' fa que Python torni a l'inici del bucle per a la següent iteració.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.716Z",
+"updatedAt": "2026-06-22T13:32:02.716Z"
+},
+{
+"id": "q_0d1e2f3g-4h5i-4j6k-7l8m-9n0o1p2q3r4s",
+"categoria": "vermell",
+"pregunta": "Què és un bucle infinit?",
+"opcions": [
+{
+"id": "opt_7n8o9p0q-1r2s-3t4u-5v6w-7x8y9z0a1b2c",
+"text": "Un bucle que mai acaba perquè la condició sempre és True"
+},
+{
+"id": "opt_8o9p0q1r-2s3t-4u5v-6w7x-8y9z0a1b2c3d",
+"text": "Un bucle que es repeteix moltes vegades"
+},
+{
+"id": "opt_9p0q1r2s-3t4u-5v6w-7x8y-9z0a1b2c3d4e",
+"text": "Un bucle que no fa res"
+},
+{
+"id": "opt_0q1r2s3t-4u5v-6w7x-8y9z-0a1b2c3d4e5f",
+"text": "Un bucle que només s'executa una vegada"
+}
+],
+"correctOptionId": "opt_7n8o9p0q-1r2s-3t4u-5v6w-7x8y9z0a1b2c",
+"explicacio": "Exemple: while True: print('Infinit') s'executa fins que l'usuari l'atura.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.717Z",
+"updatedAt": "2026-06-22T13:32:02.717Z"
+},
+{
+"id": "q_1e2f3g4h-5i6j-4k7l-8m9n-0o1p2q3r4s5t",
+"categoria": "vermell",
+"pregunta": "Com s'accedeix a cada element d'una llista en un bucle for?",
+"opcions": [
+{
+"id": "opt_1r2s3t4u-5v6w-7x8y-9z0a-1b2c3d4e5f6g",
+"text": "for element in llista:"
+},
+{
+"id": "opt_2s3t4u5v-6w7x-8y9z-0a1b-2c3d4e5f6g7h",
+"text": "for i = 0 to len(llista):"
+},
+{
+"id": "opt_3t4u5v6w-7x8y-9z0a-1b2c-3d4e5f6g7h8i",
+"text": "foreach llista as element:"
+},
+{
+"id": "opt_4u5v6w7x-8y9z-0a1b-2c3d-4e5f6g7h8i9j",
+"text": "for (element in llista):"
+}
+],
+"correctOptionId": "opt_1r2s3t4u-5v6w-7x8y-9z0a-1b2c3d4e5f6g",
+"explicacio": "La sintaxi correcta és 'for element in llista:' i element pren cada valor de la llista.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+},
+{
+"id": "q_2f3g4h5i-6j7k-4l8m-9n0o-1p2q3r4s5t6u",
+"categoria": "vermell",
+"pregunta": "Què fa la funció range(5, 10)?",
+"opcions": [
+{
+"id": "opt_5v6w7x8y-9z0a-1b2c-3d4e-5f6g7h8i9j0k",
+"text": "Genera números des de 5 fins a 9"
+},
+{
+"id": "opt_6w7x8y9z-0a1b-2c3d-4e5f-6g7h8i9j0k1l",
+"text": "Genera números des de 5 fins a 10"
+},
+{
+"id": "opt_7x8y9z0a-1b2c-3d4e-5f6g-7h8i9j0k1l2m",
+"text": "Genera números 5, 6, 7, 8, 9, 10"
+},
+{
+"id": "opt_8y9z0a1b-2c3d-4e5f-6g7h-8i9j0k1l2m3n",
+"text": "Genera números 5, 10, 15..."
+}
+],
+"correctOptionId": "opt_5v6w7x8y-9z0a-1b2c-3d4e-5f6g7h8i9j0k",
+"explicacio": "range(inici, fi) inclou l'inici però exclou el fi.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.718Z",
+"updatedAt": "2026-06-22T13:32:02.718Z"
+}
+],
+"groc": [
+{
+"id": "q_3g4h5i6j-7k8l-4m9n-0o1p-2q3r4s5t6u7v",
+"categoria": "groc",
+"pregunta": "Com es defineix una funció en Python?",
+"opcions": [
+{
+"id": "opt_9z0a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+"text": "def nom_funcio():"
+},
+{
+"id": "opt_0a1b2c3d-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+"text": "function nom_funcio():"
+},
+{
+"id": "opt_1b2c3d4e-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+"text": "define nom_funcio():"
+},
+{
+"id": "opt_2c3d4e5f-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+"text": "func nom_funcio():"
+}
+],
+"correctOptionId": "opt_9z0a1b2c-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+"explicacio": "La paraula clau 'def' inicia la definició d'una funció seguida del nom i els parèntesis.",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_4h5i6j7k-8l9m-4n0o-1p2q-3r4s5t6u7v8w",
+"categoria": "groc",
+"pregunta": "Com es retorna un valor d'una funció?",
+"opcions": [
+{
+"id": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"text": "return valor"
+},
+{
+"id": "opt_4e5f6g7h-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+"text": "output valor"
+},
+{
+"id": "opt_5f6g7h8i-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+"text": "send valor"
+},
+{
+"id": "opt_6g7h8i9j-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+"text": "give valor"
+}
+],
+"correctOptionId": "opt_3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+"explicacio": "La instrucció 'return' finalitza la funció i retorna el valor especificat.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.719Z",
+"updatedAt": "2026-06-22T13:32:02.719Z"
+},
+{
+"id": "q_5i6j7k8l-9m0n-4o1p-2q3r-4s5t6u7v8w9x",
+"categoria": "groc",
+"pregunta": "Què són els paràmetres d'una funció?",
+"opcions": [
+{
+"id": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"text": "Valors que la funció rep per treballar-hi"
+},
+{
+"id": "opt_8i9j0k1l-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+"text": "Els resultats que retorna"
+},
+{
+"id": "opt_9j0k1l2m-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+"text": "Les variables internes"
+},
+{
+"id": "opt_0k1l2m3n-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+"text": "El nom de la funció"
+}
+],
+"correctOptionId": "opt_7h8i9j0k-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+"explicacio": "Els paràmetres es defineixen entre parèntesis i s'usen com a variables dins la funció.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.720Z",
+"updatedAt": "2026-06-22T13:32:02.720Z"
+},
+{
+"id": "q_6j7k8l9m-0n1o-4p2q-3r4s-5t6u7v8w9x0y",
+"categoria": "groc",
+"pregunta": "Com es crida una funció anomenada 'saludar'?",
+"opcions": [
+{
+"id": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"text": "saludar()"
+},
+{
+"id": "opt_2m3n4o5p-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+"text": "call saludar()"
+},
+{
+"id": "opt_3n4o5p6q-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+"text": "run saludar()"
+},
+{
+"id": "opt_4o5p6q7r-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+"text": "saludar"
+}
+],
+"correctOptionId": "opt_1l2m3n4o-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+"explicacio": "Per executar una funció s'escriu el seu nom seguit de parèntesis.",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_7k8l9m0n-1o2p-4q3r-4s5t-6u7v8w9x0y1z",
+"categoria": "groc",
+"pregunta": "Què és una variable global?",
+"opcions": [
+{
+"id": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"text": "Una variable definida fora de les funcions, accessible a tot el programa"
+},
+{
+"id": "opt_6q7r8s9t-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+"text": "Una variable dins d'una funció"
+},
+{
+"id": "opt_7r8s9t0u-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+"text": "Una variable que només s'usa en bucles"
+},
+{
+"id": "opt_8s9t0u1v-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+"text": "Una variable que es pot modificar des de qualsevol lloc sense restriccions"
+}
+],
+"correctOptionId": "opt_5p6q7r8s-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+"explicacio": "Les variables globals es defineixen al nivell superior del fitxer i es poden usar dins les funcions.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_8l9m0n1o-2p3q-4r4s-5t6u-7v8w9x0y1z2a",
+"categoria": "groc",
+"pregunta": "Com es defineix una funció que no retorna cap valor?",
+"opcions": [
+{
+"id": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"text": "No cal posar 'return', o es pot posar 'return' sense valor"
+},
+{
+"id": "opt_0u1v2w3x-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+"text": "S'ha de posar 'return None'"
+},
+{
+"id": "opt_1v2w3x4y-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+"text": "S'ha de posar 'void'"
+},
+{
+"id": "opt_2w3x4y5z-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+"text": "No es pot crear una funció sense retorn"
+}
+],
+"correctOptionId": "opt_9t0u1v2w-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+"explicacio": "Si no s'escriu 'return', la funció retorna None automàticament.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.722Z",
+"updatedAt": "2026-06-22T13:32:02.722Z"
+},
+{
+"id": "q_9m0n1o2p-3q4r-4s5t-6u7v-8w9x0y1z2a3b",
+"categoria": "groc",
+"pregunta": "Què és un mòdul en Python?",
+"opcions": [
+{
+"id": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"text": "Un fitxer que conté funcions i variables que es poden importar"
+},
+{
+"id": "opt_4y5z6a7b-8c9d-0e1f-2g3h-4i5j6k7l8m9n",
+"text": "Una funció especial"
+},
+{
+"id": "opt_5z6a7b8c-9d0e-1f2g-3h4i-5j6k7l8m9n0o",
+"text": "Un tipus de dada"
+},
+{
+"id": "opt_6a7b8c9d-0e1f-2g3h-4i5j-6k7l8m9n0o1p",
+"text": "Un bucle"
+}
+],
+"correctOptionId": "opt_3x4y5z6a-7b8c-9d0e-1f2g-3h4i5j6k7l8m",
+"explicacio": "Els mòduls s'importen amb 'import' i permeten reutilitzar codi (ex: math, random).",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+},
+{
+"id": "q_0n1o2p3q-4r5s-4t6u-7v8w-9x0y1z2a3b4c",
+"categoria": "groc",
+"pregunta": "Com s'importa una funció específica d'un mòdul?",
+"opcions": [
+{
+"id": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"text": "from modul import funcio"
+},
+{
+"id": "opt_8c9d0e1f-2g3h-4i5j-6k7l-8m9n0o1p2q3r",
+"text": "import funcio from modul"
+},
+{
+"id": "opt_9d0e1f2g-3h4i-5j6k-7l8m-9n0o1p2q3r4s",
+"text": "include modul.funcio"
+},
+{
+"id": "opt_0e1f2g3h-4i5j-6k7l-8m9n-0o1p2q3r4s5t",
+"text": "use modul::funcio"
+}
+],
+"correctOptionId": "opt_7b8c9d0e-1f2g-3h4i-5j6k-7l8m9n0o1p2q",
+"explicacio": "Aquesta sintaxi importa només la funció indicada, sense necessitat de prefixar amb el nom del mòdul.",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.723Z",
+"updatedAt": "2026-06-22T13:32:02.723Z"
+}
+],
+"lila": [
+{
+"id": "q_1o2p3q4r-5s6t-4u7v-8w9x-0y1z2a3b4c5d",
+"categoria": "lila",
+"pregunta": "Com es crea una llista buida en Python?",
+"opcions": [
+{
+"id": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"text": "[]"
+},
+{
+"id": "opt_2g3h4i5j-6k7l-8m9n-0o1p-2q3r4s5t6u7v",
+"text": "{}"
+},
+{
+"id": "opt_3h4i5j6k-7l8m-9n0o-1p2q-3r4s5t6u7v8w",
+"text": "()"
+},
+{
+"id": "opt_4i5j6k7l-8m9n-0o1p-2q3r-4s5t6u7v8w9x",
+"text": "list()"
+}
+],
+"correctOptionId": "opt_1f2g3h4i-5j6k-7l8m-9n0o-1p2q3r4s5t6u",
+"explicacio": "Els claudàtors [] creen una llista buida. També es pot usar list().",
+"order": 0,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_2p3q4r5s-6t7u-4v8w-9x0y-1z2a3b4c5d6e",
+"categoria": "lila",
+"pregunta": "Com s'afegeix un element al final d'una llista?",
+"opcions": [
+{
+"id": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"text": "llista.append(element)"
+},
+{
+"id": "opt_6k7l8m9n-0o1p-2q3r-4s5t-6u7v8w9x0y1z",
+"text": "llista.add(element)"
+},
+{
+"id": "opt_7l8m9n0o-1p2q-3r4s-5t6u-7v8w9x0y1z2a",
+"text": "llista.insert(element)"
+},
+{
+"id": "opt_8m9n0o1p-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+"text": "llista.push(element)"
+}
+],
+"correctOptionId": "opt_5j6k7l8m-9n0o-1p2q-3r4s-5t6u7v8w9x0y",
+"explicacio": "El mètode append() afegeix l'element al final de la llista.",
+"order": 1,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_3q4r5s6t-7u8v-4w9x-0y1z-2a3b4c5d6e7f",
+"categoria": "lila",
+"pregunta": "Com s'accedeix al primer element d'una llista anomenada 'dades'?",
+"opcions": [
+{
+"id": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"text": "dades[0]"
+},
+{
+"id": "opt_0o1p2q3r-4s5t-6u7v-8w9x-0y1z2a3b4c5d",
+"text": "dades[1]"
+},
+{
+"id": "opt_1p2q3r4s-5t6u-7v8w-9x0y-1z2a3b4c5d6e",
+"text": "dades.first()"
+},
+{
+"id": "opt_2q3r4s5t-6u7v-8w9x-0y1z-2a3b4c5d6e7f",
+"text": "dades[ -1 ]"
+}
+],
+"correctOptionId": "opt_9n0o1p2q-3r4s-5t6u-7v8w-9x0y1z2a3b4c",
+"explicacio": "En Python, els índexs comencen a 0, per tant dades[0] és el primer element.",
+"order": 2,
+"createdAt": "2026-06-22T13:32:02.724Z",
+"updatedAt": "2026-06-22T13:32:02.724Z"
+},
+{
+"id": "q_4r5s6t7u-8v9w-4x0y-1z2a-3b4c5d6e7f8g",
+"categoria": "lila",
+"pregunta": "Com es crea un diccionari buit?",
+"opcions": [
+{
+"id": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"text": "{}"
+},
+{
+"id": "opt_4s5t6u7v-8w9x-0y1z-2a3b-4c5d6e7f8g9h",
+"text": "[]"
+},
+{
+"id": "opt_5t6u7v8w-9x0y-1z2a-3b4c-5d6e7f8g9h0i",
+"text": "()"
+},
+{
+"id": "opt_6u7v8w9x-0y1z-2a3b-4c5d-6e7f8g9h0i1j",
+"text": "dict()"
+}
+],
+"correctOptionId": "opt_3r4s5t6u-7v8w-9x0y-1z2a-3b4c5d6e7f8g",
+"explicacio": "Les claus {} creen un diccionari buit, o també dict().",
+"order": 3,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_5s6t7u8v-9w0x-4y1z-2a3b-4c5d6e7f8g9h",
+"categoria": "lila",
+"pregunta": "Com s'accedeix al valor associat a la clau 'edat' en un diccionari 'persona'?",
+"opcions": [
+{
+"id": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"text": "persona['edat']"
+},
+{
+"id": "opt_8w9x0y1z-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+"text": "persona.edat"
+},
+{
+"id": "opt_9x0y1z2a-3b4c-5d6e-7f8g-9h0i1j2k3l4m",
+"text": "persona[edat]"
+},
+{
+"id": "opt_0y1z2a3b-4c5d-6e7f-8g9h-0i1j2k3l4m5n",
+"text": "persona.get(edat)"
+}
+],
+"correctOptionId": "opt_7v8w9x0y-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+"explicacio": "Els diccionaris s'accedeixen per claus entre claudàtors i cometes.",
+"order": 4,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_6t7u8v9w-0x1y-4z2a-3b4c-5d6e7f8g9h0i",
+"categoria": "lila",
+"pregunta": "Què és una tupla i en què es diferencia d'una llista?",
+"opcions": [
+{
+"id": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"text": "La tupla és immutable (no es pot modificar) i s'escriu amb ()"
+},
+{
+"id": "opt_2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+"text": "La tupla és mutable i s'escriu amb []"
+},
+{
+"id": "opt_3b4c5d6e-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+"text": "No hi ha diferència"
+},
+{
+"id": "opt_4c5d6e7f-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+"text": "La tupla només pot tenir números"
+}
+],
+"correctOptionId": "opt_1z2a3b4c-5d6e-7f8g-9h0i-1j2k3l4m5n6o",
+"explicacio": "Les tuples són immutables, mentre que les llistes es poden modificar.",
+"order": 5,
+"createdAt": "2026-06-22T13:32:02.725Z",
+"updatedAt": "2026-06-22T13:32:02.725Z"
+},
+{
+"id": "q_7u8v9w0x-1y2z-4a3b-4c5d-6e7f8g9h0i1j",
+"categoria": "lila",
+"pregunta": "Com s'obté la longitud d'una llista?",
+"opcions": [
+{
+"id": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"text": "len(llista)"
+},
+{
+"id": "opt_6e7f8g9h-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+"text": "llista.length()"
+},
+{
+"id": "opt_7f8g9h0i-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+"text": "llista.size()"
+},
+{
+"id": "opt_8g9h0i1j-2k3l-4m5n-6o7p-8q9r0s1t2u3v",
+"text": "count(llista)"
+}
+],
+"correctOptionId": "opt_5d6e7f8g-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+"explicacio": "La funció len() retorna el nombre d'elements de la llista.",
+"order": 6,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+},
+{
+"id": "q_8v9w0x1y-2z3a-4b4c-5d6e-7f8g9h0i1j2k",
+"categoria": "lila",
+"pregunta": "Com s'elimina l'últim element d'una llista?",
+"opcions": [
+{
+"id": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"text": "llista.pop()"
+},
+{
+"id": "opt_0i1j2k3l-4m5n-6o7p-8q9r-0s1t2u3v4w5x",
+"text": "llista.remove()"
+},
+{
+"id": "opt_1j2k3l4m-5n6o-7p8q-9r0s-1t2u3v4w5x6y",
+"text": "llista.delete()"
+},
+{
+"id": "opt_2k3l4m5n-6o7p-8q9r-0s1t-2u3v4w5x6y7z",
+"text": "del llista[-1]"
+}
+],
+"correctOptionId": "opt_9h0i1j2k-3l4m-5n6o-7p8q-9r0s1t2u3v4w",
+"explicacio": "pop() sense arguments elimina i retorna l'últim element. També es pot usar del llista[-1].",
+"order": 7,
+"createdAt": "2026-06-22T13:32:02.726Z",
+"updatedAt": "2026-06-22T13:32:02.726Z"
+}
+]
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
